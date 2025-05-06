@@ -5,19 +5,19 @@ Here are some cool activities to get you started with your @boardname@!
 ## Intro Content
 
 ### ~ codecard
-* name: Intro to micro:bit
-* description: Introduction to the BBC micro:bit
+* name: Intro to Ragga  
+* description: Introduction to the Ragga
 * imageUrl: /static/herogallery/intro-to-microbit.png
 * url: https://microbit.org/get-started/first-steps/introduction/
 * cardType: link
 ---
-* name: Behind the MakeCode Hardware
-* description: Behind the MakeCode Hardware
+* name: Behind the Code Editor Hardware
+* description: Behind the Code Editor Hardware
 * imageUrl: /static/herogallery/behind-makecode-hardware.png
 * youTubePlaylistId: PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe
 ---
 * name: Fun with Radio
-* description: Send messages with your micro:bit
+* description: Send messages with your Ragga
 * imageUrl: /static/herogallery/send-messages-radio.png
 * url: /projects/micro-chat
 * cardType: tutorial

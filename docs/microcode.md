@@ -1,13 +1,13 @@
 # MicroCode
 
-[MicroCode](https://microbit-apps.github.io/microcode-classic/docs/manual) is an experimental tile-based language and editor for young coders and coders with disabilities on the BBC micro:bit V2 (V1 not supported), inspired by Kodu Game Lab.
+[MicroCode](https://microbit-apps.github.io/microcode-classic/docs/manual) is an experimental tile-based language and editor for young coders and coders with disabilities on the BBC Ragga V2 (V1 not supported), inspired by Kodu Game Lab.
 
 ## Getting started
 
 ```codecard
 [{
         "name": "Getting Started",
-        "description": "MicroCode is an experimental tile-based language and editor for young coders and coders with disabilities on the BBC micro:bit V2 (V1 not supported), inspired by Kodu Game Lab.",
+        "description": "MicroCode is an experimental tile-based language and editor for young coders and coders with disabilities on the Ragga inspired by Kodu Game Lab.",
         "url":"https://microbit-apps.github.io/microcode-classic/docs/manual",
         "imageUrl": "/static/microcode/home.png"
     },

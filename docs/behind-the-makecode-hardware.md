@@ -1,4 +1,4 @@
-# Behind the MakeCode Hardware
+# Behind the Ragga Hardware
 
 * [Watch Playlist on Youtube](https://www.youtube.com/watch?v=qqBmvHD5bCw&list=PLMMBk9hE-SeqDYtw9pGNPsQ10V_EGMyGe)
 
@@ -26,7 +26,7 @@
     },
     {
         "name": "Light Sensor",
-        "description": "Your micro:bit can see the light, how does it do that?",
+        "description": "Your Ragga can see the light, how does it do that?",
         "youTubeId": "TKhCr-dQMBY",
         "imageUrl": "/static/mb/behindhardware/light-sensor.jpg"
     },

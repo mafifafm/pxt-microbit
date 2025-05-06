@@ -578,7 +578,7 @@
     },
     "galleries": {
         "Tutorials": "tutorials",
-        "Tutorials for the new micro:bit (V2)": "tutorials-v2",
+        "Tutorials for Ragga": "tutorials-v2",
         "Live Coding": {
             "url": "live-coding",
             "shuffle": "daily",
@@ -595,8 +595,8 @@
         "Blocks to JavaScript": "courses/blocks-to-javascript",
         "Courses": "courses",
         "Jacdac": "jacdac",
-        "MicroCode for the new micro:bit (V2)": "microcode",
-        "Behind the MakeCode Hardware": {
+        "Code editor for Ragga": "microcode",
+        "Behind the Ragga Hardware": {
             "url": "behind-the-makecode-hardware",
             "youTube": true
         },

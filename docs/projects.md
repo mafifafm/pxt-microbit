@@ -9,7 +9,7 @@
         "largeImageUrl": "/static/mb/projects/flashing-heart/sim.gif"
     },
     {
-        "name": "Tutorials for the new micro:bit (V2)",
+        "name": "Tutorials for Ragga",
         "url": "/tutorials-v2",
         "imageUrl": "/static/mb/projects/pet-hamster.png"
     },
@@ -74,12 +74,12 @@
         "imageUrl": "/static/jacdac/getting-started.jpg"
     },
     {
-        "name": "MicroCode for the new micro:bit (V2)",
+        "name": "Code editor for Ragga",
         "url": "/microcode",
         "imageUrl": "/static/microcode/home.png"
     },
     {
-        "name": "Behind the MakeCode Hardware",
+        "name": "Behind the Ragga Hardware",
         "url": "/behind-the-makecode-hardware",
         "imageUrl": "/static/mb/behindhardware/leds.jpg"
     },
@@ -109,7 +109,7 @@
 ## See Also
 
 [Tutorials](/tutorials),
-[Tutorials for the new micro:bit (V2)](/tutorials-v2),
+[Tutorials for Ragga](/tutorials-v2),
 [Live Coding](/live-coding),
 [Games](/projects/games),
 [Radio Games](/projects/radio-games),
@@ -122,8 +122,8 @@
 [Blocks to JavaScript](/courses/blocks-to-javascript),
 [Courses](/courses),
 [Jacdac](/jacdac),
-[MicroCode for the new micro:bit (V2)](/microcode),
-[Behind the MakeCode Hardware](/behind-the-makecode-hardware),
+[Code editor for Ragga](/microcode),
+[Behind the Ragga Hardware](/behind-the-makecode-hardware),
 [Science Experiments](/science-experiments),
 [Coding for Teachers](/coding-for-teachers),
 [Coding Cards](/coding-cards),

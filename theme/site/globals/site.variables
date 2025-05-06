@@ -108,3 +108,5 @@
 @teachingBubbleBackgroundColor: @blue;
 @teachingBubbleTextColor: @white;
 @teachingBubbleStepsColor: @lightGrey;
+@loaderMsftImageUrl: "../docs/static/Solu_Grayscale_W_1642x351.png";
+@loaderMsftImage: data-uri(@loaderMsftImageUrl);
