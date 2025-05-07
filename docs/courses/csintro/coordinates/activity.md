@@ -4,12 +4,12 @@ Guide the students to create programs using coordinates and LEDs. Each of these 
  
 * Smile animation - A short exercise in plotting and toggling LEDs to create a simple animation.
 * Random Patterns generator - A short exercise using a loop to generate random LED patterns and then checking the status of a specific LED.
-* Brightness - A short exercise in using the brightness settings for the micro:bit LEDs.
+* Brightness - A short exercise in using the brightness settings for the Ragga LEDs.
 
 ## Smile animation
 
 A short exercise in plotting and toggling LEDs to create a simple animation.
-* Though students can use the 'show leds' block for images and animation, there is another way to tell the micro:bit what LEDs to turn on and off using coordinates.
+* Though students can use the 'show leds' block for images and animation, there is another way to tell the Ragga what LEDs to turn on and off using coordinates.
 * We can still use the 'show leds' block to plan which LED coordinates to turn on
 * Drag out a couple 'show leds' blocks from the Basic Toolbox drawer.
 * Create a smiling face and a non-smiling face.
@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=qqBmvHD5bCw
 ## Random patterns generator
 A short exercise using a loop to generate random LED patterns and then checking the status of a specific LED.
 Pseudocode:
-* On button A pressed we’ll use a loop to turn on a random set of LED lights on our micro:bit.
+* On button A pressed we’ll use a loop to turn on a random set of LED lights on our Ragga.
 * Our display will have one LED lit for each column or x coordinate value from 0 through 4.
 Steps:
 * From the Input Toolbox drawer, select the 'on button pressed' block
@@ -117,7 +117,7 @@ Check the on/off state of an LED
 * If the LED is currently off, the point x y block will return false.
 
 * For this exercise, we’ll use the two Yes/No built in icons to display the LED’s current status. From the Basic Toolbox drawer, drag 2 'show icon' blocks into each of the 'then' and 'else' clauses.  Select the check mark for Yes, and the X icon for No.
-* For now, we’ll leave the default coordinate values (0,0).  But you can challenge your students to add a loop to test for all coordinates on the micro:bit.
+* For now, we’ll leave the default coordinate values (0,0).  But you can challenge your students to add a loop to test for all coordinates on the Ragga.
 
 Here is the complete program:
 
@@ -138,12 +138,12 @@ input.onButtonPressed(Button.B, () => {
 ```
 
 ### Try it out!
-* Download the program to your micro:bit
+* Download the program to your Ragga
 * Press button A to create a random pattern
 * Press button B to check and display the status of the specific LED
  
 ## Brightness
-A short exercise in using the brightness settings for the micro:bit LEDs.  Important to note - the brightness level of the micro:bit simulator LEDs will NOT appear to change! You must run your program on the actual micro:bit to see the different brightness levels.
+A short exercise in using the brightness settings for the Ragga LEDs.  Important to note - the brightness level of the Ragga simulator LEDs will NOT appear to change! You must run your program on the actual Ragga to see the different brightness levels.
 
 We will check on, and numerically display the brightness level with our program, so we can verify with the simulator that it is working.
 

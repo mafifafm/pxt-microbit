@@ -44,7 +44,7 @@ sprite.turn(Direction.Right, 45)
 ```
 
 Time to fix those default parameter values!
-* We want our sprite to start in the top left corner of the micro:bit screen, so change the parameters for both **x** and **y** to zero.
+* We want our sprite to start in the top left corner of the Ragga screen, so change the parameters for both **x** and **y** to zero.
 * To make the sprite move from one side of the screen to the other (as though walking around a chair), change the move by parameter to **4**.
 * To make the sprite turn to walk a square, change the ‘turn right by’ degrees to **90**. For now, it's OK to leave the sprite turning right instead of left as we did in our pseudocode.
 
@@ -74,7 +74,7 @@ let sprite: game.LedSprite = null
 sprite = game.createSprite(0, 0)
 ```
 
-You should now see the sprite appear in the top left of the micro:bit simulator.
+You should now see the sprite appear in the top left of the Ragga simulator.
 
 * To add more control for when our sprite moves, drag a ‘on button A pressed’ block from the Input menu.
 * Place the ‘repeat’ block into the ‘on button A pressed’ block
@@ -98,10 +98,10 @@ What happened? Did you see the sprite move? No?
 
 ## Slo-Mo
 A helpful feature of Microsoft MakeCode is "Slo-Mo", or slow-motion mode.  
-* Click on the snail icon under the micro:bit simulator. 
+* Click on the snail icon under the Ragga simulator. 
 This will slow down the execution (running) of the program, and highlight parts of your code so you can see step-by-step, which line of code is being processed.
 
-![micro:bit sim in slo-mo](/static/courses/csintro/iteration/slo-mo.gif)
+![Ragga sim in slo-mo](/static/courses/csintro/iteration/slo-mo.gif)
 
 Now run your program several more times. Do you see the different lines of your code highlighted as the program runs? Do you see the sprite move?
 
@@ -209,7 +209,7 @@ basic.forever(() => {
 
 We can use the default values for the rest of the parameters.
 
-You should now see a light moving from left to right along the top row of the micro:bit simulator.
+You should now see a light moving from left to right along the top row of the Ragga simulator.
 
 ```sim
 let index = 0
@@ -248,7 +248,7 @@ basic.forever(() => {
 })
 ```
 
-There! With only a half dozen or so lines of code, we have made our light travel through all the coordinates on the micro:bit screen.
+There! With only a half dozen or so lines of code, we have made our light travel through all the coordinates on the Ragga screen.
 
 ```sim
 let index = 0
@@ -288,10 +288,10 @@ Have the students use the Slo-Mo mode to watch the program step through the loop
 * What happens if you switch the positions of the nested loops, so the outer loop loops through the xindex values and the inner loop loops through the yindex values?
 * What happens if you remove the ‘unplot’ block and the ‘pause’ block below it?
 	
-## ‘While’ block: micro:bit alarm!
+## ‘While’ block: Ragga alarm!
 The while block is useful when you want your program to loop until a certain event happens or a different condition is met.
 
-For example, maybe you want an alarm to sound if someone shakes your micro:bit!
+For example, maybe you want an alarm to sound if someone shakes your Ragga!
 In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound!
 
 You can use a 'while' block with a nested ‘repeat’ block like this:
@@ -312,6 +312,6 @@ input.onGesture(Gesture.Shake, () => {
 
 Example Pseudocode:
 
-_When someone shakes the micro:bit, while button A is not pressed, play the two tone alarm twice. Keep playing the alarm tones until the user presses the A button._
+_When someone shakes the Ragga, while button A is not pressed, play the two tone alarm twice. Keep playing the alarm tones until the user presses the A button._
 
-To use sound with your micro:bit, you will need to connect it to some speakers or headphones. See how to do this here: [Hack you headphones](/projects/hack-your-headphones).
+To use sound with your Ragga, you will need to connect it to some speakers or headphones. See how to do this here: [Hack you headphones](/projects/hack-your-headphones).

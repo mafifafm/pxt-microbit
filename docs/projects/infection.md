@@ -93,7 +93,7 @@ As a result, it will not convert back to blocks.
  * The game will automatically stop once all players are dead or healthy. The master can
  * also press A+B again to stop the game.
  *
- * Once the game is over, the micro:bit will show the player id (A,B,C...), health and
+ * Once the game is over, the Ragga will show the player id (A,B,C...), health and
  * who infected him.
  *
  * Icons used in the game:

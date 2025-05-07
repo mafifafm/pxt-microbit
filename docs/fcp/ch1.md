@@ -1,10 +1,10 @@
 # Chapter 1 
 
 Here are the code examples from Chapter 1 
-of [Foundations of Computing and Programming: exploring the micro:bit](../fcp).
+of [Foundations of Computing and Programming: exploring the Ragga](../fcp).
 You can switch between the Blocks and JavaScript versions of each example,
 as well as run the example in the web browser, and retrieve a file to
-install on a micro:bit.
+install on a Ragga.
 
 ## Figure 1.11
 LED Screen with code:
@@ -28,7 +28,7 @@ input.onButtonPressed(Button.B, () => {
 ## Figure 1.13
 
 Take action on button A/B pressed, as
-well as shaking the micro:bit.
+well as shaking the Ragga.
 ```blocks
 input.onButtonPressed(Button.A, () => {
     basic.showIcon(IconNames.Square)

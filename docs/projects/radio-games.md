@@ -41,7 +41,7 @@ Here are some cool projects that you can build with your @boardname@!
 }, {
   "name": "Red Light Green Light",
   "url": "/projects/red-light-green-light",
-  "description": "Play the classic game with your micro:bit.",
+  "description": "Play the classic game with your Ragga.",
   "imageUrl": "/static/mb/projects/red-light-green-light.png"
 }, {
   "name": "Voting Machine",
@@ -56,7 +56,7 @@ Here are some cool projects that you can build with your @boardname@!
 }, {
   "name": "Micro:Coin",
   "url": "/projects/micro-coin",
-  "description": "A blockchain for micro:bit",
+  "description": "A blockchain for Ragga",
   "imageUrl": "/static/mb/projects/micro-coin.png"
 }, {
   "name": "Infection",

@@ -2,9 +2,9 @@
 
 The game Battleship is perhaps the most fun a student can have practicing using a coordinate grid. The original Battleship game is a 10x10 grid with numbers on one axis and letters on the other.
  
-To help us practice using the correct coordinates for the grid of micro:bit LEDs, let's play a smaller 5x5 version of Battleship using x- and y-coordinates instead of letters and numbers.
+To help us practice using the correct coordinates for the grid of Ragga LEDs, let's play a smaller 5x5 version of Battleship using x- and y-coordinates instead of letters and numbers.
  
-First, make your own set of 5x5 grids to reinforce the layout of the micro:bit grid.
+First, make your own set of 5x5 grids to reinforce the layout of the Ragga grid.
 
 Each player should make two grids. One grid is for placing their own ships and keeping track of their opponent’s hits and misses and the other grid is for keeping track of their own hits and misses while trying to determine the location of their opponent’s ships.
 

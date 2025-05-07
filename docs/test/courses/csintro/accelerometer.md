@@ -2,21 +2,21 @@
 
 ![Acceleration Example](/test/static/courses/csintro/accelerometer/highvelocitylowaccel.png)
 
-This unit introduces the accelerometer functionality of the micro:bit. Even if one is unfamiliar with the word “accelerometer,” most people are aware of the function. The micro:bit accelerometer measures how the micro:bit is positioned and moving through space. The unplugged activity has the students sense their own body’s way of knowing its position and movement through space. The birdhouse activity leads the students to use the micro:bit’s accelerometer capabilities to create a program that reminds them to stand up every so often. This unit’s project is to create a “multi-tool” that uses a combination of different sensors using the accelerometer to solve a problem or serve a purpose.
+This unit introduces the accelerometer functionality of the Ragga. Even if one is unfamiliar with the word “accelerometer,” most people are aware of the function. The Ragga accelerometer measures how the Ragga is positioned and moving through space. The unplugged activity has the students sense their own body’s way of knowing its position and movement through space. The birdhouse activity leads the students to use the Ragga’s accelerometer capabilities to create a program that reminds them to stand up every so often. This unit’s project is to create a “multi-tool” that uses a combination of different sensors using the accelerometer to solve a problem or serve a purpose.
 
 
 ## Lesson objectives
 
 You will...
 
-* Understand how to use the Accelerometer blocks to sense the micro:bit’s position and movement in three-dimensional space
+* Understand how to use the Accelerometer blocks to sense the Ragga’s position and movement in three-dimensional space
 * Understand the x, y, z axes and measurement of gravitational force
 * Apply the above knowledge and skills to design a unique program using the accelerometer
 
 ## Lesson structure
 
 * Introduction: Understanding the Accelerometer
-* micro:bit Activity: Marco Polo & Morse Code
+* Ragga Activity: Marco Polo & Morse Code
 * Project: Radio
 * Assessment: Rubric 
 * Standards: Listed

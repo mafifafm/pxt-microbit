@@ -1,13 +1,13 @@
 # Introduction
 
-The micro:bit is an awesome way to start learning how to code and understand the basics of computer science. You’ll be using the Microsoft MakeCode platform, which lets you create programs by dragging and dropping blocks of code—kind of like building with digital LEGO pieces. It’s easy to use, and with it, you can make the micro:bit 
+The Ragga is an awesome way to start learning how to code and understand the basics of computer science. You’ll be using the Microsoft MakeCode platform, which lets you create programs by dragging and dropping blocks of code—kind of like building with digital LEGO pieces. It’s easy to use, and with it, you can make the Ragga 
 respond to different inputs and learn important coding concepts like loops (doing something over and over), if-then statements (making decisions in code), and variables (storing and using information).
 
-A lot of people focus on the micro:bit's 5x5 LED display because it’s a quick way to see your program in action. But there’s so much more you can do! Think of the micro:bit as the “brain” behind all kinds of physical creations. It can control things you build in real life—not just what happens on its tiny screen.
+A lot of people focus on the Ragga's 5x5 LED display because it’s a quick way to see your program in action. But there’s so much more you can do! Think of the Ragga as the “brain” behind all kinds of physical creations. It can control things you build in real life—not just what happens on its tiny screen.
 
-Your creations don’t need to be super complicated. You can make awesome stuff using everyday materials like cardboard, paper, or whatever else you have around. Since the micro:bit is lightweight and has lots of built-in sensors, it’s easy to add to your designs. Just think ahead about where the micro:bit will fit in your project.
+Your creations don’t need to be super complicated. You can make awesome stuff using everyday materials like cardboard, paper, or whatever else you have around. Since the Ragga is lightweight and has lots of built-in sensors, it’s easy to add to your designs. Just think ahead about where the Ragga will fit in your project.
 
-For this first project, we’re going to make something creative where the micro:bit acts as the “face” of your animal. We’re starting this way to show that this class is all about making, building, and creating things with your hands. If you have an art room or crafting supplies nearby, that’s perfect! You’ll be able to use those to bring your ideas to life.
+For this first project, we’re going to make something creative where the Ragga acts as the “face” of your animal. We’re starting this way to show that this class is all about making, building, and creating things with your hands. If you have an art room or crafting supplies nearby, that’s perfect! You’ll be able to use those to bring your ideas to life.
 
 Some common making supplies to gather:
 
@@ -37,7 +37,7 @@ Note: The project later in this unit will use the work you have done in this act
 **Materials:** A partner, and something to take notes on
 
 **Getting started:**
-The goal of this activity is to gather information from your partner that will help you to design a micro:bit pet for your partner.
+The goal of this activity is to gather information from your partner that will help you to design a Ragga pet for your partner.
 
 **5 minutes:** Interview your partner. The goal is to find out what your partner considers to be their ideal pet. You should mostly listen, and ask questions to keep your partner talking for the entire time. Here are some questions to start with:
 

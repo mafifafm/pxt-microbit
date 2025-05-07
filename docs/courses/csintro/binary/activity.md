@@ -5,7 +5,7 @@ Guide the students through building a binary transmogrifier (converter) that con
 ![Transmogrifier cartoon](/static/courses/csintro/binary/transmogrifier.png)
 Calvin & Hobbes
 
-Tell the students that they will be building a binary transmogrifier with the micro:bit. 
+Tell the students that they will be building a binary transmogrifier with the Ragga. 
 The user will be able to use the buttons to enter binary 0s and 1s and will be able to press A+B at any time to display the decimal equivalent of the number that has been entered. 
 
 ## Create the Variables
@@ -22,7 +22,7 @@ They should also create a string variable to hold the current binary number.
 When the program starts up, you should initialize your variables to starting values. 
 * `decimal` = `0`
 * `binary` = `""` (empty string)
-This also tells the micro:bit what type of variable it is. Use the empty string value found in the **Text** toolbox drawer, under the **Advanced** menu.
+This also tells the Ragga what type of variable it is. Use the empty string value found in the **Text** toolbox drawer, under the **Advanced** menu.
 
 ![Select text on block menu](/static/courses/csintro/binary/select-text-blocks.png)
 
@@ -31,7 +31,7 @@ let binary = ""
 let decimal = 0
 ```
 
-By setting the binary variable to an initial value of “ “ you tell the micro:bit that it is a string variable: a literal string of characters. This is important because you will be adding to this string character by character.
+By setting the binary variable to an initial value of “ “ you tell the Ragga that it is a string variable: a literal string of characters. This is important because you will be adding to this string character by character.
 
 ## Transmogrify Me!
 We are ready to start entering numbers. Remember that binary numbers are calculated based on the number of place values (“bits”) and as you enter 1s and 0s, the value changes. One way to calculate the decimal value is to wait until the user presses A+B, and then calculate the entire number based on the value of the string.
@@ -52,7 +52,7 @@ Binary  Decimal Binary  Decimal
   110      6     1101     13
   111      7     1110     14
 ```
-For example, imagine you are the micro:bit. If the first number the human enters is a 1, you automatically know the new decimal value is a 1. If the second number that is entered is a 0, then your decimal value goes from 1 to 2. However, if the second number is also a 1, then your new decimal value goes from 1 to 3.
+For example, imagine you are the Ragga. If the first number the human enters is a 1, you automatically know the new decimal value is a 1. If the second number that is entered is a 0, then your decimal value goes from 1 to 2. However, if the second number is also a 1, then your new decimal value goes from 1 to 3.
 
 At that point, you either have a 10, or a 11 in your binary string. Let’s take 10 as an example. The decimal value of binary 10 is 2. If the third number entered is a 0, then your new decimal value goes from 2 to 4. If the third number entered is a 1, then your new decimal value goes from 2 to 5. 
 

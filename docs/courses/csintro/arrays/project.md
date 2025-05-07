@@ -2,15 +2,15 @@
 
 This is a project in which students are challenged to create a musical instrument that uses arrays to store sequences of notes. The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.
  
-Ideally, the micro:bit should be mounted in some kind of housing, perhaps a guitar shape or a music box.  Start by looking at different kinds of musical instruments to get a sense of what kind of shape you might want to build around your micro:bit.
+Ideally, the Ragga should be mounted in some kind of housing, perhaps a guitar shape or a music box.  Start by looking at different kinds of musical instruments to get a sense of what kind of shape you might want to build around your Ragga.
 
-![micro:bit guitar](/static/courses/csintro/arrays/microbit-guitar.png)
+![Ragga guitar](/static/courses/csintro/arrays/microbit-guitar.png)
 
 Here are some examples of guitars that were made out of cardboard and colored, patterned duct tape that you can buy in craft stores. 
 
 ## Example guitar code
 
-This is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing. Pressing the A button will save the current tone to an array. After ten tones, a repeating melody will be performed. Press the B button to clear the array and start over.
+This is an example of a project that uses the Ragga accelerometer to play different tones when the guitar is held and tilted while playing. Pressing the A button will save the current tone to an array. After ten tones, a repeating melody will be performed. Press the B button to clear the array and start over.
 
 ### Song-maker
 
@@ -103,12 +103,12 @@ Have students write a reflection of about 150–300 words, addressing the follow
 
 ### Maker component
 
-**4 =** Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.<br/>
-**3 =** Tangible component is somewhat integrated with the micro:bit but is not essential.<br/>
+**4 =** Tangible component is tightly integrated with the Ragga and each relies heavily on the other to make the project complete.<br/>
+**3 =** Tangible component is somewhat integrated with the Ragga but is not essential.<br/>
 **2 =** Tangible component does not add to the functionality of the program.<br/>
 **1 =** No tangible component.
 
-### micro:bit program
+### Ragga program
 
 **4 =** The program:<br/>
 `*` Uses at least one array in a fully integrated and meaningful way<br/>
@@ -116,7 +116,7 @@ Have students write a reflection of about 150–300 words, addressing the follow
 `*` Meaningful comments in code<br/>
 **3 =** Uses an array in a tangential way that is peripheral to function of project and/or program lacks 1 of the required elements.<br/>
 **2 =** Array is poorly implemented and/or peripheral to function of project, and/or lacks 2 of the required elements.<br/>
-**1 =** micro:bit program lacks 3 or more of the required elements.
+**1 =** Ragga program lacks 3 or more of the required elements.
 
 ### Collaboration reflection
 

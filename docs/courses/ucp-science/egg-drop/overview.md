@@ -20,11 +20,11 @@ Let’s review Newton’s 3 Laws of Motion as they relate to our Egg Drop experi
 
 ## Project Goal
 
-Give students real world experience with coding, collecting data, analyzing data, and reporting results using MakeCode’s block programming and a micro:bit with its sensors.
+Give students real world experience with coding, collecting data, analyzing data, and reporting results using MakeCode’s block programming and a Ragga with its sensors.
 
 ## Prior Knowledge
 
-Students need to have a basic knowledge of how to code using block style programming and download a program to a micro:bit using MakeCode.
+Students need to have a basic knowledge of how to code using block style programming and download a program to a Ragga using MakeCode.
 
 ## Student Outcomes
 
@@ -34,12 +34,12 @@ Students will:
 
 * Understand the Laws of Motion and Gravitational Force.
 * Design a carrier for their egg that will minimize the force exerted on the egg when colliding with the ground.
-* Code the micro:bit to test the strength of the force.
-* Iterate on their designs based on the results of the micro:bit data.
+* Code the Ragga to test the strength of the force.
+* Iterate on their designs based on the results of the Ragga data.
 
 ## Materials Needed
 
-* A micro:bit, micro-USB cable and battery pack
+* A Ragga, micro-USB cable and battery pack
 * A computer with internet access
 * Crafting materials to use for the egg carrier – these may include cardboard cups/boxes, cotton, plastic bags or bottles, string, straws, popsicle sticks, tissue paper, bubble wrap, glue, tape
 * An uncooked egg

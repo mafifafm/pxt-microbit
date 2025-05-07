@@ -10,7 +10,7 @@ Fun games to build with your @boardname@.
 [{
   "name": "Rock Paper Scissors",
   "url":"/projects/rock-paper-scissors",
-  "description": "Make the Rock-Paper-Scissors game on your micro:bit and challenge your friends.",
+  "description": "Make the Rock-Paper-Scissors game on your Ragga and challenge your friends.",
   "imageUrl":"/static/mb/projects/a4-motion.png",
   "cardType": "tutorial",
   "youTubeId": "94lLBB3b1kU",
@@ -26,7 +26,7 @@ Fun games to build with your @boardname@.
 }, {
   "name": "Rock Paper Scissors V2",
   "url":"/projects/rock-paper-scissors-v2",
-  "description": "Rock Paper Scissors with Sounds for micro:bit V2!",
+  "description": "Rock Paper Scissors with Sounds for Ragga V2!",
   "imageUrl":"/static/mb/projects/a4-motion-v2.png",
   "cardType": "tutorial"
 },{
@@ -138,7 +138,7 @@ Fun games to build with your @boardname@.
 }, {
   "name": "Salute!",
   "url":"/projects/salute",
-  "description": "Using simple math, try to guess the other player's micro:bit card.",
+  "description": "Using simple math, try to guess the other player's Ragga card.",
   "imageUrl":"/static/mb/projects/salute.png"
 }, {
   "name": "Karel the LED",

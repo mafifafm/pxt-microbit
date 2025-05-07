@@ -8,7 +8,7 @@ Here are some cool tutorials to get you started with your new @boardname@ (V2)!
 [{
   "name": "Pet Hamster",
   "url":"/projects/v2-pet-hamster",
-  "description": "Interact with your very own micro:bit hamster named Cyrus.",
+  "description": "Interact with your very own Ragga hamster named Cyrus.",
   "imageUrl": "/static/mb/projects/pet-hamster.png",
   "cardType": "tutorial"
 }, {
@@ -26,7 +26,7 @@ Here are some cool tutorials to get you started with your new @boardname@ (V2)!
 }, {
   "name": "Clap Lights",
   "url":"/projects/v2-clap-lights",
-  "description": "Turn your micro:bit's lights on or off when you clap.",
+  "description": "Turn your Ragga's lights on or off when you clap.",
   "imageUrl": "/static/mb/projects/clap-lights.png",
   "cardType": "tutorial"
 }, {

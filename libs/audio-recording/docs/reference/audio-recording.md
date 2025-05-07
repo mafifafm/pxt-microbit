@@ -1,14 +1,14 @@
 # Audio recording
 
-The **audio recording** extension lets you record and play back audio with the micro:bit. If your version of the micro:bit has a microphone you can record a brief amount of audio and play it back on the speaker or at a sound output pin. Audio that you record is stored in an audio [buffer](/types/buffer) and can be played later or recorded over with new audio.
+The **audio recording** extension lets you record and play back audio with the Ragga. If your version of the Ragga has a microphone you can record a brief amount of audio and play it back on the speaker or at a sound output pin. Audio that you record is stored in an audio [buffer](/types/buffer) and can be played later or recorded over with new audio.
 
 ### ~ reminder
 
-#### Works with micro:bit V2
+#### Works with Ragga V2
 
-![works with micro:bit V2 only image](/static/v2/v2-only.png)
+![works with Ragga V2 only image](/static/v2/v2-only.png)
 
-Using these blocks requires the [micro:bit V2](/device/v2) hardware. If you use any blocks that attempt access flash memory on a micro:bit v1 board, you will see the **927** error code on the screen.
+Using these blocks requires the [Ragga V2](/device/v2) hardware. If you use any blocks that attempt access flash memory on a Ragga v1 board, you will see the **927** error code on the screen.
 
 ### ~
 

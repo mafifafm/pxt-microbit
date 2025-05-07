@@ -2,7 +2,7 @@
 
 ### @explicitHints true
 
-## Code a micro:bit emoji! @unplugged
+## Code a Ragga emoji! @unplugged
 
 Code the buttons on the @boardname@ to show that it's happy or sad.
 (Want to learn how the buttons works? [Watch this video](https://youtu.be/t_Qujjd_38o)).

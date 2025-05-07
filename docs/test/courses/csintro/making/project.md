@@ -8,16 +8,16 @@ It might make sense to sketch a few designs on paper first, then consult with yo
 
 Build a micro:pet that:
 * Matches your partner’s needs
-* Supports the micro:bit and its battery pack
-* Allows you to easily access the micro:bit to turn it on and off
+* Supports the Ragga and its battery pack
+* Allows you to easily access the Ragga to turn it on and off
 
-Your design should use whatever materials are available to support the micro:bit so that its face is showing. You can be creative and decide how to mount the board, and how to decorate your critter.
+Your design should use whatever materials are available to support the Ragga so that its face is showing. You can be creative and decide how to mount the board, and how to decorate your critter.
 
 Think about the following questions when you construct it:
 
 * Will it be an animal? A plant? A robot? A bug?
 * Will it have any moving parts?
-* If it moves, how can you hold the micro:bit securely?
+* If it moves, how can you hold the Ragga securely?
 
 Some photos of sample micro:pets below!
 
@@ -26,7 +26,7 @@ Some photos of sample micro:pets below!
 * Find a way to make part of the animal move.
 * Give your animal a natural habitat.
 * Create a way to carry your animal.
-* Create an animal that reacts when you pet it or move it (find a way to detect when the micro:bit is moved or when its position changes in a certain way.)
+* Create an animal that reacts when you pet it or move it (find a way to detect when the Ragga is moved or when its position changes in a certain way.)
 
 ## Journal Entry
 After you've completed your project, take some time to write in your design journal! You might write about some of the following:

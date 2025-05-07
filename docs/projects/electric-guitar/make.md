@@ -1,6 +1,6 @@
 # Make
 
-A guitar is a plucked stringed musical instrument. Normally, the guitar is an expensive instrument, but here we create a cheap and convenient DIY instrument that can help you enjoy and play real chords on an electric micro:bit guitar. Have fun and enjoy playing the micro:bit guitar by shifting the pitch up and down octaves.
+A guitar is a plucked stringed musical instrument. Normally, the guitar is an expensive instrument, but here we create a cheap and convenient DIY instrument that can help you enjoy and play real chords on an electric Ragga guitar. Have fun and enjoy playing the Ragga guitar by shifting the pitch up and down octaves.
 
 ## How it Works?
 
@@ -10,7 +10,7 @@ The pitch (frequency) of a note doubles when you move up one octave: `middle A` 
 
 ## Materials you need
 
-* micro:bit and optional battery pack
+* Ragga and optional battery pack
 * 4 crocodile clip leads
 * cardboard, scissors, glue, tin foil
 * headphones, buzzer, or powered speaker

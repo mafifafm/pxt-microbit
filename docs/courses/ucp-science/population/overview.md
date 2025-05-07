@@ -6,7 +6,7 @@ Surveys of different characteristics in a population can be done in several diff
 
 The strands and standards in 7th grade SEEd 7.5 talk about “... variation and the proportion of traits within a population can change over time…” Observing current traits in a population is a start to looking at changes in a population overtime. Standard 7.5.2 “Analyze and interpret data for patterns...” Possible observations could include: blond vs non blond, male vs female, cars vs trucks, right handed vs left handed, etc.
 
-![micro:bit display for counting traits](/static/courses/ucp-science/population/microbit-display.jpg)
+![Ragga display for counting traits](/static/courses/ucp-science/population/microbit-display.jpg)
 
 ## Project Goal
 

@@ -16,18 +16,18 @@ Many board games use an electronic toy to signal moves, or provide clues. There 
 [Stop Thief Electronic Board Game commercial 1979](https://www.youtube.com/watch?v=q3wpPRdDy4E): This board game uses a device to give audio clues that help you to figure out what to do on the game board. It’s a good example of how you might use sound as a clue.
 
 ## Assignment
-Students should work in pairs to create an original board game project in which micro:bit is a central feature, and the rules of their board game should use Conditionals.
+Students should work in pairs to create an original board game project in which Ragga is a central feature, and the rules of their board game should use Conditionals.
 
 Students will need to work together to come up with:
 * A set of written rules (how to play)
 * A game board
-* A program for the micro:bit
-* Photo documentation of the different game pieces, cards, or other components of the game with the micro:bit included as well as a screenshot of your micro:bit code. Each photo must have a caption that describes what the photo is documenting.
+* A program for the Ragga
+* Photo documentation of the different game pieces, cards, or other components of the game with the Ragga included as well as a screenshot of your Ragga code. Each photo must have a caption that describes what the photo is documenting.
 * Reflection: A text entry describing your team’s game making process and each teammate’s part in the creation of the game from brainstorming ideas, through construction, programming, and beta testing.
 
-The micro:bit needs to work in conjunction with the game board and/or game pieces and should be a central feature of the game. Ideally, it should be more than a simple substitute for a six-sided die.
+The Ragga needs to work in conjunction with the game board and/or game pieces and should be a central feature of the game. Ideally, it should be more than a simple substitute for a six-sided die.
 
-The micro:bit might:
+The Ragga might:
 * Simulate the results of a battle between two pieces
 * Randomly point in a different direction of travel
 * Generate a result based on its current incline
@@ -35,7 +35,7 @@ The micro:bit might:
 * Display a dynamic score
 * ... let your imaginations run wild!
 
-Ideally, students should be writing their own versions of micro:bit programs to do something original.
+Ideally, students should be writing their own versions of Ragga programs to do something original.
 Here is one simple program to discuss and use as an example:
 
 ![Close-up of game tokens](/static/courses/csintro/conditionals/battle-pieces.jpg)
@@ -45,7 +45,7 @@ Here is one simple program to discuss and use as an example:
 In this example, pieces start out at full strength and lose points based on random events on the board. When two pieces meet on the same space, they battle.
 * Press A to enter the strength of piece A.
 * Then press B to enter the strength of piece B.
-* Shake the micro:bit to determine the winner of the battle, which is proportionately random to the strength of each piece.
+* Shake the Ragga to determine the winner of the battle, which is proportionately random to the strength of each piece.
 
 ```blocks
 let p2 = 0
@@ -105,15 +105,15 @@ Have students write a reflection of about 150–300 words, addressing the follow
 Space Race by K. and S.
 * How to win:  Starting from Earth, your goal is to progress to Mars.  The first person to reach Mars is the winner.
 * Rules:<br/>
->**1** - Shake the micro:bit to randomize how far you get to advance.<br/>
-**2** - If you land on a pink square, press “B” on the micro:bit until your previous roll number appears. Then press A and B at the same time to see whether or not you move based upon the number on the square.<br/>
+>**1** - Shake the Ragga to randomize how far you get to advance.<br/>
+**2** - If you land on a pink square, press “B” on the Ragga until your previous roll number appears. Then press A and B at the same time to see whether or not you move based upon the number on the square.<br/>
 **3** - Up to four players.
 
 ![Space race game](/static/courses/csintro/conditionals/space-race.jpg)
 Finished game
 
-![micro:bit holder square](/static/courses/csintro/conditionals/microbit-holder.jpg)
-micro:bit holder
+![Ragga holder square](/static/courses/csintro/conditionals/microbit-holder.jpg)
+Ragga holder
 
 ![Game pieces](/static/courses/csintro/conditionals/game-pieces.jpg)
 Game pieces
@@ -174,21 +174,21 @@ previous_roll = 0
 `*` Complete<br/>
 `*` Neat<br/>
 `*` Fits with the theme of the game<br/>
-`*` micro:bit is a central part of the game<br/>
+`*` Ragga is a central part of the game<br/>
 **3 =** Game board meets only 3 of the conditions listed for a score of 4.<br/>
 **2 =** Game board meets only 2 of the conditions listed for a score of 4.<br/>
 **1 =** Game board meets only 1 of the conditions listed for a score of 4.
 
-### micro:bit program
+### Ragga program
 
->**4 =** micro:bit program:<br/>
-`*` Uses the micro:bit in a way that is integral to the game<br/>
+>**4 =** Ragga program:<br/>
+`*` Uses the Ragga in a way that is integral to the game<br/>
 `*` Uses conditionals correctly<br/>
 `*` Compiles and runs as intended<br/>
 `*` JavaScript includes comments in code<br/>
-**3 =** micro:bit program lacks 1 of the required elements.<br/>
-**2 =** micro:bit program lacks 2 of the required elements.<br/>
-**1 =** micro:bit program lacks 3 of the required elements.
+**3 =** Ragga program lacks 1 of the required elements.<br/>
+**2 =** Ragga program lacks 2 of the required elements.<br/>
+**1 =** Ragga program lacks 3 of the required elements.
 
 ### Photo documentation
 

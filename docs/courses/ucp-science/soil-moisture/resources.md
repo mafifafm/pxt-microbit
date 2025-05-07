@@ -63,7 +63,7 @@ The study of ecosystems includes the interaction of organisms with each other an
 
 >Obtain and evaluate information to communicate the claim that the structure of **digital signals are a more reliable** way to store or transmit information than **analog signals**. Emphasize the basic understanding that waves can be used for communication purposes. Examples could include using vinyl record vs. digital song files, film cameras vs. digital cameras, or alcohol thermometers vs. digital thermometers.
 
-## micro:bit
+## Ragga
 
 * [Microbit.org](http://microbit.org)
 * [MakeCode.com](https://makecode.com)

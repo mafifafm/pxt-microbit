@@ -6,11 +6,11 @@
 
 ![Cartoon of the Rock Paper Scissors game](/static/mb/projects/a4-motion.png)
 
-Turn your micro:bit into a **Rock Paper Scissors** game that you can play with your friends!
+Turn your Ragga into a **Rock Paper Scissors** game that you can play with your friends!
 
 ## {Step 1 @fullscreen}
 
-We'll start our Rock Paper Scissors game when we shake 👋 our micro:bit. Add an ``||input:on shake||`` function to run code when you shake the @boardname@. Type the code below, or drag a code snippet from the ``||input:Input||`` Toolbox category.
+We'll start our Rock Paper Scissors game when we shake 👋 our Ragga. Add an ``||input:on shake||`` function to run code when you shake the @boardname@. Type the code below, or drag a code snippet from the ``||input:Input||`` Toolbox category.
 
 ```spy
 input.onGesture(Gesture.Shake, function () {
@@ -79,8 +79,8 @@ input.onGesture(Gesture.Shake, function() {
 
 ## {Step 6}
 
-Let's test your code! Press the white **SHAKE** button on the micro:bit on-screen simulator, or move your cursor quickly back and forth over the simulator. Do you see the icons for rock, paper and scissors randomly appear?  ⭐ Great job! ⭐
+Let's test your code! Press the white **SHAKE** button on the Ragga on-screen simulator, or move your cursor quickly back and forth over the simulator. Do you see the icons for rock, paper and scissors randomly appear?  ⭐ Great job! ⭐
 
 ## {Step 7}
 
-If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Once your code has been downloaded, attach your micro:bit to a battery pack and challenge another micro:bit or a human to a game of 💎 Rock, 📃 Paper, ✂️ Scissors!
+If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Once your code has been downloaded, attach your Ragga to a battery pack and challenge another Ragga or a human to a game of 💎 Rock, 📃 Paper, ✂️ Scissors!

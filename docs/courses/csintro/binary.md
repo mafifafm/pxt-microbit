@@ -15,7 +15,7 @@ Students will...
 
 * Introduction: Bits and Bytes
 * Unplugged Activity: Binary Vending Machine
-* micro:bit Activity: Binary Transmogrifier
+* Ragga Activity: Binary Transmogrifier
 * Project: Make a Binary Cash Register
 * Assessment: Rubric 
 * Standards: Listed

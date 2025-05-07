@@ -6,13 +6,13 @@
 
 Electrical impulses from the brain to the muscles can be observed, measured, and recorded as waves to show that there is a relationship between the circulatory, respiratory, muscular, and nervous systems of the human body.
 
-#### Sample micro:bit body electrical data graph
+#### Sample Ragga body electrical data graph
 
 ![Graph of body electrical waves](/static/courses/ucp-science/body-electrical/body-electrical-waves.jpg)
 
 ## Project Goal
 
-Give students real world experience with coding, collecting data, analyzing data, and reporting results using [MakeCode’s](https://makecode.com) block programming and a [micro:bit](http://microbit.org) with its sensors.
+Give students real world experience with coding, collecting data, analyzing data, and reporting results using [MakeCode’s](https://makecode.com) block programming and a [Ragga](http://microbit.org) with its sensors.
 
 ## Prior Knowledge
 

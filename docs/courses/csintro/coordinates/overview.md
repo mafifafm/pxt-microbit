@@ -24,18 +24,18 @@ Through math class, most middle school students are already familiar with coordi
 	
 ![Math coordinates](/static/courses/csintro/coordinates/math-coords.png)
 
-## Coordinate grid and JavaScript and the micro:bit
+## Coordinate grid and JavaScript and the Ragga
 
-The 5 x 5 grid of LEDs on the micro:bit represent a coordinate grid with a horizontal x-axis and a vertical y-axis. It has an origin and you can refer to the position of the LEDs with coordinate pairs.
+The 5 x 5 grid of LEDs on the Ragga represent a coordinate grid with a horizontal x-axis and a vertical y-axis. It has an origin and you can refer to the position of the LEDs with coordinate pairs.
  
-It is important however that the students understand the two major differences between the micro:bit LED grid and the coordinate grid that they are used to using in math class:
+It is important however that the students understand the two major differences between the Ragga LED grid and the coordinate grid that they are used to using in math class:
 * the origin (0,0) is in the top left corner.
 * the values of the y coordinates range from 0 through four and increase from top to bottom.
 	
 Note:
 * The values of the x coordinates range from 0 through four and increase from left to right just as they do in the coordinate grids used in math class.
 
-![micro:bit LED coordinates](/static/courses/csintro/coordinates/microbit-led-coords.png)
+![Ragga LED coordinates](/static/courses/csintro/coordinates/microbit-led-coords.png)
 
 ## Sidebar material
 

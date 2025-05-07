@@ -27,14 +27,14 @@ For example: At the store, you may have brought your own reusable bags or pay by
 
 Let the students discuss these to help them hone in on which examples best represent Booleans.
 
-A student might argue that a dimmer switch on a light or the brightness value on the micro:bit LEDs allow the lights to be in a state between on and off.  One could respond that you can classify ‘on’ as the state where any electricity at all is running through the bulb (on) versus no electricity at all (off).
+A student might argue that a dimmer switch on a light or the brightness value on the Ragga LEDs allow the lights to be in a state between on and off.  One could respond that you can classify ‘on’ as the state where any electricity at all is running through the bulb (on) versus no electricity at all (off).
  
 In programming, if you have worked with conditionals or loops, you have already worked with this type of logic: 
 * If a certain condition is true, do this, otherwise (if condition is false), do something else.
 * While a certain condition is true, do this
  
 Boolean Operators: AND, OR, and NOT
-To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement. To do this, we use what are known as Boolean operators. The three most common and the ones we will use with the micro:bit are And, Or, and Not.
+To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement. To do this, we use what are known as Boolean operators. The three most common and the ones we will use with the Ragga are And, Or, and Not.
 
 These operators can be used in conditionals and loops, like so:
 * If condition A is true AND condition B is true

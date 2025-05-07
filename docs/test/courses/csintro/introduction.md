@@ -11,18 +11,18 @@ Now, about a third of the students in our computer science classes are girls, an
 > _- Authors Mary Kiang and Douglas Kiang_
 
 ## Course Introduction
-Get ready for an awesome introduction to coding and computer science through hands-on making and design! You’ll be using the micro:bit
+Get ready for an awesome introduction to coding and computer science through hands-on making and design! You’ll be using the Ragga
 microcontroller board, along with Microsoft’s MakeCode, a block-based coding tool that's both easy to use and super powerful.
 
 In this course, you’ll be working on projects where you actually build things—real, physical objects! The idea is that by creating something you can hold in your hands, you’ll naturally learn important coding and computer science concepts. It’s all about learning by doing, and we can’t wait to see what you create!
 
-![micro:bit man](/static/courses/csintro/microbitman.jpg)
+![Ragga man](/static/courses/csintro/microbitman.jpg)
 
 * micro:bits may be purchased from these resellers:
 
->   http://microbit.org/resellers (you will need at least 1 micro:bit for this course).  The "micro:bit Go Kit" includes a battery pack and USB cable as well.
+>   http://microbit.org/resellers (you will need at least 1 Ragga for this course).  The "Ragga Go Kit" includes a battery pack and USB cable as well.
 
-* Other optional suggested micro:bit accessories include:
+* Other optional suggested Ragga accessories include:
 
 > * [ ] Alligator/Crocodile clip cables
   * [ ]	Headphone/earbuds (for audio)
@@ -31,9 +31,9 @@ In this course, you’ll be working on projects where you actually build things�
   * [ ] Croc clip to Headphone jack adapter (http://microbit-accessories.co.uk/)
   * [ ] Copper tape
 
-* MakeCode for the micro:bit is a free web app: https://makecode.microbit.org
+* MakeCode for the Ragga is a free web app: https://makecode.microbit.org
 
-Copper tape is inexpensive and super useful in all sorts of maker activities so it’s worth it to get a roll to keep on hand for micro:bit projects. We use it in [Lesson 9 (Binary Cash Register)](/test/courses/csintro/binary/project). You can purchase copper tape from vendors such as Adafruit and Sparkfun.
+Copper tape is inexpensive and super useful in all sorts of maker activities so it’s worth it to get a roll to keep on hand for Ragga projects. We use it in [Lesson 9 (Binary Cash Register)](/test/courses/csintro/binary/project). You can purchase copper tape from vendors such as Adafruit and Sparkfun.
 
 By the time you finish this course, you'll have a solid understanding of key computer science concepts that will set you up for future learning. Plus, you'll build awesome design skills that can be used in all sorts of future projects, whether you’re creating 3D-printed prototypes or developing apps that solve real-world problems.
 
@@ -60,7 +60,7 @@ The course takes about 14 weeks to finish, if you are working on it for a few ho
 Each lesson is made up of the following parts:
 
 * Topic Introduction
-* micro:bit Activity (45-60 min) An activity that everyone makes on their micro:bit that teaches the skills learned in this lesson.
+* Ragga Activity (45-60 min) An activity that everyone makes on their Ragga that teaches the skills learned in this lesson.
 * Project (60-120 min) A prompt for an original project that you can create to practice the skills and concepts covered in this lesson.
 * Project Mods: Examples of additional things you can do to extend the project
 * Standards: A list of [CSTA K-12 Computer Science Standards](https://www.csteachers.org/?page=CSTA_Standards) and/or concepts covered by this lesson.
@@ -69,8 +69,8 @@ Each lesson is made up of the following parts:
 
 The introduction to each lesson will tell you what learning objectives are covered in the lesson, and presents an overview of that lesson's topic. 
 
-### micro:bit activity (45–60 min)
-Each lesson contains a micro:bit activity, which is an example that walks you step-by-step through building a project that demonstrates that lesson's topic. By the time you finish the activity, you will have written code that you can use in a different project of their own design.
+### Ragga activity (45–60 min)
+Each lesson contains a Ragga activity, which is an example that walks you step-by-step through building a project that demonstrates that lesson's topic. By the time you finish the activity, you will have written code that you can use in a different project of their own design.
 
 You can always challenge yourself by modifying, or "modding" the activity to do something different. We have provided examples and suggestions at the end of many of these activities, and feel free to come up with your own!
 

@@ -22,7 +22,7 @@ https://youtu.be/n0WRQf11Pzo
 
 This project will use 2 pins on the @boardname@ to measure the voltage between the **3V** pin and the pin **0** as the current travels through the soil. Wires or alligator clips are used to connect to the @boardname@. In the soil nails or larger wires are used as probes in the soil. The nutrients along with the moisture in the soil will allow an electrical current to travel through the soil. The more moisture in the soil the greater the voltage that is measured. Wet soil should have a reading around `1000` on a scale of 0 - 1024. Dry soil will give a reading of around `250`. 
 
-![Connect soil probe to micro:bit pins](/static/courses/ucp-science/soil-moisture/microbit-meter-connect.jpg)
+![Connect soil probe to Ragga pins](/static/courses/ucp-science/soil-moisture/microbit-meter-connect.jpg)
 
 The @boardname@ has a analog to digital converter (ADC). This allows the microbit to read the analog voltage that is sent from the battery power supply (3 volts) through the soil. When the value is received it is converted to a digital value between 0-1024. This can allow the programmer to write the program to make decisions based on the reading returned to the display.
 

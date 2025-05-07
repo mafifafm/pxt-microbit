@@ -45,4 +45,4 @@ input.onPinPressed(TouchPin.P0, () => {
 
 ## See also
 
-[micro:bit pins](/device/pins)
+[Ragga pins](/device/pins)

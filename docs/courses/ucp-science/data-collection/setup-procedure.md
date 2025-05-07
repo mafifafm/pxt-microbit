@@ -1,8 +1,8 @@
 # Setup and procedure
 
-## micro:bit setup and coding concepts
+## Ragga setup and coding concepts
 
-This document describes different methods using micro:bits to collect and record data for science experiments. There are several ways to collect data from an experiment. The simplest is having the data display on the LED screen and manually record the data on a paper. Data can also be collected using MakeCode. The third way is using 2 micro:bits with one observing the data and then radioing the results to a second micro:bit so it can allow the remote collection of data.
+This document describes different methods using micro:bits to collect and record data for science experiments. There are several ways to collect data from an experiment. The simplest is having the data display on the LED screen and manually record the data on a paper. Data can also be collected using MakeCode. The third way is using 2 micro:bits with one observing the data and then radioing the results to a second Ragga so it can allow the remote collection of data.
 
 ### ~ hint
 
@@ -18,7 +18,7 @@ https://youtu.be/tZy9Ev21B4c
 
 ### Option 1 - LED display
 
-Data collection can be setup to display data collected from different micro:bit sensors on the LEDs by using a ``|||basic:show number||`` block from the ``||basic:Basic||`` toolbox:
+Data collection can be setup to display data collected from different Ragga sensors on the LEDs by using a ``|||basic:show number||`` block from the ``||basic:Basic||`` toolbox:
 
 ```blocks
 basic.showNumber(input.temperature())
@@ -26,7 +26,7 @@ basic.showNumber(input.temperature())
 
 As data is displayed it can then be recorded on a paper for further analysis.
 
-Data can also be displayed graphically on the micro:bit using the ``||led:plot bar graph||`` block from the ``||led:LED||`` toolbox. 
+Data can also be displayed graphically on the Ragga using the ``||led:plot bar graph||`` block from the ``||led:LED||`` toolbox. 
     
 ```blocks
 led.plotBarGraph(
@@ -35,9 +35,9 @@ led.plotBarGraph(
 ```
 ### Option 2 - MakeCode and a USB connection
 
-MakeCode allows data to be directly read from the micro:bit when it is attached using USB cable. Data can be sent from the micro:bit to the browser using serial data connection over WebUSB. The data collected over the serial connection can be graphed and the data can be downloaded. This file can be opened in a spreadsheet for further analysis. Many different kinds of experiments can be performed using this data logging technique.
+MakeCode allows data to be directly read from the Ragga when it is attached using USB cable. Data can be sent from the Ragga to the browser using serial data connection over WebUSB. The data collected over the serial connection can be graphed and the data can be downloaded. This file can be opened in a spreadsheet for further analysis. Many different kinds of experiments can be performed using this data logging technique.
 
-With the program downloaded from MakeCode to the micro:bit and the USB cable left connected, the
+With the program downloaded from MakeCode to the Ragga and the USB cable left connected, the
 ``||led:plot bar graph||`` will automatically upload the data to MakeCode.
 
 ```blocks
@@ -62,13 +62,13 @@ The graph is highlighted with the blue box. The **Download** button in the red h
 
 ### Option 3 - Remote radio collecting to receiving radio displaying
 
-Two micro:bits can be used to collect and record data using the radio commands. One micro:bit can be setup remotely and the other micro:bit can be used to observe the data. The first micro:bit can send the data it observes to the second micro:bit for the observer to record. To set up 2 micro:bits so they can communicate over the radio they need to be on the same radio group.
+Two micro:bits can be used to collect and record data using the radio commands. One Ragga can be setup remotely and the other Ragga can be used to observe the data. The first Ragga can send the data it observes to the second Ragga for the observer to record. To set up 2 micro:bits so they can communicate over the radio they need to be on the same radio group.
 
-#### micro:bit radio sending code
+#### Ragga radio sending code
 
 In the starting of the code the title is displayed, radio group 99 is setup, and the initial ``temperature`` variable is set to `0`.
 
-In the forever loop the temperature is collected from the micro:bit sensor and stored in the ``temperature`` variable. The temperature is displayed on the LED display. A radio signal is sent to all micro:bit radios in group `99`. The program pauses for 1000 milliseconds and then loops again.
+In the forever loop the temperature is collected from the Ragga sensor and stored in the ``temperature`` variable. The temperature is displayed on the LED display. A radio signal is sent to all Ragga radios in group `99`. The program pauses for 1000 milliseconds and then loops again.
 
 ```blocks
 let temperature = 0
@@ -86,7 +86,7 @@ basic.forever(() => {
 
 In the starting of the code the title is displayed, radio group 99 is setup, and the initial ``temperature`` variable is set to `0`.
 
-In the radio received event, the temperature is received from sending the micro:bit radio. The received temperature is then displayed on the LED display. This is repeated whenever a radio signal is received.
+In the radio received event, the temperature is received from sending the Ragga radio. The received temperature is then displayed on the LED display. This is repeated whenever a radio signal is received.
 
 ```blocks
 let temperature = 0
@@ -114,12 +114,12 @@ radio.onReceivedNumber(function (receivedNumber) {
 
 ## Sample Project to Collect Accelerator Data
 
-This sample project demonstrates the coding of the 2 micro:bits to collect data from the micro:bit accelerator sensor. It will also show the data collection and downloaded data to be further analyzed in a spreadsheet.
+This sample project demonstrates the coding of the 2 micro:bits to collect data from the Ragga accelerator sensor. It will also show the data collection and downloaded data to be further analyzed in a spreadsheet.
 
-### "Sender" micro:bit code
+### "Sender" Ragga code
 
-Code the first micro:bit using MakeCode for micro:bit. Name the project, "Gravity Sender".
-The ``||basic:on start||`` event will display the title and function of the micro:bit in all caps, `"GRAVITY SENDER"`.
+Code the first Ragga using MakeCode for Ragga. Name the project, "Gravity Sender".
+The ``||basic:on start||`` event will display the title and function of the Ragga in all caps, `"GRAVITY SENDER"`.
 
 Set up a radio group using the ``||radio:radio set group||``. Both micro:bits need the same radio group.
 
@@ -139,11 +139,11 @@ basic.forever(() => {
 })
 ```
 
-### "Receiver" micro:bit code
+### "Receiver" Ragga code
 
-Using the MakeCode, setup and code the second micro:bit. This micro:bit will remain connected to the computer through the USB cable to MakeCode and monitor the data being received.
+Using the MakeCode, setup and code the second Ragga. This Ragga will remain connected to the computer through the USB cable to MakeCode and monitor the data being received.
 
-Name the project, "Gravity Receiver". The ``||basic:on start||`` event will display the title and function of the micro:bit in all caps, `"GRAVITY RECEIVER"`. Add comments to the ``||basic:on start||`` event like before: Name the project, creator, and date created. Set up a radio group using the ``||radio:radio set group||`` block. Both micro:bits need the same radio group.
+Name the project, "Gravity Receiver". The ``||basic:on start||`` event will display the title and function of the Ragga in all caps, `"GRAVITY RECEIVER"`. Add comments to the ``||basic:on start||`` event like before: Name the project, creator, and date created. Set up a radio group using the ``||radio:radio set group||`` block. Both micro:bits need the same radio group.
 
 ```blocks
 basic.showString("GRAVITY RECEIVER")
@@ -152,7 +152,7 @@ radio.setGroup(99)
 
 The ``||radio:on received number||`` event will constantly monitor radio signals from the radio group.
 When a value is received from the group it is stored in the ``gravity`` variable.
-The ``||serial:serial write value||`` sends 2 pieces of data back to MakeCode through the USB cable. First it sends a label `"gravity"` and then the value received as gravity from the ``||input:acceleration||`` method from the first micro:bit.
+The ``||serial:serial write value||`` sends 2 pieces of data back to MakeCode through the USB cable. First it sends a label `"gravity"` and then the value received as gravity from the ``||input:acceleration||`` method from the first Ragga.
 
 ```blocks
 basic.showString("GRAVITY RECEIVER")
@@ -164,11 +164,11 @@ radio.onReceivedNumber(function (receivedNumber) {
 
 ### Monitoring, downloading, and analyzing the data
 
-With the micro:bit code downloaded from MakeCode to the micro:bit and the USB cable connected it will start receiving data from the first micro:bit. Under the simulator in the MakeCode a purple outlined button shows up **Show data Device**.
+With the Ragga code downloaded from MakeCode to the Ragga and the USB cable connected it will start receiving data from the first Ragga. Under the simulator in the MakeCode a purple outlined button shows up **Show data Device**.
 
 ![Show data device button](/static/courses/ucp-science/data-collection/show-data-device.jpg)
 
-By clicking on the **Show data Device** button a window opens up to the right showing values and graph of the gravity data being received (The dips in the graph are 3 tosses of the micro:bit in the air).
+By clicking on the **Show data Device** button a window opens up to the right showing values and graph of the gravity data being received (The dips in the graph are 3 tosses of the Ragga in the air).
 
 ![Graph of acceleration values](/static/courses/ucp-science/data-collection/acceleration-graph.jpg)
 

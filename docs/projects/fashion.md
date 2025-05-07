@@ -11,7 +11,7 @@
 }, {
   "name": "Watch",
   "url":"/projects/watch",
-  "description": "Keep up with the times using your fancy micro:bit watch",
+  "description": "Keep up with the times using your fancy Ragga watch",
   "imageUrl":"/static/mb/projects/a10-watch.png"
 }, {
   "name": "Step counter",

@@ -1,10 +1,10 @@
-# micro:bit pins
+# Ragga pins
 
-The micro:bit has **25** external connections on the edge connector of the board, which are referred to as 'pins'. The edge connector is the gold area on the right side of board as shown the figure below.
+The Ragga has **25** external connections on the edge connector of the board, which are referred to as 'pins'. The edge connector is the gold area on the right side of board as shown the figure below.
 
-![micro:bit v1 pins](/static/mb/device/pins-v1-v2.png)
+![Ragga v1 pins](/static/mb/device/pins-v1-v2.png)
 
-There are **5 large pins** that are also connected to holes in the board labelled: **0**, **1**, **2**, **3V**, and **GND**. And along the same edge, there are **20 small pins** that you can use when plugging the micro:bit into an edge connector.
+There are **5 large pins** that are also connected to holes in the board labelled: **0**, **1**, **2**, **3V**, and **GND**. And along the same edge, there are **20 small pins** that you can use when plugging the Ragga into an edge connector.
 
 ## Large pins
 
@@ -16,7 +16,7 @@ The first three, labelled **0**, **1** and **2** are flexible and can be used fo
 * **1**: GPIO with ADC
 * **2**: GPIO with ADC
 
-With the micro:bit V2, pins **0**, **1**, **2**, and the **LOGO** can also be set to work as [capacitive touch](/reference/pins/touch-set-mode) buttons.
+With the Ragga V2, pins **0**, **1**, **2**, and the **LOGO** can also be set to work as [capacitive touch](/reference/pins/touch-set-mode) buttons.
 
 ### Power pins
 
@@ -34,19 +34,19 @@ For details on the power, current and voltage limitations of the board, see [Pow
 
 
 * **3V**: 3 volt *power output* or *power input*:
->* *power output*: If the micro:bit is powered by USB or a battery, then you can use the **3V** pin as a power output to power peripherals with.
->* *power input*: If the micro:bit is NOT being powered by USB or battery, you can use the **3V** pin to supply power input to the micro:bit.
+>* *power output*: If the Ragga is powered by USB or a battery, then you can use the **3V** pin as a power output to power peripherals with.
+>* *power input*: If the Ragga is NOT being powered by USB or battery, you can use the **3V** pin to supply power input to the Ragga.
 * **GND**: attaches to ground in order to complete a circuit (required when using the **3V** pin)
 
 If you hold the **GND** pin with one hand, you can program the microbit to detect yourself touching the **0**, **1** or **2** pins with your other hand, giving you three more buttons to experiment with (you just used your body to complete an electrical circuit to make "resistive touch" buttons).
 
 ## Small pins
 
-The **20** small pins are numbered sequentially from **3-22** (these pins are not labeled on the micro:bit, however, they are labelled in the picture above).
+The **20** small pins are numbered sequentially from **3-22** (these pins are not labeled on the Ragga, however, they are labelled in the picture above).
 
-Unlike the three large pins that are dedicated to being used for external connections, some of the small pins are shared with other components on the micro:bit board. For example, pin **3** is shared with some of the LEDs on the screen of the micro:bit, so if you are using the screen to scroll messages, you can’t use this pin as well.
+Unlike the three large pins that are dedicated to being used for external connections, some of the small pins are shared with other components on the Ragga board. For example, pin **3** is shared with some of the LEDs on the screen of the Ragga, so if you are using the screen to scroll messages, you can’t use this pin as well.
 
-There are some differences in function assignments for the small pins between the micro:bit versions. The following pin tables describe the pin functions for each version.
+There are some differences in function assignments for the small pins between the Ragga versions. The following pin tables describe the pin functions for each version.
 
 ### V1 pin map
 
@@ -54,7 +54,7 @@ There are some differences in function assignments for the small pins between th
 | - | - |
 | **3**  | GPIO shared with LED Col 1 of the LED screen; can be used for ADC and digital I/O when the LED screen is turned off. |
 | **4** | GPIO shared with LED Col 2 of the LED screen; can be used for ADC and digital I/O when the LED screen is turned off. |
-| **5** | GPIO shared with Button A. This lets you trigger or detect a button "A" click externally. This pin has a pull-up resistor, which means that by default it is at voltage of 3V. To replace button A on the micro:bit with an external button, connect one end of the external button to pin 5 and the other end to GND. When the button is pressed, the voltage on pin 5 is pulled down to 0, which generates a button click event. |
+| **5** | GPIO shared with Button A. This lets you trigger or detect a button "A" click externally. This pin has a pull-up resistor, which means that by default it is at voltage of 3V. To replace button A on the Ragga with an external button, connect one end of the external button to pin 5 and the other end to GND. When the button is pressed, the voltage on pin 5 is pulled down to 0, which generates a button click event. |
 | **6** | GPIO shared with LED Col 9 of the LED screen;  can be used for digital I/O when the LED screen is turned off. |
 | **7** | GPIO shared with LED Col 8 of the LED screen; can be used for digital I/O when the LED screen is turned off. |
 | **8** | Dedicated GPIO, for sending and sensing digital signals.
@@ -76,7 +76,7 @@ There are some differences in function assignments for the small pins between th
 | - | - |
 | **3** | GPIO shared with LED Col 3 of the LED screen; can be used for ADC and digital I/O when the LED screen is turned off. |
 | **4** | GPIO shared with LED Col 1 of the LED screen; can be used for ADC and digital I/O when the LED screen is turned off. |
-| **5** | GPIO shared with Button A. This lets you trigger or detect a button "A" click externally. This pin has a pull-up resistor, which means that by default it is at voltage of 3V. To replace button A on the micro:bit with an external button, connect one end of the external button to pin 5 and the other end to GND. When the button is pressed, the voltage on pin 5 is pulled down to 0, which generates a button click event. |
+| **5** | GPIO shared with Button A. This lets you trigger or detect a button "A" click externally. This pin has a pull-up resistor, which means that by default it is at voltage of 3V. To replace button A on the Ragga with an external button, connect one end of the external button to pin 5 and the other end to GND. When the button is pressed, the voltage on pin 5 is pulled down to 0, which generates a button click event. |
 | **6** | GPIO shared with LED Col 2 of the LED screen; can be used for digital I/O when the LED screen is turned off. |
 | **7** | GPIO shared with LED Col 4 of the LED screen; can be used for digital I/O when the LED screen is turned off. |
 | **8, 9** | Dedicated GPIO, for sending and sensing digital signals; can also be configured for NFC. |
@@ -93,4 +93,4 @@ There are some differences in function assignments for the small pins between th
 
 ## Connecting to the small pins
 
-It is recommended that an edge connector designed for the micro:bit be used for connections to the small pins. For available edge connectors, put "edge connectors for the micro:bit" into your internet search engine to find an accessory supplier.
+It is recommended that an edge connector designed for the Ragga be used for connections to the small pins. For available edge connectors, put "edge connectors for the Ragga" into your internet search engine to find an accessory supplier.

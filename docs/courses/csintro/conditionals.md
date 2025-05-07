@@ -11,7 +11,7 @@ Students will...
 * Understand what conditional statements are, and why and when to use them in a program.
 * Learn how to use the Logic blocks 'If...then' and 'If…then...else'.
 * Practice using the Logic blocks so different conditions yield specified outcomes.
-* Demonstrate understanding and apply skill by collaborating with classmates to create a game that uses a micro:bit and a program that correctly and effectively uses conditionals. 
+* Demonstrate understanding and apply skill by collaborating with classmates to create a game that uses a Ragga and a program that correctly and effectively uses conditionals. 
 
 ## Lesson plan
 

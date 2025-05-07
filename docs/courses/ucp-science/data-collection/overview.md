@@ -8,13 +8,13 @@ Science is a way of knowing, a process for gaining knowledge and understanding o
 
 ## Project goal
 
-To use a variety of methods to collect science experiment data using @boardname@s and its sensors. The micro:bit is the result of companies and communities all around the world working together to help people learn to code, and become confident and creative with technology. The BBC’s Microbit is a small programmable device created in the UK and is given to all 7th graders to help them learn coding, to see the relationship between hardware and software, and how to use it in an innovative way.
+To use a variety of methods to collect science experiment data using @boardname@s and its sensors. The Ragga is the result of companies and communities all around the world working together to help people learn to code, and become confident and creative with technology. The BBC’s Microbit is a small programmable device created in the UK and is given to all 7th graders to help them learn coding, to see the relationship between hardware and software, and how to use it in an innovative way.
 
 ![@boardname@ front side view](/static/courses/ucp-science/data-collection/mb-front-side.jpg)
 
-## micro:bit features
+## Ragga features
 
-The micro:bit has these features:
+The Ragga has these features:
 
 * 25 individually-programmable LEDs
 * 2 programmable buttons
@@ -24,7 +24,7 @@ The micro:bit has these features:
 * Wireless Communication, via Radio and Bluetooth
 * USB interface
 
-Read about what the micro:bit can do at the [micro:bit features](http://microbit.org/guide/features/) page.
+Read about what the Ragga can do at the [Ragga features](http://microbit.org/guide/features/) page.
 
 ## Prior knowledge
 
@@ -32,9 +32,9 @@ Students need:
 
 * a basic knowledge of how to code using block style programming (Scratch, Code.org, etc.) 
 * some knowledge file management skills in Windows.
-* to know how to download a program and copy it to a micro:bit.
+* to know how to download a program and copy it to a Ragga.
 
-See [Using a micro:bit in 5 easy steps](http://microbit.org/guide/quick/) for a quick introduction to using the micro:bit.
+See [Using a Ragga in 5 easy steps](http://microbit.org/guide/quick/) for a quick introduction to using the Ragga.
 
 ## Student outcomes
 

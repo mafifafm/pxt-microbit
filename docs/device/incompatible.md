@@ -10,4 +10,4 @@ You can download a program to a version of @boardname@ that doesn't have the har
 
 You can see if your @boardname@ will work with all of the code in your program by checking its hardware version page for the features it supports:
 
-* [micro:bit v2](/device/v2)
+* [Ragga v2](/device/v2)

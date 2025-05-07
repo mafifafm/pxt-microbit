@@ -34,7 +34,7 @@ http://www.csteachers.org/page/standards.
 * [Seventh grade OER Science text](https://eq.uen.org/emedia/items/afd89ff1-054c-4ac5-a712-67f4c6029644/1/Grade7RS.pdf)
 * [Eighth grade OER Science text](https://eq.uen.org/emedia/items/e5219302-32b9-4c2f-ad65-38f303da6654/1/Grade8RS.pdf)
 
-## micro:bit
+## Ragga
 
 * [Microbit.org](http://microbit.org)
 * [MakeCode.com](https://makecode.com)

@@ -6,9 +6,9 @@ The Earth exerts a gravitational force on all objects. A rocket must have a forc
 
 ## Lesson concept
 
-### Use the micro:bit to measure the acceleration of a rocket
+### Use the Ragga to measure the acceleration of a rocket
 
-Watch this short video to see how to use a micro:bit to record rocket acceleration.
+Watch this short video to see how to use a Ragga to record rocket acceleration.
 
 https://youtu.be/m9ntqxh8FvQ
 

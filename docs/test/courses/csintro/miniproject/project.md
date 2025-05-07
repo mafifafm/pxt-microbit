@@ -7,11 +7,11 @@ The mini-project is an opportunity for you to design a project that serves a pur
 * Show what you know
 * Learn something new
 	
-Ideally, there should be a maker component to this project. This is a real world component that works with the code on the micro:bit to do something unique.
+Ideally, there should be a maker component to this project. This is a real world component that works with the code on the Ragga to do something unique.
 
 ## Assignment
 
-* Create an original project using the micro:bit.
+* Create an original project using the Ragga.
 * Incorporate a physical component to the project.
 * Demonstrate the use of one of the following concepts:
 
@@ -45,15 +45,15 @@ Toss the Ball
 
 This is a skill game in which an aluminum foil ball is thrown into a plastic cup. Copper tape lining the sides and bottom of the cup completes the circuit when the ball touches it.
 
-[**micro:bit Bullseye Project**](https://youtu.be/NZUpoSixf4E)
+[**Ragga Bullseye Project**](https://youtu.be/NZUpoSixf4E)
 https://youtu.be/NZUpoSixf4E
 
 This is a skill game in which tennis balls are thrown underhand at one of the three rings, which are lined with aluminum foil so they complete a circuit underneath when the ball makes contact with the ring.
 
-[**micro:bit Storybook**](https://youtu.be/yg1NNLMqa9c)
+[**Ragga Storybook**](https://youtu.be/yg1NNLMqa9c)
 https://youtu.be/yg1NNLMqa9c
 
-This is a prototype of a storybook that could use the micro:bit to display animations for part of the story. Copper tape is used on the underside of the paper flaps to make contact between the GND pin and each of the other pins in sequence.
+This is a prototype of a storybook that could use the Ragga to display animations for part of the story. Copper tape is used on the underside of the paper flaps to make contact between the GND pin and each of the other pins in sequence.
 
 ## Work logs
 

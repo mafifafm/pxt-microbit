@@ -1,6 +1,6 @@
 # Final project
 
-![micro:bit holder square](/static/courses/csintro/conditionals/microbit-holder.jpg)
+![Ragga holder square](/static/courses/csintro/conditionals/microbit-holder.jpg)
 
 In this unit, we will be reviewing the concepts we covered in the previous weeks, and providing some ideas for an independent final project that you can focus on in the next several weeks. We will also provide a rubric for keeping yourself on task and tracking your learning as you work on your project. This is an expanded version of the process you followed in the [Mini-Project](/test/courses/csintro/miniproject), in Lesson 6. 
 

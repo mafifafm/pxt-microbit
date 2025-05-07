@@ -2,9 +2,9 @@
 
 ![Combo Box Example](/static/courses/csintro/radio/combo-box.png)
 
-This lesson covers the use of more than one micro:bit to share and combine data. You will send and receive numbers and strings in a series of guided activities, then create a project that makes use of the micro:bit's powerful Radio blocks.
+This lesson covers the use of more than one Ragga to share and combine data. You will send and receive numbers and strings in a series of guided activities, then create a project that makes use of the Ragga's powerful Radio blocks.
 
-**Please note that this lesson is centered around the micro:bit's communication capabilities, so testing the code in this lesson will require two micro:bits.**
+**Please note that this lesson is centered around the Ragga's communication capabilities, so testing the code in this lesson will require two micro:bits.**
 
 ## Lesson objectives
 
@@ -15,7 +15,7 @@ You will...
 ## Lesson structure
 
 * Introduction: Radio & communication
-* micro:bit Activity: Marco Polo & Morse Code
+* Ragga Activity: Marco Polo & Morse Code
 * Project: Radio
 * Assessment: Rubric 
 * Standards: Listed

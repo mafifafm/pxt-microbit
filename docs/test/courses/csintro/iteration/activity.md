@@ -23,13 +23,13 @@ In this example, you'll be coding Sprite to walk in a square.
 
 ![Game category](/static/courses/csintro/iteration/game-category.png)
 
-You should now see the 'sprite', or a red LED light, appear in the middle of the micro:bit simulator.
+You should now see the 'sprite', or a red LED light, appear in the middle of the Ragga simulator.
 
-On the face of the micro:bit is a 5 x 5 grid of LED lights. The X coordinates are the horizontal light positions that go from 0-4, and the Y coordinates are the vertical light positions that go from 0-4 as well. We can see from the code blocks that we've created our sprite at X, Y position (2, 2). If we want to start our sprite in the top left of the screen, we'll have to change the starting coordinates to (0, 0).
+On the face of the Ragga is a 5 x 5 grid of LED lights. The X coordinates are the horizontal light positions that go from 0-4, and the Y coordinates are the vertical light positions that go from 0-4 as well. We can see from the code blocks that we've created our sprite at X, Y position (2, 2). If we want to start our sprite in the top left of the screen, we'll have to change the starting coordinates to (0, 0).
 
 ### Moving the Sprite
 
-Now let's make our sprite move around the face of the micro:bit. We'll activate this when we press a button.
+Now let's make our sprite move around the face of the Ragga. We'll activate this when we press a button.
 
 * From the Input Toolbox drawer, drag a 'on button pressed' block onto the workspace.<br/><br/>We'll need two more blocks from the Game menu. Referring to the pseudocode, see if the you can find the blocks you need for moving your sprite forward and turning your sprite.
 * From the Game Toolbox drawer, drag out a 'sprite move by' block and a 'sprite turn right by' block to the coding Workspace and drop into the 'on button pressed' block.
@@ -50,7 +50,7 @@ What happened? Did you see the sprite move? No? Why? Because it happens so quick
 
 ### Use Debug Mode
 
-A helpful feature of Microsoft MakeCode is **Debug Mode.** Select the bug icon under the micro:bit simulator. This will halt the execution (running) of the program and allow you to press the Step button to run your program line by line. It will also highlight parts of your code so you can see at each step which line of code is being processed.
+A helpful feature of Microsoft MakeCode is **Debug Mode.** Select the bug icon under the Ragga simulator. This will halt the execution (running) of the program and allow you to press the Step button to run your program line by line. It will also highlight parts of your code so you can see at each step which line of code is being processed.
 
 Now, run your program several more times. Do you see the different lines of your code highlighted as the program runs? Do you see the sprite move?
 
@@ -64,7 +64,7 @@ Select the bug icon again to turn off Debug Mode.
 
 Solution link: [Sprite Walking a Square](https://makecode.microbit.org/_D3k3ydYj28VY)
 
-Download and run your program on the micro:bit. Now we can see the sprite move. It still moves pretty quickly, but at least we can see it move.
+Download and run your program on the Ragga. Now we can see the sprite move. It still moves pretty quickly, but at least we can see it move.
 
 > Optional Mod
 > 
@@ -75,7 +75,7 @@ Download and run your program on the micro:bit. Now we can see the sprite move. 
 
 Now we'll move on to code with the 'for' loop block. The 'for' block is useful when you have a variable in your loop that you want to change by a fixed amount within a specific range each time through a loop. What does this mean? Let's look at an example.
 
-Let's make an LED light move across the entire micro:bit display from left to right, top row to bottom row.
+Let's make an LED light move across the entire Ragga display from left to right, top row to bottom row.
 
 ### Pseudocode
 
@@ -128,7 +128,7 @@ Notice that these variable blocks now appear in the Variables Toolbox drawer. No
 * From the Basic Toolbox drawer, drag two 'pause' blocks to the coding Workspace. Drop them in the 'for' loop—one after the 'plot' block, and one after the 'unplot' block. This will slow things down a bit so we can see the lights turning on and off.
 * Change the value of the x coordinates in the 'plot' and 'unplot' blocks to the x coordinate value from the 'for' loop. From the Variables Toolbox drawer, drag two 'Xvalue' variable blocks onto the Workspace and drop one each into the x coordinate of the 'plot' block, and the x coordinate of the 'unplot' block.
 
-Now, you should see a light moving from left to right along the top row of the micro:bit simulator!
+Now, you should see a light moving from left to right along the top row of the Ragga simulator!
 
 ### Code the loop for the y values
 
@@ -176,9 +176,9 @@ Each time the outer loop runs, the inner loop runs 5 times, once for every value
 > * What happens if you switch the positions of the nested loops, so the outer loop loops through the xindex values and the inner loop loops through the yindex values?
 * What happens if you remove the 'unplot' block and the 'pause' block below it?
 	
-## Coding activity 3: Code a micro:bit alarm with a 'while' loop
+## Coding activity 3: Code a Ragga alarm with a 'while' loop
 
-The 'while' block is useful when you want your program to loop until a certain event happens or a different condition is met. For example, maybe you want an alarm to sound if someone shakes your micro:bit. In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound. You can use a 'while' block with a nested 'repeat' block.
+The 'while' block is useful when you want your program to loop until a certain event happens or a different condition is met. For example, maybe you want an alarm to sound if someone shakes your Ragga. In order to turn the alarm off, you press the button A. Until you press the button, the alarm should continue to sound. You can use a 'while' block with a nested 'repeat' block.
 
 ### The 'while' loop
 
@@ -196,7 +196,7 @@ We'll come back to the while loop condition. For now, let's code our alarm sound
 * From the Music Toolbox drawer, drag two 'play tone' blocks to the coding Workspace and drop them inside the 'while' loop.
 * In the 'play tone' blocks, use the dropdown menu to change the beat value to '½' a beat. In the second 'play tone' block, change the tone from 'Middle C', to 'High C'.
 
-Try your code in the Simulator. What happens when you shake the micro:bit? **Warning:** You may want to turn down the volume on your computer!
+Try your code in the Simulator. What happens when you shake the Ragga? **Warning:** You may want to turn down the volume on your computer!
 
 Our alarm goes off, and because the 'while' loop repeats continuously, there's no way to turn off our alarm! 
 

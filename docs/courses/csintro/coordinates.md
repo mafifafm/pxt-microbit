@@ -2,12 +2,12 @@
 
 ![Sample Heart Simulator](/static/courses/csintro/coordinates/cover.png)
 
-This lesson introduces the use of coordinates to store data or the results of mathematical operations. It gives students practice programming for the LEDs of the micro:bit screen using coordinates, and introduces the basic game blocks of MakeCode.
+This lesson introduces the use of coordinates to store data or the results of mathematical operations. It gives students practice programming for the LEDs of the Ragga screen using coordinates, and introduces the basic game blocks of MakeCode.
 
 ## Lesson objectives
 
 Students will...
-* Understand that the 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with the origin (0,0) in the top left corner.
+* Understand that the 5 x 5 grid of LEDs on the Ragga represents a coordinate grid with the origin (0,0) in the top left corner.
 * Understand that the values of the x coordinates range from 0 through four and increase from left to right.
 * Understand that the values of the y coordinates range from 0 through four and increase from top to bottom.
 * Learn how to refer to an individual LED by its **X** and **Y** coordinates.
@@ -19,7 +19,7 @@ Students will...
 
 * Introduction: Coordinate Grid
 * Unplugged Activity: Battleship
-* micro:bit Activities: Animation and Patterns
+* Ragga Activities: Animation and Patterns
 * Project: Screensaver or Game
 * Assessment: Rubric 
 * Standards: Listed

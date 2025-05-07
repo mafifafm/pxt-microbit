@@ -4,7 +4,7 @@
 
 ## Code a Flashing Heart @unplugged
 
-Code the lights on the micro:bit into a flashing heart animation! 💖
+Code the lights on the Ragga into a flashing heart animation! 💖
 
 ![Heart shape in the LEDs](/static/mb/projects/flashing-heart/sim.gif)
 
@@ -28,7 +28,7 @@ basic.pause(500)
 
 ## {Step 3}
 
-Copy the code you've written and paste it at the end. In the copied code, change the ``||basic:Icon Names||`` to a **SMALL HEART**. Run your code in the on-screen micro:bit simulator. Do you see a big and small heart animation?
+Copy the code you've written and paste it at the end. In the copied code, change the ``||basic:Icon Names||`` to a **SMALL HEART**. Run your code in the on-screen Ragga simulator. Do you see a big and small heart animation?
 
 ```spy
 basic.showIcon(IconNames.Heart)

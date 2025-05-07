@@ -54,7 +54,7 @@ Test and record the **P0** input values for both very dry dirt and for dirt that
 
 Here's an example test table of results for very dry and wet dirt using both versions of the @boardname@:
 
-| Soil | micro:bit V1 | micro:bit V2 |
+| Soil | Ragga V1 | Ragga V2 |
 |---|---|---|
 | Dry | 250 | 600 |
 | Wet | 1000 | 1000 |

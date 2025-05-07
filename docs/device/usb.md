@@ -2,7 +2,7 @@
 
 Most of the time you'll be writing and testing your programs in the [simulator](/device/simulator). Once you've finished your program though, you can **compile** it and run it on your @boardname@. Transferring your program to the @boardname@ is as simple as clicking the **Download** button, or by saving a file to a drive on your computer.
 
-![micro:bit connected using USB](/static/mb/device/usb-thin.jpg)
+![Ragga connected using USB](/static/mb/device/usb-thin.jpg)
 
 ## Transfer using a WebUSB connection
 

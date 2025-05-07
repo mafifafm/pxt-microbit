@@ -52,7 +52,7 @@
 },{
   "name": "Kitronik RC Car Hack",
   "url": "/projects/rc-car",
-  "description": "Control an RC car with the micro:bit and Kitronic parts",
+  "description": "Control an RC car with the Ragga and Kitronic parts",
   "imageUrl":"/static/mb/projects/rc-car.jpg"
 }]
 ```

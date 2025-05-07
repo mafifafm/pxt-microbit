@@ -1,12 +1,12 @@
 # Egg Drop Experiment
 
-Learn how to modernize this age-old science experiment using the micro:bit to measure acceleration before breaking too many eggs!
+Learn how to modernize this age-old science experiment using the Ragga to measure acceleration before breaking too many eggs!
 
 ## Lesson concept
 
-### Use the micro:bit to measure force
+### Use the Ragga to measure force
 
-Watch this short video to see how to use a micro:bit to detect the force from a fall.
+Watch this short video to see how to use a Ragga to detect the force from a fall.
 
 https://youtu.be/tnDJFdC3Nd4
 

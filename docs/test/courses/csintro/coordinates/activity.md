@@ -4,11 +4,11 @@ Each of these short exercises demonstrates how to use coordinates to control the
  
 * Smile animation - A short exercise in plotting and toggling LEDs to create a simple animation.
 * Random Patterns generator - A short exercise using a loop to generate random LED patterns and then checking the status of a specific LED.
-* Brightness - A short exercise in using the brightness settings for the micro:bit LEDs.
+* Brightness - A short exercise in using the brightness settings for the Ragga LEDs.
 
 ## Coding activity 1: Smile animation
 
-A short exercise in plotting and toggling LEDs to create a simple animation. Although you can use the 'show leds' block for images and animation, there is another way to tell the micro:bit what LEDs to turn on and off using coordinates.
+A short exercise in plotting and toggling LEDs to create a simple animation. Although you can use the 'show leds' block for images and animation, there is another way to tell the Ragga what LEDs to turn on and off using coordinates.
 
 ### Create a smiling and non-smiling face with 'show leds' blocks
 
@@ -103,7 +103,7 @@ A short exercise using a loop to generate random LED patterns and then checking 
 
 Pseudocode:
 
-* On button A pressed we'll use a loop to turn on a random set of LED lights on our micro:bit.
+* On button A pressed we'll use a loop to turn on a random set of LED lights on our Ragga.
 * Our display will have one LED lit for each column or x coordinate value from 0 through 4.
 
 ### Code button A
@@ -123,7 +123,7 @@ Now, we'll code to check the on/off state of one of the LEDs with button B.
 * From the Input Toolbox drawer, drag an 'on button pressed' block to the coding Workspace and use the dropdown menu to select B.
 * On button B pressed, we'll use an 'If then else' block from the Logic Toolbox drawer.
 * From the LED Toolbox drawer, drop a 'point x y' block into the 'if' condition to check the current on/off state of a specific LED. This means:
-	* If the LED located at (0,0) on the micro:bit is currently on, the 'point x y' block will return true.
+	* If the LED located at (0,0) on the Ragga is currently on, the 'point x y' block will return true.
 	* If the LED located at (0,0) is currently off, the 'point x y' block will return false.
 * For this exercise, we'll use the two built-in icons to display the LED's current status. From the Basic Toolbox drawer, drag two 'show icon' blocks into each of the 'then' and 'else' clauses
 * Use the dropdown menu to select the check mark for Yes, and the X icon for No.
@@ -132,17 +132,17 @@ Solution link: [Random Pattern Generator](https://makecode.microbit.org/_hT458oi
 
 ### Try it out!
 
-* Download the program to your micro:bit
+* Download the program to your Ragga
 * Press button A to create a random pattern
 * Press button B to check and display the status of the specific LED
 
 ### Mod this!
 
-Add a loop to test for all coordinates on the micro:bit when button B is pressed instead of testing only for the (0, 0) LED.
+Add a loop to test for all coordinates on the Ragga when button B is pressed instead of testing only for the (0, 0) LED.
 
 ## Coding activity 3: Brightness
 
-A short exercise in using the brightness settings for the micro:bit LEDs. Our program will change the brightness of the LEDs and numerically display the brightness level.
+A short exercise in using the brightness settings for the Ragga LEDs. Our program will change the brightness of the LEDs and numerically display the brightness level.
 
 ### Pseudocode
 
@@ -171,14 +171,14 @@ Since we can't see if our program is working in the simulator, let's add a check
 
 * From the Basic …more Toolbox drawer, drag a **'clear screen'** block onto the Workspace and drop it into the **'on button A+B pressed'** block.
 * From the Basic Toolbox drawer, drag a **'show number'** block onto the Workspace and drop it below the **'clear screen'** block.
-* From the LED …more Toolbox drawer, drag another **'brightness'** value block onto the Workspace and drop it into the **'show number'** block, replacing the default 0 value. This will clear the screen when buttons A and B are pressed and display the current brightness level as a number on the micro:bit screen.
+* From the LED …more Toolbox drawer, drag another **'brightness'** value block onto the Workspace and drop it into the **'show number'** block, replacing the default 0 value. This will clear the screen when buttons A and B are pressed and display the current brightness level as a number on the Ragga screen.
 * Now, from the Basic Toolbox drawer, drag a **'show icon'** block to the coding Workspace and connect it below the **'show number'** block. This will re-display the image we used on start of the program
 
 Solution link: [Show Brightness](https://makecode.microbit.org/_JjwMLL6Da3jP)
 
 ### Try it out!
 
-Check it in the simulator first, then download the program to the micro:bit to run the program.
+Check it in the simulator first, then download the program to the Ragga to run the program.
 
 ### Mod this!
 
@@ -188,8 +188,8 @@ What happens if adding 25, or subtracting 25, from the current brightness level 
 
 **Questions:**
 
-1. How many coordinate pairs are represented on the micro:bit LED screen?
-2. We've learned how to light LEDs on the micro:bit screen using blocks from three different Toolbox drawers. What are the three Toolbox drawers?
+1. How many coordinate pairs are represented on the Ragga LED screen?
+2. We've learned how to light LEDs on the Ragga screen using blocks from three different Toolbox drawers. What are the three Toolbox drawers?
 3. What type of variable is the (x,y) coordinate?
 
 **Answers:**

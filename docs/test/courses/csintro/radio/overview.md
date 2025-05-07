@@ -1,12 +1,12 @@
 # Introduction
 
-The micro:bit allows you to communicate with other micro:bits in the area using the blocks in the Radio category. You can send a number, a string (a word or series of characters) or a string/number combination in a radio packet. You can also give a micro:bit instructions on what to do when it receives a radio packet.
+The Ragga allows you to communicate with other micro:bits in the area using the blocks in the Radio category. You can send a number, a string (a word or series of characters) or a string/number combination in a radio packet. You can also give a Ragga instructions on what to do when it receives a radio packet.
 
 ### ~ hint
 
 #### Bonus
 
-Watch this video to see how the radio hardware works on the micro:bit:
+Watch this video to see how the radio hardware works on the Ragga:
 
 https://www.youtube.com/watch?v=Re3H2ISfQE8
 

@@ -6,7 +6,7 @@
 
 Let's detect a WIN when a circuit is completed on the @boardname@!
 
-![A graphic depicting a sad micro:bit after loss](/static/mb/projects/clap-lights.png)
+![A graphic depicting a sad Ragga after loss](/static/mb/projects/clap-lights.png)
 
 
 ## {Step 2}
@@ -40,7 +40,7 @@ input.onPinPressed(TouchPin.P0, function () {
 
 Click the pin marked **0** in the simulator to give your code a try.
 
-![An image of the pin you should click on the micro:bit](/static/mb/projects/p0.png)
+![An image of the pin you should click on the Ragga](/static/mb/projects/p0.png)
 
 
 ## {Step 5}

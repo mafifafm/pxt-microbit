@@ -26,7 +26,7 @@ Give students real world experience with coding, collecting temperature data, an
 
 ## Prior Knowledge
 
-Students need to have a basic knowledge of how to code using block style programming and download a program to a micro:bit using MakeCode. 
+Students need to have a basic knowledge of how to code using block style programming and download a program to a Ragga using MakeCode. 
 
 ## Student Outcomes
 

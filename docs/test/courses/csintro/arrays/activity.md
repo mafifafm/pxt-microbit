@@ -33,7 +33,7 @@ let arrayWords = ["cat", "guitar", "flashlight", "cupcake", "tree", "frisbee"]
 
 Now, we need a way to access one word at a time from this array of words.
 
-* We can use the **'show string'** block from the Basic Toolbox drawer and the **'on screen up'** event handler from the Input Toolbox drawer (this is a dropdown menu choice of the **'on shake'** block) to tell the micro:bit to display a word when we tilt the micro:bit up.
+* We can use the **'show string'** block from the Basic Toolbox drawer and the **'on screen up'** event handler from the Input Toolbox drawer (this is a dropdown menu choice of the **'on shake'** block) to tell the Ragga to display a word when we tilt the Ragga up.
 
 For this version, we'll display the words one at a time in the order they were first placed into the array.
 
@@ -41,7 +41,7 @@ For this version, we'll display the words one at a time in the order they were f
 
 Now, we need a way to access one word at a time from this array of words.
 
-* We can use the **'show string'** block from the Basic Toolbox drawer, and the **'on screen up'** event handler from the Input Toolbox drawer (this is a drop-down menu choice of the **'on shake'** block) to tell the micro:bit to display a word when we tilt the micro:bit up.
+* We can use the **'show string'** block from the Basic Toolbox drawer, and the **'on screen up'** event handler from the Input Toolbox drawer (this is a drop-down menu choice of the **'on shake'** block) to tell the Ragga to display a word when we tilt the Ragga up.
 
 For this version, we'll display the words one at a time in the order they were first placed into the array.
 
@@ -88,7 +88,7 @@ basic.showString(arrayWords[index])
 
 So far, we have a start to our game and a way to display the first word. Once that word has been guessed (or passed), we need a way to advance to the next word in the array.
 
-* We can do this by changing the index of the array with the **'on screen down'** event handler from the Input Toolbox drawer (this is a dropdown menu choice of the **'on shake'** block) to advance to the next word when we tilt the micro:bit down.
+* We can do this by changing the index of the array with the **'on screen down'** event handler from the Input Toolbox drawer (this is a dropdown menu choice of the **'on shake'** block) to advance to the next word when we tilt the Ragga down.
 
 ```block
 let index = 0
@@ -103,7 +103,7 @@ We have a limited number of elements in our array, so to avoid an error, we need
 
 Some pseudocode for our algorithm logic:
 
-When the player places the micro:bit screen down:
+When the player places the Ragga screen down:
 
 * Check the current value of the index.
 	* **If** the current value of the index is less than the length of the array minus one (see **array bounds** note),
@@ -146,7 +146,7 @@ input.onGesture(Gesture.ScreenDown, () => {
 
 To make our game more polished, we'll add two more blocks for smoother game play.
 
-* In case a word is already scrolling on the screen when a player places the micro:bit screen down, we can stop this animation and clear the screen for the next word by using a **'stop animation'** block from the Led More Toolbox drawer, and a **'clear screen'** block from the Basic...More Toolbox drawer.
+* In case a word is already scrolling on the screen when a player places the Ragga screen down, we can stop this animation and clear the screen for the next word by using a **'stop animation'** block from the Led More Toolbox drawer, and a **'clear screen'** block from the Basic...More Toolbox drawer.
 
 ```blocks
 let index = 0
@@ -167,14 +167,14 @@ input.onGesture(Gesture.ScreenDown, () => {
 Download the program to the micro:bits and find someone to play it with.
 There are different ways you can play charades with our program. Following is one way you can play with a group of friends.
 
-* With the micro:bit on and held so Player A cannot see the screen, another player starts the program to see the first word.
+* With the Ragga on and held so Player A cannot see the screen, another player starts the program to see the first word.
 * The other players act out this word charades-style for Player A to guess.
-* When Player A guesses correctly or decides to pass on this word, a player places the micro:bit screen down.
-* When ready for the next word, a player turns the micro:bit screen up. Play continues until all the words in the array have been used.
+* When Player A guesses correctly or decides to pass on this word, a player places the Ragga screen down.
+* When ready for the next word, a player turns the Ragga screen up. Play continues until all the words in the array have been used.
  
 ## Mod this!
 
-* Add a headband to hold the micro:bit on the Players' foreheads (using cardboard, paper, rubber bands, etc.)
+* Add a headband to hold the Ragga on the Players' foreheads (using cardboard, paper, rubber bands, etc.)
 * Add a way to keep score
 * Keep track of the number of correct guesses and passes
 * Add a time limit
@@ -219,7 +219,7 @@ Solution link: [Headband Charades](https://makecode.microbit.org/_RMa7s7Rj9Cwv)
 
 ## Activity: Starry starry night
 
-In this micro:bit activity, we will create a set of random constellations on the micro:bit screen. We will use an array filled with numbers to tell us how many stars (dots) should be in each constellation.
+In this Ragga activity, we will create a set of random constellations on the Ragga screen. We will use an array filled with numbers to tell us how many stars (dots) should be in each constellation.
 
 ![Starry Night](/static/courses/csintro/arrays/starry-night.png)
 
@@ -247,7 +247,7 @@ for (let index = 0; index <= 4; index++) {
 
 Next, let's create an array with five numbers in it. We will loop through the array and create five separate constellations using the numbers in the array to represent the number of stars in each of the five constellations.
 
-* From the Arrays Toolbox drawer, drag out the 'set list' block onto the Workspace and drop it into the **'on start'** block. Then, select the (+) symbol three times to add more values to the array for a total of five. Type five random numbers from 0 to 25 in your array list since there are up to 25 LEDs on the micro:bit that could be used in your constellation.
+* From the Arrays Toolbox drawer, drag out the 'set list' block onto the Workspace and drop it into the **'on start'** block. Then, select the (+) symbol three times to add more values to the array for a total of five. Type five random numbers from 0 to 25 in your array list since there are up to 25 LEDs on the Ragga that could be used in your constellation.
 
 ### Code the A button
 
@@ -255,7 +255,7 @@ Let's activate our constellations when we press a button.
 
 * From the Inputs Toolbox drawer, drag out an **'on button A pressed'** block onto the Workspace.
 
-* Drag the **'repeat'** loop from the **'on start'** block into the **'on button A pressed'** block. Instead of repeating 4 times, let's use the values from the array to figure out how many stars to plot on our micro:bit.
+* Drag the **'repeat'** loop from the **'on start'** block into the **'on button A pressed'** block. Instead of repeating 4 times, let's use the values from the array to figure out how many stars to plot on our Ragga.
 
 * From the Arrays Toolbox drawer, drag a **'list get value at'** oval block onto the Workspace and drop into the **'repeat'** loop, replacing the default value of 4. When you type a 0, 1, 2, 3, or 4 into the **'get value'** block, it will plot the number of stars indicated by the value held in the specified array index.
 

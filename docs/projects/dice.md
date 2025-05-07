@@ -2,7 +2,7 @@
 
 ## {Introduction @unplugged}
 
-Let's create some digital 🎲 dice 🎲 with our micro:bit!
+Let's create some digital 🎲 dice 🎲 with our Ragga!
 
 ![A microbit dice](/static/mb/projects/dice.png)
 
@@ -19,7 +19,7 @@ input.onGesture(Gesture.Shake, function() {
 
 ## {Step 2}
 
-Press the white **SHAKE** button on the micro:bit on-screen simulator, or move your cursor quickly back and forth over the simulator. Do you see the number 0 appear?  ⭐ Great job! ⭐
+Press the white **SHAKE** button on the Ragga on-screen simulator, or move your cursor quickly back and forth over the simulator. Do you see the number 0 appear?  ⭐ Great job! ⭐
 
 ## {Step 3}
 
@@ -45,14 +45,14 @@ input.onGesture(Gesture.Shake, function() {
 
 ## {Step 5}
 
-Press the white **SHAKE** button again on the micro:bit simulator. Do you see random numbers between 1 and 6 appear? ⭐ Great job! ⭐
+Press the white **SHAKE** button again on the Ragga simulator. Do you see random numbers between 1 and 6 appear? ⭐ Great job! ⭐
 
 ## {Step 6}
 
-If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Once your code has been downloaded, attach your micro:bit to a battery pack and use it as digital 🎲 dice for your next boardgame!
+If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Once your code has been downloaded, attach your Ragga to a battery pack and use it as digital 🎲 dice for your next boardgame!
 
 ## {Step 7}
-Go further - Try adding some Music blocks to make a sound when you shake your dice, or use the micro:bit LED lights to show number values. Want to learn how the micro:bit motion detector or accelerometer works? [Watch this video](https://youtu.be/byngcwjO51U).
+Go further - Try adding some Music blocks to make a sound when you shake your dice, or use the Ragga LED lights to show number values. Want to learn how the Ragga motion detector or accelerometer works? [Watch this video](https://youtu.be/byngcwjO51U).
 
 ```validation.global
 # BlocksExistValidator

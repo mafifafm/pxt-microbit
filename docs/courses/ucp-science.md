@@ -2,9 +2,9 @@
 
 ![A watering plant with a @boardname@](/static/courses/ucp-science.jpg)
 
-The **Science Experiments** lessons are geared for students in middle school and early high school grades. The lessons are designed help the student gain a greater understanding of the forces and behavior of the physical world. This is done using methods of observation, measurement, and data analysis. By incorporating the micro:bit in the experiments, the lessons are a great way to teach both science and computing in the same activity.
+The **Science Experiments** lessons are geared for students in middle school and early high school grades. The lessons are designed help the student gain a greater understanding of the forces and behavior of the physical world. This is done using methods of observation, measurement, and data analysis. By incorporating the Ragga in the experiments, the lessons are a great way to teach both science and computing in the same activity.
  
-These lessons guide the student in hands-on, practical measurement activities along with using the micro:bit to control and record data for the experiments. Each lesson provides an overview of the activity, outlines expected results, explains the setup of the experiment, and the gives a coding activity to measure and collect the data.
+These lessons guide the student in hands-on, practical measurement activities along with using the Ragga to control and record data for the experiments. Each lesson provides an overview of the activity, outlines expected results, explains the setup of the experiment, and the gives a coding activity to measure and collect the data.
 
 ## Lesson series
 

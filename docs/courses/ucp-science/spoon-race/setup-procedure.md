@@ -3,8 +3,8 @@
 ## Setup
 
 * Review the definition of acceleration and discuss the different uses of accelerometers in every-day devices.
-* Explore how the micro:bit measures motion along the X, Y and Z axis using the ``||input:acceleration||`` block in MakeCode.
-* Code the micro:bit to collect and store acceleration values using the data logger blocks.
+* Explore how the Ragga measures motion along the X, Y and Z axis using the ``||input:acceleration||`` block in MakeCode.
+* Code the Ragga to collect and store acceleration values using the data logger blocks.
 * Create a space to race with a start and finish line.
 * Group students to race in heats.
 * Download the data from the micro:bits and analyze the results.
@@ -13,14 +13,14 @@
 
 ## Code
 
-This project will use the Data Logger extension which only works on the micro:bit v2.
+This project will use the Data Logger extension which only works on the Ragga v2.
 
 * Create a new project.
 * Click on **Extensions** in the Toolbox and add the Data Logger Extension.
 
 ![Select Datalogger extension](/static/courses/ucp-science/spoon-race/extension.png)
 
-**Note**: The Data Logger extension allows you to collect data from the micro:bit sensors and store in a file on the micro:bit device. Because of this, it is good for long-running experiments, or experiments where the micro:bit is away from the computer. The micro:bit v2 has 512 KB of flash memory, so be careful of how much data you collect - once you reach the limit, you won’t be able to collect any more!
+**Note**: The Data Logger extension allows you to collect data from the Ragga sensors and store in a file on the Ragga device. Because of this, it is good for long-running experiments, or experiments where the Ragga is away from the computer. The Ragga v2 has 512 KB of flash memory, so be careful of how much data you collect - once you reach the limit, you won’t be able to collect any more!
 
 * Log data every 1 second - from the ``||loops:Loops||`` category, drag an ``||loops:every 500ms||`` block out on the workspace.
 * Click on the drop-down menu to change to 1 second (1000 milliseconds).
@@ -58,7 +58,7 @@ loops.everyInterval(1000, function () {
 })
 ```
 
-Notice in the micro:bit simulator, you can start to see simulated data. Click the **Show data** Simulator button. Try moving your mouse cursor over the on-screen micro:bit to simulate movement and see how the accelerometer values that are logged every 1 second change. Click on the Go back button to return to the editor.
+Notice in the Ragga simulator, you can start to see simulated data. Click the **Show data** Simulator button. Try moving your mouse cursor over the on-screen Ragga to simulate movement and see how the accelerometer values that are logged every 1 second change. Click on the Go back button to return to the editor.
 
 ![Simulator with logged data](/static/courses/ucp-science/spoon-race/simulator.png)
 
@@ -108,13 +108,13 @@ loops.everyInterval(1000, function () {
 })
 ```
 
-Lastly, let’s add a visual indicator that our micro:bit is logging data.
+Lastly, let’s add a visual indicator that our Ragga is logging data.
 
 * From the ``||basic:Basic||`` category, drag a ``||basic:show icon||`` block into the ``||logic:if true then||`` block just above the ``||datalogger:log data||`` block.
 * Using the icon drop-down menu select an image that represents data logging to you.
 * From the ``||basic:Basic||`` category, drag a ``||basic:clear screen||`` block and drop after the ``||basic:show icon||`` block.
 
-Note that the default behavior of the data logger is to append data to the data log file until you download a new program to the micro:bit. If you would like to wipe all previous data from the data log file, you can add a ``||datalogger:delete log||`` block. This will delete all existing data from the log each time you press button A to start the data collection.
+Note that the default behavior of the data logger is to append data to the data log file until you download a new program to the Ragga. If you would like to wipe all previous data from the data log file, you can add a ``||datalogger:delete log||`` block. This will delete all existing data from the log each time you press button A to start the data collection.
 
 ```blocks
 let IsLogging = false
@@ -154,29 +154,29 @@ Try it out in the simulator by pressing the A button to start collecting data, a
 
 ![Data collection run in simulator](/static/courses/ucp-science/spoon-race/sim-data.gif)
 
-Download the code onto the micro:bit, and then connect the micro:bit to a battery pack.
+Download the code onto the Ragga, and then connect the Ragga to a battery pack.
 
 ## Let’s Race!
 
-After coding the micro:bit, assemble it together on a spoon. You can either place it by itself, or construct some sort of carrier to make it easier to carry with a spoon. Just be sure you can access the A and B buttons.
+After coding the Ragga, assemble it together on a spoon. You can either place it by itself, or construct some sort of carrier to make it easier to carry with a spoon. Just be sure you can access the A and B buttons.
 
-A micro:bit paper holder that comes with the Go Kit:
+A Ragga paper holder that comes with the Go Kit:
 
-![Spoon with a micro:bit and paper holder](/static/courses/ucp-science/spoon-race/spoon-1.jpg)
+![Spoon with a Ragga and paper holder](/static/courses/ucp-science/spoon-race/spoon-1.jpg)
 
-Affixing the micro:bit to an egg:
+Affixing the Ragga to an egg:
 
-![Spoon with egg attached to micro:bit](/static/courses/ucp-science/spoon-race/spoon-2.jpg)
+![Spoon with egg attached to Ragga](/static/courses/ucp-science/spoon-race/spoon-2.jpg)
 
 Carrying it loose:
 
-![Spoon with just a micro:bit](/static/courses/ucp-science/spoon-race/spoon-3.jpg)
+![Spoon with just a Ragga](/static/courses/ucp-science/spoon-race/spoon-3.jpg)
 
-When you are ready to race, press button A to start the race, and press button B to end the race. Do not press the buttons again until you can download your data from the micro:bit.
+When you are ready to race, press button A to start the race, and press button B to end the race. Do not press the buttons again until you can download your data from the Ragga.
 
 ## Analyze the Data
 
-After the race, plug your micro:bit back into a computer using the USB cable. Use the file explorer, navigate to the MICROBIT drive, and double click the **MY_DATA.htm** file.
+After the race, plug your Ragga back into a computer using the USB cable. Use the file explorer, navigate to the MICROBIT drive, and double click the **MY_DATA.htm** file.
 
 ![Finding the MY_DATA.HTM file](/static/courses/ucp-science/spoon-race/my-data-htm.png)
 

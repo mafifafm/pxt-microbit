@@ -1,14 +1,14 @@
 # Electricity -- Battery tester
 
-![micro:bit battery tester](/static/courses/ucp-science/electricity/battery-tester.jpg)
+![Ragga battery tester](/static/courses/ucp-science/electricity/battery-tester.jpg)
 
-This lesson observes the force of electricity. The charge in several batteries is measured by the micro:bit to see how much electric force is present in each one. The results are recorded to analyze the condition of each battery. As an application of the experiment, batteries in poor condition (mostly discharged) can be noted and properly disposed of.
+This lesson observes the force of electricity. The charge in several batteries is measured by the Ragga to see how much electric force is present in each one. The results are recorded to analyze the condition of each battery. As an application of the experiment, batteries in poor condition (mostly discharged) can be noted and properly disposed of.
 
 ## Lesson concept
 
-### Use the micro:bit to measure the charge of a battery
+### Use the Ragga to measure the charge of a battery
 
-Watch this short video to see how to use a micro:bit to check the remaining charge in a battery.
+Watch this short video to see how to use a Ragga to check the remaining charge in a battery.
 
 https://youtu.be/gdlc34nhjK4
 

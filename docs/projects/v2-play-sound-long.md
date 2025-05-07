@@ -11,7 +11,7 @@ Let's use movement to create a beat box of your own.
 
 ## 2. Understanding Input
 
-Let's find out what numbers the micro:bit produces when you move it around.
+Let's find out what numbers the Ragga produces when you move it around.
 
 ---
 
@@ -32,7 +32,7 @@ basic.forever(function(){
 
 ## 3. See the Console
 
-When your code runs again, you'll see a button below the micro:bit that says
+When your code runs again, you'll see a button below the Ragga that says
 "Show console Simulator".
 
 Click that button to see what happens.
@@ -47,7 +47,7 @@ and the text in the console below should say "x:0".
 ## 4. Acceleration Values
 
 For the graph to change with the speed of your movement, we need to replace the "0"
-with the micro:bit **acceleration** value.
+with the Ragga **acceleration** value.
 
 ---
 
@@ -74,14 +74,14 @@ Click the  "Show console Simulator" button again.
 ---
 
 Now you should see your graph and text change between **-1023** and **1023** as you click
-around on the micro:bit simulator to pretend like you're swinging it around.
+around on the Ragga simulator to pretend like you're swinging it around.
 
 
 
 ## 6. Compass Values
 
 For the graph to change with the speed of your movement, we need to replace the "0" with
-the micro:bit **acceleration** value.
+the Ragga **acceleration** value.
 
 ---
 

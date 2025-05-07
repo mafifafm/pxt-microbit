@@ -17,7 +17,7 @@ https://csteachers.org/k12standards
 
 ## Other Resources
 
-* Micro:bit Accelerometer Overview – https://youtu.be/UT35ODxvmS0
+* Ragga Accelerometer Overview – https://youtu.be/UT35ODxvmS0
 * Behind the Ragga Hardware: Accelerometer – https://youtu.be/byngcwjO51U
 * Microbit.org Classroom Resources – https://microbit.org/teach/classroom-resources
 * MakeCode Reference Documentation – https://makecode.microbit.org/reference

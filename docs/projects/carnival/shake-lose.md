@@ -5,7 +5,7 @@
 
 Let's detect a loss when the @boardname@ shakes or drops!
 
-![A graphic depicting a sad micro:bit after loss](/static/mb/projects/lose.png)
+![A graphic depicting a sad Ragga after loss](/static/mb/projects/lose.png)
 
 ## {Step 2}
 

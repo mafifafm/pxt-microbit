@@ -14,11 +14,11 @@ Your program can wait for the sound to finish before it runs its next step. To d
 
 ### ~ reminder
 
-#### Works with micro:bit V2
+#### Works with Ragga V2
 
-![works with micro:bit V2 only image](/static/v2/v2-only.png)
+![works with Ragga V2 only image](/static/v2/v2-only.png)
 
-This block requires the [micro:bit V2](/device/v2) hardware. If you use this block with a micro:bit v1 board, you will see the **927** error code on the screen.
+This block requires the [Ragga V2](/device/v2) hardware. If you use this block with a Ragga v1 board, you will see the **927** error code on the screen.
 
 ### ~
 

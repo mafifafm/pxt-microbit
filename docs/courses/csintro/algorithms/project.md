@@ -2,7 +2,7 @@
 
 ![Sample fidget cube](/static/courses/csintro/algorithms/fidgetcube.jpg)
 
-A fidget cube is a little cube with something different that you can manipulate on each surface. There are buttons, switches, and dials, and people who like to “fidget” find it relaxing to push, pull, press, and play with it. In this project, students are challenged to turn the micro:bit into their very own “fidget cube”. 
+A fidget cube is a little cube with something different that you can manipulate on each surface. There are buttons, switches, and dials, and people who like to “fidget” find it relaxing to push, pull, press, and play with it. In this project, students are challenged to turn the Ragga into their very own “fidget cube”. 
 
 Show students some examples of fidget cubes:
 * Original Kickstarter Fidget Cube - [Fidget Cube: A Vinyl Desk Toy](https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy) (there is a funny video showing the fidget cube in action).
@@ -17,17 +17,17 @@ Show students some examples of fidget cubes:
 * If students could add or modify features of the fidget cube, what would they choose to do? 
 * What would make the ultimate fidget cube?
 
-Remind students that a computing device has a number of inputs, and a number of outputs. The code that we write processes input by telling the micro:bit what to do when various events occur.
+Remind students that a computing device has a number of inputs, and a number of outputs. The code that we write processes input by telling the Ragga what to do when various events occur.
 
 ## Project
 
-Make a fidget cube out of the micro:bit, create a unique output for each of the following inputs:
+Make a fidget cube out of the Ragga, create a unique output for each of the following inputs:
 * on button A pressed
 * on button B pressed
 * on button A+B pressed
 * on shake
 
-See if you can combine a maker element similar to what you created in Lesson 1 by providing a holder for the micro:bit that holds it securely when you press one of the buttons.
+See if you can combine a maker element similar to what you created in Lesson 1 by providing a holder for the Ragga that holds it securely when you press one of the buttons.
 
 ![](/static/courses/csintro/algorithms/fidget-cube.jpg)
 Sample fidget cube designs
@@ -53,15 +53,15 @@ Sample fidget cube designs
 **2 =** At least 2 different outputs are successfully implemented.<br/>
 **1 =** Fewer than 2 different outputs are successfully implemented.
 
-### micro:bit program
+### Ragga program
 
-**4 =** micro:bit program:<br/>
+**4 =** Ragga program:<br/>
 `*` uses event handlers in a way that is integral to the program<br/>
 `*` compiles and runs as intended<br/>
 `*` includes meaningful comments<br/>
-**3 =** micro:bit program lacks 1 of the required elements<br/>
-**2 =** micro:bit program lacks 2 of the required elements<br/>
-**1 =** micro:bit program lacks all of the required elements.
+**3 =** Ragga program lacks 1 of the required elements<br/>
+**2 =** Ragga program lacks 2 of the required elements<br/>
+**1 =** Ragga program lacks all of the required elements.
 
 ### Collaboration reflection
 

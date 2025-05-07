@@ -16,7 +16,7 @@ You will...
 ## Lesson structure
 
 * Introduction: Lather. Rinse. Repeat.
-* micro:bit Activities: Code a sprite to walk a Square, travelling light, micro:bit alarm!
+* Ragga Activities: Code a sprite to walk a Square, travelling light, Ragga alarm!
 * Project: Get Loopy!
 * Project Mods: Use servo motors to add a motion element to the project
 * Reflection: Write a short journal entry 

@@ -10,7 +10,7 @@
 6. Experiment with different data collections scenarios (this experiment could try several different areas of the body. It could also monitor the body sitting or during movements or exercise to observe any differences).
 7. Report on the findings and observations in the experiments.
 
-![Micro:bit connected to body wires](/static/courses/ucp-science/body-electrical/body-wires-connect.jpg)
+![Ragga connected to body wires](/static/courses/ucp-science/body-electrical/body-wires-connect.jpg)
 
 ## Code and data collection
 
@@ -66,7 +66,7 @@ Two @boardname@s can be used to collect and record data using the radio commands
 
 By using 2 @boardname@ to collect the data on one and send it to the second @boardname@ which is connected to MakeCode using a USB cable, the experiment can collect and record data remotely. This would allow the collection of body electrical data while a person is exercising or moving.
 
-### micro:bit radio sending code
+### Ragga radio sending code
 
 This sender @boardname@ uses the ``||basic:on start||`` event to set up the title on the @boardname@ when started, the radio group, and the ``bodyElectricity`` variable so it can collect and store the data received from the pin **0**.
 
@@ -85,7 +85,7 @@ basic.forever(() => {
 })
 ```
 
-### micro:bit radio receiving code
+### Ragga radio receiving code
 
 This receiver @boardname@ uses the “on start” event to set up the title on the @boardname@ when started, the radio group, and the ``bodyElectricity`` variable to collect and store the data received.
 

@@ -9,7 +9,7 @@ This lesson introduces the use of variables to store data or the results of math
 Students will...
 
 * Understand what variables are and why and when to use them in a program.
-* Learn how to create a variable, set the variable to an initial value, and change the value of the variable within a micro:bit program.
+* Learn how to create a variable, set the variable to an initial value, and change the value of the variable within a Ragga program.
 * Learn how to create meaningful and understandable variable names.
 * Understand that a variable holds one value at a time.
 * Understand that when you update or change the value held by a variable, the new value replaces the previous value.

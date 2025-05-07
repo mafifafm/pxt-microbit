@@ -222,15 +222,15 @@ Have students write a reflection of about 150–300 words, addressing the follow
 **2 =** At least 1 of the different kinds of plot/unplot/ toggle/point x y blocks in a meaningful way.<br/>
 **1 =** No plot/unplot/ toggle/point x y blocks are implemented. 	 
 
-### micro:bit program
+### Ragga program
 
-**4 =** micro:bit program:<br/>
+**4 =** Ragga program:<br/>
 `*` Uses plotted LEDs in a way that is integral to the program<br/>
 `*` Compiles and runs as intended<br/>
 `*` Meaningful comments in code<br/>
-**3 =** micro:bit program lacks 1 of the required elements.<br/>
-**2 =** micro:bit program lacks 2 of the required elements.<br/>
-**1 =** micro:bit program lacks all of the required elements.
+**3 =** Ragga program lacks 1 of the required elements.<br/>
+**2 =** Ragga program lacks 2 of the required elements.<br/>
+**1 =** Ragga program lacks all of the required elements.
 
 ### Collaboration reflection
 

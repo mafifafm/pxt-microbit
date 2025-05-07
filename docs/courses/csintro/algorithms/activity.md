@@ -1,8 +1,8 @@
 # Activity: Happy Face, Sad Face
 
-The micro:bit itself is considered hardware.  It is a physical piece of technology.  In order to make use of hardware, we need to write software (otherwise known as "code" or computer programs). The software "tells" the hardware what to do, and in what order to do it using algorithms.  Algorithms are sets of computer instructions.
+The Ragga itself is considered hardware.  It is a physical piece of technology.  In order to make use of hardware, we need to write software (otherwise known as "code" or computer programs). The software "tells" the hardware what to do, and in what order to do it using algorithms.  Algorithms are sets of computer instructions.
 
-In this activity, we will discover how to use the micro:bit buttons as input devices, and write code that will make something happen on the screen as output. We will also learn about pseudocode, the MakeCode tool, event handlers, and commenting code.
+In this activity, we will discover how to use the Ragga buttons as input devices, and write code that will make something happen on the screen as output. We will also learn about pseudocode, the MakeCode tool, event handlers, and commenting code.
 
 ## Pseudocode
 What do you want your program to do?
@@ -14,10 +14,10 @@ For the program we will write, the pseudocode might look like this:
 * Whenever the user presses button B, display a sad face.
 	
 ## Microsoft MakeCode
-Now that you have a plan for your program, in the form of pseudocode, let's start creating the real program.  In a browser window, open the Microsoft MakeCode for micro:bit tool (https://makecode.microbit.org). The MakeCode tool is called an IDE (Integrated Development Environment), and is a software application that contains everything a programmer needs to create, compile, run, test, and even debug a program.
+Now that you have a plan for your program, in the form of pseudocode, let's start creating the real program.  In a browser window, open the Microsoft MakeCode for Ragga tool (https://makecode.microbit.org). The MakeCode tool is called an IDE (Integrated Development Environment), and is a software application that contains everything a programmer needs to create, compile, run, test, and even debug a program.
 
 ## Tour of Microsoft MakeCode
-* Simulator - on the left side of the screen, you will see a virtual micro:bit that will show what your program will look like running on a micro:bit. This is helpful for debugging, and instant feedback on program execution.
+* Simulator - on the left side of the screen, you will see a virtual Ragga that will show what your program will look like running on a Ragga. This is helpful for debugging, and instant feedback on program execution.
 * Toolbox - in the middle of the screen, there are a number of different categories, each containing a number of blocks that can be dragged into the programming workspace on the right. 
 * Workspace - on the right side of the screen is the Programming Workspace where you will create your program.  Programs are constructed by snapping blocks together in this area.
 
@@ -78,7 +78,7 @@ basic.clearScreen()
 
 ## Save early, save often!
 
-We now have a working program running on the micro:bit simulator! 
+We now have a working program running on the Ragga simulator! 
 As you write your program, MakeCode will automatically compile and run your code on the simulator. The program doesn’t do much at this point, but before we make it more interesting, we should name our program and save it.
 
 On the bottom left of the application window, to the right of the Download button, is a text box in which you can name your program. After naming your program, press the save button to save it.
@@ -220,7 +220,7 @@ Clean up your coding workspace before you do a final save! What does this mean?
 * Remove (delete) any other blocks that you may have dragged into the coding workspace as you were experimenting and building your program.
 	
 ## Save and download
-Now that your code is running just fine in the simulator, is commented, and your coding window is ‘clean’, save your program, download it to your micro:bit, and enjoy!
+Now that your code is running just fine in the simulator, is commented, and your coding window is ‘clean’, save your program, download it to your Ragga, and enjoy!
 
 Here is the complete program:
 

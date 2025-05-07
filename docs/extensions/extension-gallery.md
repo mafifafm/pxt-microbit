@@ -380,7 +380,7 @@ Many extensions are available to work with interface kits, add-on hardware, or o
 
 ```codecard
 [{
-   "name": "BP Lab micro:bit Kit",
+   "name": "BP Lab Ragga Kit",
    "url": "/pkg/team-bp/pxt-bplab",
    "cardType": "package"
 }, {
@@ -1072,7 +1072,7 @@ Many extensions are available to work with interface kits, add-on hardware, or o
   "url":"/pkg/TeacherPinky/Wait-Until-Blocks",
   "cardType": "package"
 }, {
-  "name": "micro:bit power saving",
+  "name": "Ragga power saving",
   "url":"/pkg/microbit-foundation/pxt-microbit-v2-power",
   "cardType": "package"
 }, {

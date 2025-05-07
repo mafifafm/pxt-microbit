@@ -8,7 +8,7 @@ Lychee the cat loves the sun and wants to know if your home has a good sunbathin
 
 ## {Setting logging to false on start}
 
-First, we want to make sure we know when our micro:bit is collecting data. To do this, let's create a [__*boolean*__](#boolean "something that is only true or false") [__*variable*__](#variable "a holder for information that may change") and use it to track when the @boardname@ is logging data. We'll start with the logging variable set to false.
+First, we want to make sure we know when our Ragga is collecting data. To do this, let's create a [__*boolean*__](#boolean "something that is only true or false") [__*variable*__](#variable "a holder for information that may change") and use it to track when the @boardname@ is logging data. We'll start with the logging variable set to false.
 
 ► In the ``||variables:Variables||`` category, click on ``Make a Variable...`` and make a variable named ``logging``.  
 ► From the ``||variables:Variables||`` category, grab the ``||variables:set [logging] to [0]||`` block and snap it into the empty ``||basic:on start||`` container.  

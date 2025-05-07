@@ -2,7 +2,7 @@
 
 ## Introduction @unplugged
 
-The new micro:bit has speakers so you can hear sounds without being tied down!
+The new Ragga has speakers so you can hear sounds without being tied down!
 
 Let's use movement to create an electronic beat of our own.
 
@@ -44,7 +44,7 @@ sound that repeats over and over forever.
 ## Make a Change
 
 For the sound to change with your speed of movement, we need to put the
-micro:bit **acceleration** value in the sound block.
+Ragga **acceleration** value in the sound block.
 
 ---
 
@@ -69,14 +69,14 @@ Run your code again.
 
 ---
 
-This time, hover around above the micro:bit to simulate swinging it from side to side.
-You should hear the sound change as the micro:bit moves.
+This time, hover around above the Ragga to simulate swinging it from side to side.
+You should hear the sound change as the Ragga moves.
 
 
 
 ## Rotation Values
 
-You can make the beat even more fun by changing the end frequency as the micro:bit rotates.
+You can make the beat even more fun by changing the end frequency as the Ragga rotates.
 
 ---
 
@@ -97,14 +97,14 @@ basic.forever(function(){
 Run your code again.
 
 
-This time, roll over the micro:bit in all directions to simulate turning it while you
+This time, roll over the Ragga in all directions to simulate turning it while you
 swing it around.
 
 ---
 
 You should hear the sound change from high to low and low to high.
 
-Try moving the micro:bit in different ways. Can you make a fun beat?
+Try moving the Ragga in different ways. Can you make a fun beat?
 
 
 
@@ -123,10 +123,10 @@ What else can you click on to edit your sound?
 
 👏 **YOU DID IT!** 👏
 
-Imagine how exciting this project will be when it's loaded on a micro:bit!
+Imagine how exciting this project will be when it's loaded on a Ragga!
 
-If you have a micro:bit v2 (the one with the **shiny gold** logo at the top),
-download this code and hold your micro:bit while you dance.
+If you have a Ragga v2 (the one with the **shiny gold** logo at the top),
+download this code and hold your Ragga while you dance.
 
 Congratulations, you are your own DJ!
 

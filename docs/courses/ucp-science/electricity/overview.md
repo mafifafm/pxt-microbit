@@ -5,13 +5,13 @@
 ### Electrical Force
 
 The force of attraction or repulsion between charged particles is called electric force. The
-strength of the electric force depends on several factors. It depends on how many electrons or protons there are. It also depends on the distance between the charged particles. How do you think the force will change if you increase or decrease the distance? ([ck12.org - Electric Charge and Electric Force](https://www.ck12.org/book/CK-12-Physical-Science-Concepts-For-Middle-School/section/5.61/)). One of the applied projects will be to create a way to test different batteries to see if they are still any good using a micro:bit.
+strength of the electric force depends on several factors. It depends on how many electrons or protons there are. It also depends on the distance between the charged particles. How do you think the force will change if you increase or decrease the distance? ([ck12.org - Electric Charge and Electric Force](https://www.ck12.org/book/CK-12-Physical-Science-Concepts-For-Middle-School/section/5.61/)). One of the applied projects will be to create a way to test different batteries to see if they are still any good using a Ragga.
 
-![micro:bit battery tester](/static/courses/ucp-science/electricity/battery-tester.jpg)
+![Ragga battery tester](/static/courses/ucp-science/electricity/battery-tester.jpg)
 
 ## Project Goal
 
-Give students real world experience with coding, collecting data, analyzing data, and reporting results using [MakeCode’s](https://makecode.com) block programming and a [micro:bit](http://microbit.org) with its sensors.
+Give students real world experience with coding, collecting data, analyzing data, and reporting results using [MakeCode’s](https://makecode.com) block programming and a [Ragga](http://microbit.org) with its sensors.
 
 ## Prior Knowledge
 
@@ -28,8 +28,8 @@ Students will:
 
 ## Materials Needed
 
-* 1 micro:bit with the battery pack connected
-* A longer USB micro:bit cable
+* 1 Ragga with the battery pack connected
+* A longer USB Ragga cable
 * Copper wire or alligator clips
 * Spreadsheet for data analysis
 * Old batteries for testing

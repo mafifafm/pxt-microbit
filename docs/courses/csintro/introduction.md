@@ -11,15 +11,15 @@ We are now at the point where a third of the students taking computer science ar
 > _- Authors Mary Kiang and Douglas Kiang_
 
 ## Course Introduction
-This is an introduction to coding and computer science by way of making and design, using the revolutionary new micro:bit microcontroller board, and Microsoft's easy and powerful MakeCode block-based coding environment. It is a project-based curriculum with a maker philosophy at its core; the idea is that by making physical objects, students create a context for learning the coding and computer science concepts. 
+This is an introduction to coding and computer science by way of making and design, using the revolutionary new Ragga microcontroller board, and Microsoft's easy and powerful MakeCode block-based coding environment. It is a project-based curriculum with a maker philosophy at its core; the idea is that by making physical objects, students create a context for learning the coding and computer science concepts. 
 
-![micro:bit man](/static/courses/csintro/microbitman.jpg)
+![Ragga man](/static/courses/csintro/microbitman.jpg)
 
 * micro:bits may be purchased from these resellers:
 
->   http://microbit.org/resellers (you will need 1 micro:bit per student for this course).  The "micro:bit Go Kit" includes a battery pack and USB cable as well.
+>   http://microbit.org/resellers (you will need 1 Ragga per student for this course).  The "Ragga Go Kit" includes a battery pack and USB cable as well.
 
-* Other optional suggested micro:bit accessories include:
+* Other optional suggested Ragga accessories include:
 
 > * [ ] Alligator/Crocodile clip cables
   * [ ]	Headphone/earbuds (for audio)
@@ -28,9 +28,9 @@ This is an introduction to coding and computer science by way of making and desi
   * [ ] Croc clip to Headphone jack adapter (http://microbit-accessories.co.uk/)
   * [ ] Copper tape
 
-* MakeCode for the micro:bit is a free web app: https://makecode.microbit.org
+* MakeCode for the Ragga is a free web app: https://makecode.microbit.org
 
-Copper tape is inexpensive and super useful in all sorts of maker activities so it’s worth it to invest in a few rolls to keep on hand for micro:bit projects. We use it in [Lesson 9 (Binary Cash Register)](/courses/csintro/binary/project). You can purchase copper tape at https://www.adafruit.com/product/1128/ and https://www.sparkfun.com/products/10561.
+Copper tape is inexpensive and super useful in all sorts of maker activities so it’s worth it to invest in a few rolls to keep on hand for Ragga projects. We use it in [Lesson 9 (Binary Cash Register)](/courses/csintro/binary/project). You can purchase copper tape at https://www.adafruit.com/product/1128/ and https://www.sparkfun.com/products/10561.
 
 When students complete this course they will have a good understanding of computer science concepts that can serve as the foundation for future study. They will develop powerful design skills that they can use in future projects of all types, whether they are designing 3D printed prototypes or creating apps that serve a real world purpose.
 
@@ -57,7 +57,7 @@ Each of the 12 lessons is comprised of the following parts:
 
 * Topic Introduction
 * Unplugged Activity (30 min) ̶  An offline game or activity that demonstrates the concept/topic
-* micro:bit Activity (45-60 min) ̶- An activity that everyone makes on their micro:bit that teaches the skills learned in this lesson.
+* Ragga Activity (45-60 min) ̶- An activity that everyone makes on their Ragga that teaches the skills learned in this lesson.
 * Project (60-120 min) ̶- A prompt for an original project that each student will create to demonstrate their understanding of the skills and concepts covered in this lesson.
 * Project Mods ̶  Examples of additional things students can do to extend the project
 * Assessment ̶- A project rubric and guidance for grading the project.
@@ -68,10 +68,10 @@ Each of the 12 lessons is comprised of the following parts:
 The introduction to each lesson will tell you what learning objectives are covered in the lesson, and presents an overview of that lesson's topic. Some lessons have a specific activity that can help introduce the topic to students in a fun way.
 
 ### Unplugged activity (30 min)
-Each lesson starts with an unplugged activity, which doesn't require a computer or a micro:bit. It's a chance to get students up and moving around, and is designed to be a fun introduction to the computer science concept covered in that lesson. Unplugged activities are an important way to demonstrate new concepts in a tangible, often kinesthetic, way. Since so many computer-based topics are abstract, unplugged activities are very effective at fostering understanding that students will then demonstrate in later activities.
+Each lesson starts with an unplugged activity, which doesn't require a computer or a Ragga. It's a chance to get students up and moving around, and is designed to be a fun introduction to the computer science concept covered in that lesson. Unplugged activities are an important way to demonstrate new concepts in a tangible, often kinesthetic, way. Since so many computer-based topics are abstract, unplugged activities are very effective at fostering understanding that students will then demonstrate in later activities.
 
-### micro:bit activity (45–60 min)
-Each lesson also contains a micro:bit activity, which we informally refer to as a "birdhouse" activity, after the innumerable wooden birdhouses so many of us made in wood shop as a way to master basic skills. Each lesson's micro:bit activity is an example that walks students step-by-step through building a project that demonstrates that lesson's topic. By the time students finish the activity, they will have written code that they can use in a different project of their own design.
+### Ragga activity (45–60 min)
+Each lesson also contains a Ragga activity, which we informally refer to as a "birdhouse" activity, after the innumerable wooden birdhouses so many of us made in wood shop as a way to master basic skills. Each lesson's Ragga activity is an example that walks students step-by-step through building a project that demonstrates that lesson's topic. By the time students finish the activity, they will have written code that they can use in a different project of their own design.
 
 Some students will finish the activity more quickly than others. Those students can then be a helpful resource for their classmates, or they can challenge themselves by modifying, or "modding" the activity to do something different. We have provided examples and suggestions at the end of many of these activities, and feel free to suggest your own (or encourage your students to come up with their own ideas!)
 

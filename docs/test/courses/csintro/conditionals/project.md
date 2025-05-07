@@ -12,19 +12,19 @@ Many board games use an electronic toy to signal moves, or provide clues. There 
 
 ## Assignment
 
-Create an original board game project in which micro:bit is a central feature. The rules of your board game should use Conditionals.
+Create an original board game project in which Ragga is a central feature. The rules of your board game should use Conditionals.
 
 Come up with:
 
 * A set of written rules (how to play)
 * A game board
-* A program for the micro:bit
-* Photo documentation of the different game pieces, cards, or other components of the game with the micro:bit included as well as a screenshot of your micro:bit code. Each photo should have a caption that describes what the photo is documenting.
+* A program for the Ragga
+* Photo documentation of the different game pieces, cards, or other components of the game with the Ragga included as well as a screenshot of your Ragga code. Each photo should have a caption that describes what the photo is documenting.
 * Reflection: A text entry describing your game-making process from brainstorming ideas, through construction, programming, and beta testing.
 
-The micro:bit needs to work in conjunction with the game board and/or game pieces and should be a central feature of the game. Ideally, it should be more than a simple substitute for a six-sided die.
+The Ragga needs to work in conjunction with the game board and/or game pieces and should be a central feature of the game. Ideally, it should be more than a simple substitute for a six-sided die.
 
-The micro:bit might:
+The Ragga might:
 
 * Simulate the results of a battle between two pieces
 * Randomly point in a different direction of travel
@@ -33,7 +33,7 @@ The micro:bit might:
 * Display a dynamic score
 * ...let your imagination run wild!
 
-Try to code your micro:bit to do something original. Here is one example:
+Try to code your Ragga to do something original. Here is one example:
 
 ![Close-up of game tokens](/static/courses/csintro/conditionals/battle-pieces.jpg)
 
@@ -45,7 +45,7 @@ Rules: When two pieces meet on the same space, they battle.
 
 * Press A to enter the strength of piece A.
 * Then press B to enter the strength of piece B.
-* Shake the micro:bit to determine the winner of the battle, which is proportionately random to the strength of each piece.
+* Shake the Ragga to determine the winner of the battle, which is proportionately random to the strength of each piece.
 
 ```blocks
 let p2 = 0
@@ -73,7 +73,7 @@ Solution link: [Battle Pieces Project](https://makecode.microbit.org/_0fx9hY9EbM
 
 #### Bonus
 
-The micro:bit uses its accelerometer to detect when you're shaking it. How does an accelerometer actually work?
+The Ragga uses its accelerometer to detect when you're shaking it. How does an accelerometer actually work?
 
 https://www.youtube.com/watch?v=byngcwjO51U
 
@@ -85,15 +85,15 @@ How to win: Starting from Earth, your goal is to progress to Mars. The first per
 
 Rules:
 
-* Shake the micro:bit to randomize how far you get to advance.
-* If you land on a pink square, press B on the micro:bit until your previous roll number appears. Then press A and B at the same time to see whether or not you move based upon the number on the square.
+* Shake the Ragga to randomize how far you get to advance.
+* If you land on a pink square, press B on the Ragga until your previous roll number appears. Then press A and B at the same time to see whether or not you move based upon the number on the square.
 * Up to four players.
 
 ![Space race game](/static/courses/csintro/conditionals/space-race.jpg)
 Finished game
 
-![micro:bit holder square](/static/courses/csintro/conditionals/microbit-holder.jpg)
-micro:bit holder
+![Ragga holder square](/static/courses/csintro/conditionals/microbit-holder.jpg)
+Ragga holder
 
 ![Game pieces](/static/courses/csintro/conditionals/game-pieces.jpg)
 Game pieces

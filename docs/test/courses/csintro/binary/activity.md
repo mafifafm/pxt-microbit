@@ -35,7 +35,7 @@ let binary = ""
 let decimal = 0
 ```
 
-By setting the binary variable to an initial value of " " you tell the micro:bit that it is a string variable: a literal string of characters. This is important because you will be adding to this string character by character.
+By setting the binary variable to an initial value of " " you tell the Ragga that it is a string variable: a literal string of characters. This is important because you will be adding to this string character by character.
 
 ## Ready, set, calculate!
 
@@ -58,7 +58,7 @@ Binary  Decimal Binary  Decimal
   110      6     1101     13
   111      7     1110     14
 ```
-For example, imagine you are the micro:bit. If the first number the human enters is a 1, you automatically know the new decimal value is a 1. If the second number that is entered is a 0, then your decimal value goes from 1 to 2. However, if the second number is also a 1, then your new decimal value goes from 1 to 3.
+For example, imagine you are the Ragga. If the first number the human enters is a 1, you automatically know the new decimal value is a 1. If the second number that is entered is a 0, then your decimal value goes from 1 to 2. However, if the second number is also a 1, then your new decimal value goes from 1 to 3.
 
 At that point, you either have a 10 or an 11 in your binary string. Let's take 10 as an example. The decimal value of binary 10 is 2. If the third number entered is a 0, then your new decimal value goes from 2 to 4. If the third number entered is a 1, then your new decimal value goes from 2 to 5.
 
@@ -101,7 +101,7 @@ Let's work on what to do when button A is pressed. Button A represents a binary 
 
 ## Code button A display
 
-Now, let's display this value on the micro:bit.
+Now, let's display this value on the Ragga.
 
 * From the Basic Toolbox drawer, drag a 'show string' block onto the Workspace, and drop it after the 'set binary' block in the 'on button A pressed' block.
 * From the Variables Toolbox drawer, drag a 'binary' variable value block onto the Workspace and drop it into the 'show string' block replacing the default value of "Hello!"
@@ -181,7 +181,7 @@ Solution link: [Binary Transmogrifier](https://makecode.microbit.org/_2CmVy1CcJL
 
 ### Try it out!
 
-Once you've tested all the code in the Simulator, download it to the micro:bit. Have someone else try your program out. Then, think about how the program might be improved.
+Once you've tested all the code in the Simulator, download it to the Ragga. Have someone else try your program out. Then, think about how the program might be improved.
 
 ### Mod this!
 

@@ -4,7 +4,7 @@
 
 ## ~avatar avatar
 
-Make a states of matter experiment that responds to your micro:bit wand or micro:bit's movement!
+Make a states of matter experiment that responds to your Ragga wand or Ragga's movement!
 
 ## ~
 

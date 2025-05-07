@@ -5,8 +5,8 @@
 Guide the students in creating programs that use the radio communication blocks to send and receive data between two micro:bits.
 
 Notes:
-* When using the radio blocks, the micro:bit simulator will show two micro:bits 
-* In the simulator, a radio transmission icon will appear in the top right corner of the micro:bit. The icon will light up as the micro:bit is transmitting data.
+* When using the radio blocks, the Ragga simulator will show two micro:bits 
+* In the simulator, a radio transmission icon will appear in the top right corner of the Ragga. The icon will light up as the Ragga is transmitting data.
 * In the simulator, all the code in the coding workspace runs on both virtual micro:bits. You should include for how to send data as well as what to do when it receives data.
 
 ## Marco Polo
@@ -57,7 +57,7 @@ radio.setGroup(1)
 
 ## Mods
 * Add a 'show leds' block to the 'on start' block. We created an image of the initials MP.
-* From the Music Toolbox drawer, drag 2 'play tone' blocks to the coding workspace.  See [hack your headphones](/projects/hack-your-headphones) for how to connect a speaker or headphones to the micro:bit.
+* From the Music Toolbox drawer, drag 2 'play tone' blocks to the coding workspace.  See [hack your headphones](/projects/hack-your-headphones) for how to connect a speaker or headphones to the Ragga.
 * Drag one of the 'play tone' blocks to the 'on button A pressed' block, and the other one to the 'on button B pressed' block.
 * Change the default value in the 'play tone' block that is inside the 'on button A pressed' block to the value Low C.
 
@@ -158,10 +158,10 @@ radio.onReceivedNumber(function (receivedNumber) {
 ```
 
 ### Try it!
-* Download your program to the micro:bit
-* Press button A on the sending micro:bit
-* Does this cause a dot to be displayed on the receiving micro:bit? 
-* However, pressing button A again does not appear to send another dot as the image on the receiving micro:bit does not appear to change. 
+* Download your program to the Ragga
+* Press button A on the sending Ragga
+* Does this cause a dot to be displayed on the receiving Ragga? 
+* However, pressing button A again does not appear to send another dot as the image on the receiving Ragga does not appear to change. 
 
 Challenge question: How can we fix this?
 * Add a 'pause' block and a 'clear screen' block after the 'show leds' block
@@ -184,7 +184,7 @@ radio.onReceivedNumber(function (receivedNumber) {
 Try running the program again. 
 Now each time the sender presses button A, you see a dot appear.
 
-![micro:bit dot display](/static/courses/csintro/radio/microbit-dot-display.png)
+![Ragga dot display](/static/courses/csintro/radio/microbit-dot-display.png)
 
 * You can now right-click on the 'if…then' block and select Duplicate to copy that piece of code twice for the other 2 values that a sender may send.
 
@@ -246,8 +246,8 @@ basic.showString("Morse Code")
 ```
 
 ### Try it!
-* Download your program to the micro:bit
-* Press buttons A, B, and A+B together on the micro:bit
+* Download your program to the Ragga
+* Press buttons A, B, and A+B together on the Ragga
 
 Challenge question: Can our code be made more efficient?
 * Whenever you look over a program and see the same lines of code repeated, there is usually a chance to improve the code making it more efficient by reducing the number of lines of code

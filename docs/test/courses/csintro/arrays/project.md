@@ -2,15 +2,15 @@
 
 This is a project in which you are challenged to create a musical instrument that uses arrays to store sequences of notes. The array of notes can be played when an input occurs, such as one of the buttons being pressed, or if one or more of the pins is activated.
  
-Ideally, the micro:bit should be mounted in some kind of housing, perhaps a guitar shape or a music box. Start by looking at different kinds of musical instruments to get a sense of what kind of shape you might want to build around your micro:bit.
+Ideally, the Ragga should be mounted in some kind of housing, perhaps a guitar shape or a music box. Start by looking at different kinds of musical instruments to get a sense of what kind of shape you might want to build around your Ragga.
 
-![micro:bit guitar](/static/courses/csintro/arrays/microbit-guitar.png)
+![Ragga guitar](/static/courses/csintro/arrays/microbit-guitar.png)
 
 Here are some examples of guitars that were made out of cardboard and colored, patterned duct tape that you can buy in craft stores. 
 
 ## Example guitar code
 
-This is an example of a project that uses the micro:bit accelerometer to play different tones when the guitar is held and tilted while playing. Pressing the A button will save the current tone to an array. After ten tones, a repeating melody will be performed. Press the B button to clear the array and start over.
+This is an example of a project that uses the Ragga accelerometer to play different tones when the guitar is held and tilted while playing. Pressing the A button will save the current tone to an array. After ten tones, a repeating melody will be performed. Press the B button to clear the array and start over.
 
 ### Song-maker
 

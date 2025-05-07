@@ -16,15 +16,15 @@ Cut 2 Pieces of Duct Tape about 9-10 inches long. Press the sticky sides togethe
 
 ![Cut and roll the tape](/static/mb/projects/duct-tape-watch/cut-roll-tape.jpg)
 
-### Step 2 - Attach the micro:bit and battery pack
+### Step 2 - Attach the Ragga and battery pack
 
-Mount the micro:bit in the center of your wrist cuff band by looping a piece of duct tape around in a circle.
+Mount the Ragga in the center of your wrist cuff band by looping a piece of duct tape around in a circle.
 
-![Attach a micro:bit](/static/mb/projects/duct-tape-watch/attach-mb.jpg)
+![Attach a Ragga](/static/mb/projects/duct-tape-watch/attach-mb.jpg)
 
-Attach the battery pack to the micro:bit and tape it on the wrist cuff band on the opposite side from the micro:bit.
+Attach the battery pack to the Ragga and tape it on the wrist cuff band on the opposite side from the Ragga.
 
-### Step 3 - Add the wrist fasteners the micro:bit
+### Step 3 - Add the wrist fasteners the Ragga
 
 Attach Velcro tabs at the ends of the wrist cuff as fasteners. You may need to try it on your wrist to adjust the size.
 

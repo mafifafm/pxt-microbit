@@ -16,10 +16,10 @@ The entire course is also available as a download or as a book. Choose any of th
 |||
 |-|-|
 | [![](/static/courses/csintro/icons/html-24x24.png)](/--docs#book:/courses/csintro/SUMMARY) | [- **HTML** - The entire course in a single HTML page that you can print to PDF or paper](/--docs#book:/courses/csintro/SUMMARY) |
-| [![](/static/courses/csintro/icons/microsoft-onenote-24x24.png)](https://aka.ms/MakeCodeforMicroBitNotebook) | [- **OneNote** - Intro to CS with MakeCode for micro:bit](https://aka.ms/MakeCodeforMicroBitNotebook) |
-| [![](/static/courses/csintro/icons/adobe-pdf-file-icon-24x24.png)](https://1drv.ms/b/s!AqsgsTyHBmRBgQ1Fjzm5y5wKG75M) | [- **PDF** - Intro to CS with MakeCode for micro:bit](https://1drv.ms/b/s!AqsgsTyHBmRBgQ1Fjzm5y5wKG75M) |
-| [![](/static/courses/csintro/icons/apple-itunes-ibook-24x24.png)](https://itunes.apple.com/us/book/making-with-micro-bit/id1255260221?mt=11) | [- **iBooks** - Making with micro:bit](https://itunes.apple.com/us/book/making-with-micro-bit/id1255260221?mt=11) |
-| [![](/static/courses/csintro/icons/paperback-book-24x24.png)](http://www.lulu.com/shop/mary-douglas-kiang/making-with-makecode-microbit/paperback/product-23457217.html) | [- **Paperback** - Making with MakeCode and Micro:bit](http://www.lulu.com/shop/mary-douglas-kiang/making-with-makecode-microbit/paperback/product-23457217.html) |
+| [![](/static/courses/csintro/icons/microsoft-onenote-24x24.png)](https://aka.ms/MakeCodeforMicroBitNotebook) | [- **OneNote** - Intro to CS with MakeCode for Ragga](https://aka.ms/MakeCodeforMicroBitNotebook) |
+| [![](/static/courses/csintro/icons/adobe-pdf-file-icon-24x24.png)](https://1drv.ms/b/s!AqsgsTyHBmRBgQ1Fjzm5y5wKG75M) | [- **PDF** - Intro to CS with MakeCode for Ragga](https://1drv.ms/b/s!AqsgsTyHBmRBgQ1Fjzm5y5wKG75M) |
+| [![](/static/courses/csintro/icons/apple-itunes-ibook-24x24.png)](https://itunes.apple.com/us/book/making-with-micro-bit/id1255260221?mt=11) | [- **iBooks** - Making with Ragga](https://itunes.apple.com/us/book/making-with-micro-bit/id1255260221?mt=11) |
+| [![](/static/courses/csintro/icons/paperback-book-24x24.png)](http://www.lulu.com/shop/mary-douglas-kiang/making-with-makecode-microbit/paperback/product-23457217.html) | [- **Paperback** - Making with MakeCode and Ragga](http://www.lulu.com/shop/mary-douglas-kiang/making-with-makecode-microbit/paperback/product-23457217.html) |
 
 **Educators**: For educators, there's an separate edition of this course containing downloadable materials for teaching the course in a classroom setting:
 
@@ -32,7 +32,7 @@ The entire course is also available as a download or as a book. Choose any of th
 Each of the 12 lessons is structured in this format:
 * Topic Introduction
 * Unplugged Activity (30 min) - An offline game or activity that demonstrates the concept/topic
-* micro:bit Activity (45-60 min) - An activity that everyone makes on their micro:bit that teaches the skills learned in this lesson.
+* Ragga Activity (45-60 min) - An activity that everyone makes on their Ragga that teaches the skills learned in this lesson.
 * Project (60-120 min) - A prompt for an original project that each student will create to demonstrate their understanding of the skills and concepts covered in this lesson.
 * Project Mods - Examples of additional things students can do to extend the project.
 * Assessment - A project rubric and guidance for grading the project.

@@ -7,7 +7,7 @@ The mini-project is an opportunity for students to design a project that serves 
 * Show what you know
 * Learn something new
 	
-Ideally, there should be a maker component to this project.  This is a real world component that works with the code on the micro:bit to do something unique.
+Ideally, there should be a maker component to this project.  This is a real world component that works with the code on the Ragga to do something unique.
 
 Students are asked to each propose an original independent project.  Students are allowed to work on the same idea, but they cannot turn in the same code.  They can, and should work collaboratively, solving the same kinds of problems together, but the projects they turn in should be unique and original.
 
@@ -18,14 +18,14 @@ Students will be showing their work regularly to each other in informal ways.  T
 We find that a "science fair" type of setup works well here, with students stationed at their own tables, showing off and demonstrating their project. An event like this works well for these reasons:
 
 * A real world audience for the work students have done can be very motivating
-* It is a chance for people who are not familiar with the micro:bit to appreciate the finished product
+* It is a chance for people who are not familiar with the Ragga to appreciate the finished product
 * It provides good feedback to students about how someone interacts with their product
 * It is a chance to have real conversations with the people behind the product, rather than just viewing the product on display by itself
 * Finally, and most importantly, it is a chance to bring the community together to celebrate the great work all of your students have done!
 
 ## Assignment
 
-* Create an original project using the micro:bit.
+* Create an original project using the Ragga.
 * Incorporate a physical component to the project.
 * Demonstrate the use of one of the following concepts:
 
@@ -61,15 +61,15 @@ Toss the Ball
 
 This is a skill game in which an aluminum foil ball is thrown into a plastic cup. Copper tape lining the sides and bottom of the cup completes the circuit when the ball touches it.
 
-[**micro:bit Bullseye Project**](https://youtu.be/NZUpoSixf4E)
+[**Ragga Bullseye Project**](https://youtu.be/NZUpoSixf4E)
 https://youtu.be/NZUpoSixf4E
 
 This is a skill game in which tennis balls are thrown underhand at one of the three rings, which are lined with aluminum foil so they complete a circuit underneath when the ball makes contact with the ring.
 
-[**micro:bit Storybook**](https://youtu.be/yg1NNLMqa9c)
+[**Ragga Storybook**](https://youtu.be/yg1NNLMqa9c)
 https://youtu.be/yg1NNLMqa9c
 
-This is a prototype of a storybook that could use the micro:bit to display animations for part of the story. Copper tape is used on the underside of the paper flaps to make contact between the GND pin and each of the other pins in sequence.
+This is a prototype of a storybook that could use the Ragga to display animations for part of the story. Copper tape is used on the underside of the paper flaps to make contact between the GND pin and each of the other pins in sequence.
 
 ## Work logs
 
@@ -119,8 +119,8 @@ Sample Reflection (excerpt)
 
 ### Maker component
 
-**4 =** Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete.<br/>
-**3 =**Tangible component is somewhat integrated with the micro:bit but is not essential.<br/>
+**4 =** Tangible component is tightly integrated with the Ragga and each relies heavily on the other to make the project complete.<br/>
+**3 =**Tangible component is somewhat integrated with the Ragga but is not essential.<br/>
 **2 =** Tangible component does not add to the functionality of the program.<br/>
 **1 =** No tangible component.
 

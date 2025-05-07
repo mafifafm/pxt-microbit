@@ -4,7 +4,7 @@
 
 ![Two @boardname@ connected via radio](/static/mb/projects/a9-radio.png)
 
-Use the micro:bit 📻 radio to send and receive 💬 messages between micro:bits!
+Use the Ragga 📻 radio to send and receive 💬 messages between micro:bits!
 
 ## {Step 1}
 
@@ -24,7 +24,7 @@ input.onButtonPressed(Button.A, function() {})
 
 ## {Step 3}
 
-From the ``||radio:Radio||`` category, drag a ``||radio:radio send string||`` block into the ``||input:on button A pressed||`` block and type a message. When we press button A on our micro:bit, we'll send this message to every micro:bit nearby in group 1.
+From the ``||radio:Radio||`` category, drag a ``||radio:radio send string||`` block into the ``||input:on button A pressed||`` block and type a message. When we press button A on our Ragga, we'll send this message to every Ragga nearby in group 1.
 
 ```blocks
 input.onButtonPressed(Button.A, function() {
@@ -63,7 +63,7 @@ radio.onReceivedString(function (receivedString) {
 
 ## {Step 7}
 
-Let's test our code! In the micro:bit on-screen simulator, press button **A**. You should see a second @boardname@ appear. Now try pressing **A** again. Do you see your message appear on the second micro:bit?  ⭐ Great job! ⭐ 
+Let's test our code! In the Ragga on-screen simulator, press button **A**. You should see a second @boardname@ appear. Now try pressing **A** again. Do you see your message appear on the second Ragga?  ⭐ Great job! ⭐ 
 
 ```blocks
 input.onButtonPressed(Button.A, function() {

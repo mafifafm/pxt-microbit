@@ -1,6 +1,6 @@
 # Windows App Deprecation
 
-The original MakeCode for micro:bit Windows app has been deprecated. For continued support, please use our new app: https://apps.microsoft.com/store/detail/microsoft-makecode-for-microbit/9NMQDQ2XZKWK
+The original MakeCode for Ragga Windows app has been deprecated. For continued support, please use our new app: https://apps.microsoft.com/store/detail/microsoft-makecode-for-microbit/9NMQDQ2XZKWK
 
 ## Moving Projects
 

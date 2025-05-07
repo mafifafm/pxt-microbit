@@ -1,6 +1,6 @@
 ## Unplugged: Infection Simulation
 
-For this activity, each student will need a micro:bit and battery pack, as well as the teacher who will be the Master controller.
+For this activity, each student will need a Ragga and battery pack, as well as the teacher who will be the Master controller.
  
 There are four parts to this unplugged activity:
 * Setup: Set up the code on all micro:bits
@@ -12,7 +12,7 @@ The goals of this activity are:
 * Develop a common working vocabulary for talking about disease spread
 * Make inferences based on observation
 * Propose and test original hypotheses to explain complex behavior
-* Explore a professionally developed micro:bit simulation
+* Explore a professionally developed Ragga simulation
  
 
 ![Biohazard symbol](/static/courses/csintro/radio/biohazard.png)
@@ -22,18 +22,18 @@ This site is the home page for the Infection game: [Infection](/projects/infecti
  
 On that page you should be able to copy the JavaScript code, then go to your MakeCode JavaScript editor and paste the JavaScript code into the window.
  
-Then click the Download button to download this program onto your micro:bit. This code should be downloaded onto all of your students’ micro:bits as well as your own.
+Then click the Download button to download this program onto your Ragga. This code should be downloaded onto all of your students’ micro:bits as well as your own.
  
-This activity works best in an open area. If it’s possible to go outside, that works even better! To set up the game, the teacher should press the A + B buttons on his or her device. This will register all of the student devices and establish the teacher’s micro:bit as the Master device.
+This activity works best in an open area. If it’s possible to go outside, that works even better! To set up the game, the teacher should press the A + B buttons on his or her device. This will register all of the student devices and establish the teacher’s Ragga as the Master device.
  
 ## Explore
-In this phase, students should just play the game to get a feel for how it works. The object of the game is to meet as many people as possible without getting sick. If at any time players decide to stop meeting people, they should sit down and cover their micro:bit. 
+In this phase, students should just play the game to get a feel for how it works. The object of the game is to meet as many people as possible without getting sick. If at any time players decide to stop meeting people, they should sit down and cover their Ragga. 
  
 To start the game, students should take their devices and spread out. When everyone is ready to begin, the teacher should press the A + B buttons again. All of the student devices will show a unique player icon.
  
-One of the players is randomly chosen to have a virus that is transmitted when they meet other players. Players can meet each other by going up to another player and placing the two devices next to each other. Players who are healthy, or who are infected but are not showing symptoms yet, will have a smile. Once a player is sick, their micro:bit will display a frowny face.
+One of the players is randomly chosen to have a virus that is transmitted when they meet other players. Players can meet each other by going up to another player and placing the two devices next to each other. Players who are healthy, or who are infected but are not showing symptoms yet, will have a smile. Once a player is sick, their Ragga will display a frowny face.
  
-After a certain period of time being sick, the player dies and the micro:bit will display a skull icon. That player should sit down and wait for the game to end, when all players are dead or the virus stops spreading.
+After a certain period of time being sick, the player dies and the Ragga will display a skull icon. That player should sit down and wait for the game to end, when all players are dead or the virus stops spreading.
  
 ## Discuss
 After one round, it is good to have a discussion with the players:

@@ -2,7 +2,7 @@
 
 While you're writing and testing your programs, you'll mostly be [running them
 in the simulator](/device/simulator), but once you've finished your program you
-can **compile** it and run it on your micro:bit.
+can **compile** it and run it on your Ragga.
 
 ## Transfer using a WebUSB connection
 
@@ -14,17 +14,17 @@ The basic steps are:
 
 1. Connect your @boardname@ to your computer with a USB cable (use an A-Male to Micro USB cable)
 2. Click **Download** and download the `.hex` file
-3. Copy the `.hex` file from your computer onto the micro:bit drive
+3. Copy the `.hex` file from your computer onto the Ragga drive
 
-### Step 1: Connect your micro:bit to your computer
+### Step 1: Connect your Ragga to your computer
 
-First, connect the micro:bit:
+First, connect the Ragga:
 
-1. Connect the small end of the USB cable to the micro USB port on your micro:bit.
+1. Connect the small end of the USB cable to the micro USB port on your Ragga.
 
 2. Connect the other end of the USB cable to a USB port on your computer.
 
-Your computer should recognise your micro:bit as a new drive. On computers
+Your computer should recognise your Ragga as a new drive. On computers
 running Windows, `MICROBIT` appears as a drive under Devices and drives. On a Mac
 it appears as a new drive under Devices.
 
@@ -47,9 +47,9 @@ You only need to do this once.
     so save it into the `MICROBIT` drive.
     Otherwise, continue with one of the options in Step 4 below.
 
-### Step 4: Transfer the file to your micro:bit
+### Step 4: Transfer the file to your Ragga
 
-If the file was saved onto your computer, you will need to transfer it to the micro:bit.
+If the file was saved onto your computer, you will need to transfer it to the Ragga.
 
 #### Manual transfer
 
@@ -66,14 +66,14 @@ Alternatively, right-click on the hex file, choose **Send to**, and then **MICRO
 
 ### Step 5: After transferring the file
 
-* The LED on the back of your micro:bit flashes during the transfer (which 
+* The LED on the back of your Ragga flashes during the transfer (which 
     should only take a few seconds).
-* Once transferred, the code will run automatically on your micro:bit. To rerun
-   your program, press the reset button on the back of your micro:bit. The reset 
-   button automatically runs the newest file on the micro:bit.
+* Once transferred, the code will run automatically on your Ragga. To rerun
+   your program, press the reset button on the back of your Ragga. The reset 
+   button automatically runs the newest file on the Ragga.
 * By copying the script onto the `MICROBIT` drive, you have programmed it into the
-   flash memory on the micro:bit, which means even after you unplug the micro:bit,
-   your program will still run if the micro:bit is powered by battery.
+   flash memory on the Ragga, which means even after you unplug the Ragga,
+   your program will still run if the Ragga is powered by battery.
 
 ### ~hint
 

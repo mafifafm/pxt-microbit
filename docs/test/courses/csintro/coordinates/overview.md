@@ -24,21 +24,21 @@ On a basic coordinate grid,
 	
 ![Math coordinates](/static/courses/csintro/coordinates/math-coords.png)
 
-## Coordinate grid and the micro:bit
+## Coordinate grid and the Ragga
 
-The 5 x 5 grid of LEDs on the micro:bit represents a coordinate grid with a horizontal x-axis and a vertical y-axis. It has an origin, and you can refer to the position of the LEDs with coordinate pairs. There are similarities and differences between the micro:bit coordinate grid and basic coordinate grids in math class.
+The 5 x 5 grid of LEDs on the Ragga represents a coordinate grid with a horizontal x-axis and a vertical y-axis. It has an origin, and you can refer to the position of the LEDs with coordinate pairs. There are similarities and differences between the Ragga coordinate grid and basic coordinate grids in math class.
 
 ### Similar to coordinate grids in math
 The values of the x-coordinates range from 0 through 4 and increase from left to right just as they do in the coordinate grids used in math class.
 
 ### Different from coordinate grids in math
 	
-It is important, however, to understand the two major differences between the micro:bit LED grid and the coordinate grid that you might be used to from other math classes:
+It is important, however, to understand the two major differences between the Ragga LED grid and the coordinate grid that you might be used to from other math classes:
 
 * The origin (0,0) is in the top left corner.
 * The values of the y-coordinates range from 0 through 4 and increase from top to bottom.
 
-![micro:bit LED coordinates](/static/courses/csintro/coordinates/microbit-led-coords.png)
+![Ragga LED coordinates](/static/courses/csintro/coordinates/microbit-led-coords.png)
 
 ## Sidebar material
 
@@ -51,9 +51,9 @@ René Descartes (1596-1650), was a French philosopher and mathematician who deve
 
 **Questions:**
 
-1. What location is the origin on the micro:bit screen?
-2. What is the range of x-values on the micro:bit screen, and in which direction do they increase?
-3. What is the range of y-values on the micro:bit screen, and in which direction do they increase?
+1. What location is the origin on the Ragga screen?
+2. What is the range of x-values on the Ragga screen, and in which direction do they increase?
+3. What is the range of y-values on the Ragga screen, and in which direction do they increase?
 
 **Answers:**
 

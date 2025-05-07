@@ -1,5 +1,5 @@
-# robots.txt for PXT Micro:Bit
+# robots.txt for PXT Ragga
 
-# Disable crawling in /v2 path for micro:bit
+# Disable crawling in /v2 path for Ragga
 User-agent: *
 Disallow: /v2

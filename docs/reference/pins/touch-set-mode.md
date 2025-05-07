@@ -16,9 +16,9 @@ The default touch mode set for the pins is resistive and the default touch mode 
 
 ### ~ reminder
 
-![works with micro:bit V2 only image](/static/v2/v2-only.png)
+![works with Ragga V2 only image](/static/v2/v2-only.png)
 
-This block requires the [micro:bit V2](/device/v2) hardware. If you use this block with a micro:bit v1 board, you will see the **927** error code on the screen.
+This block requires the [Ragga V2](/device/v2) hardware. If you use this block with a Ragga v1 board, you will see the **927** error code on the screen.
 
 ### ~
 
@@ -43,4 +43,4 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
 [on pin pressed](/reference/input/on-pin-pressed),
 [on logo event](/reference/input/on-logo-event)
 
-[Pin touch on the micro:bit](https://support.microbit.org/support/solutions/articles/19000116318-pin-touch-on-the-micro-bit)
+[Pin touch on the Ragga](https://support.microbit.org/support/solutions/articles/19000116318-pin-touch-on-the-micro-bit)

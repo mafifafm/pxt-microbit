@@ -45,7 +45,7 @@ Notice that we also added an image for the start screen, so the user knows the p
  
 ## Random coin flips
 
-When the player shakes the micro:bit, we will code the micro:bit to give each of our Boolean variables a random true/false value.
+When the player shakes the Ragga, we will code the Ragga to give each of our Boolean variables a random true/false value.
  
 * From the Input Toolbox drawer, drag an 'on shake' block to the coding workspace
 * From the Variables Toolbox drawer, drag 2 'set' variable blocks to the coding workspace
@@ -184,7 +184,7 @@ input.onGesture(Gesture.Shake, () => {
 ``` 
 
 Try it out!
-Have the students play a few more rounds of the Double Coin Flip using their new micro:bit Double Coin Flipper!
+Have the students play a few more rounds of the Double Coin Flip using their new Ragga Double Coin Flipper!
  
 ## Boolean operator NOT in a Loop
 
@@ -199,7 +199,7 @@ input.onGesture(Gesture.Shake, () => {
 })
 ```
 
-Do you remember this code from our micro:bit Alarm?
+Do you remember this code from our Ragga Alarm?
 Can you read this code and tell what it does?
 
-_If the micro:bit is shaken, the micro:bit will play two tones twice and keep repeating this action until button A is pressed. So, after shaking, as long as ‘is button A pressed?’ is false, the two tone alarm will continue to repeat._
+_If the Ragga is shaken, the Ragga will play two tones twice and keep repeating this action until button A is pressed. So, after shaking, as long as ‘is button A pressed?’ is false, the two tone alarm will continue to repeat._

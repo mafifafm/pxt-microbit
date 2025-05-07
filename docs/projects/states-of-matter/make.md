@@ -13,7 +13,7 @@ https://youtu.be/Hdsy93yaQC0
 ## ~
 
 * Fold the foil squares and place them around the cardboard.
-*  Connect each piece of foil to the appropriate pin on the micro:bit.
+*  Connect each piece of foil to the appropriate pin on the Ragga.
 
 That's it!
 

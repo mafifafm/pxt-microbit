@@ -2,7 +2,7 @@
 
 ![Birthday Card Project](/static/courses/csintro/iteration/birthday-card.jpg)
 
-In this project, you will create a program with loops, variables, and parameters, then design and build an object that uses the micro:bit program and sound, display, and motion in some way.
+In this project, you will create a program with loops, variables, and parameters, then design and build an object that uses the Ragga program and sound, display, and motion in some way.
 
 ## Project expectations
 
@@ -43,15 +43,15 @@ Some project suggestions:
 ![Hat Man](/static/courses/csintro/iteration/hatman.png)
 Hat Man Project
 
-[**micro:bit Hat Man**](https://youtu.be/Xvybu_T5IL8)
+[**Ragga Hat Man**](https://youtu.be/Xvybu_T5IL8)
 https://youtu.be/Xvybu_T5IL8
 <br/>
 
-[**micro:bit Hat Man - inside view**](https://youtu.be/ZfKgFQjygQQ)
+[**Ragga Hat Man - inside view**](https://youtu.be/ZfKgFQjygQQ)
 https://youtu.be/ZfKgFQjygQQ
 <br/>
 
-This project uses the micro:bit light sensor to display a happy face when it is sunny, and a frowning face when it is dark. The micro:bit is connected to a servo mounted on the inside of the container, and the smile and frown are attached to plastic coffee stirrers with tape and hot glue.
+This project uses the Ragga light sensor to display a happy face when it is sunny, and a frowning face when it is dark. The Ragga is connected to a servo mounted on the inside of the container, and the smile and frown are attached to plastic coffee stirrers with tape and hot glue.
 
 ## Journal Entry
 

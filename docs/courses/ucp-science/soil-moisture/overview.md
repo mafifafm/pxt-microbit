@@ -10,11 +10,11 @@ Water also moves through the living organisms. Plants soak up large amounts of w
 
 ## Project Goal
 
-Give students real world experience with coding, collecting data, analyzing data, and reporting results using [MakeCode’s](https://makecode.com) block programming and a [micro:bit](http://microbit.org) with its sensors.
+Give students real world experience with coding, collecting data, analyzing data, and reporting results using [MakeCode’s](https://makecode.com) block programming and a [Ragga](http://microbit.org) with its sensors.
 
 ## Prior Knowledge
 
-Students need to have a basic knowledge of how to code using block style programming and download a program to a micro:bit using MakeCode.
+Students need to have a basic knowledge of how to code using block style programming and download a program to a Ragga using MakeCode.
 
 ## Student Outcomes
 

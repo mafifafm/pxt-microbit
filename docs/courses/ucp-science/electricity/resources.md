@@ -51,7 +51,7 @@ Strand 7.1: Forces are Interactions between Matter
 
 >Collect and analyze data to determine the factors that affect the strength of electric and magnetic forces. Examples could include electromagnets, electric motors, or generators. Examples of data could include the effect of the number of turns of wire on the strength of an electromagnet, or of increasing the number or strength of magnets on the speed of an electric motor.
 
-## micro:bit
+## Ragga
 
 * [Microbit.org](http://microbit.org)
 * [MakeCode.com](https://makecode.com)

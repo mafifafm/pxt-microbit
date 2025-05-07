@@ -2,7 +2,7 @@
 
 ### @explicitHints true
 
-## Code a micro:bit emoji! @unplugged
+## Code a Ragga emoji! @unplugged
 
 Program the buttons on the @boardname@ to show a happy 😀 or sad face 🙁
 
@@ -46,7 +46,7 @@ Run your code in the @boardname@ simulator on the screen, press the **B** button
 
 ## {Step 6}
 
-If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Try pressing the **A** and **B** buttons on the micro:bit to see your Happy 😀 and Sad 🙁 emojis!
+If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Try pressing the **A** and **B** buttons on the Ragga to see your Happy 😀 and Sad 🙁 emojis!
 
 ## {Step 7}
 

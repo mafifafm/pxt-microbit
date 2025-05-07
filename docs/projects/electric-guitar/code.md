@@ -6,7 +6,7 @@ From the [Make](/projects/electric-guitar/make.md) project, we know that wheneve
 
 ## Code your electric guitar
 
-Download this code to your micro:bit. It creates the tones that play when you press the foil strips on the guitar.
+Download this code to your Ragga. It creates the tones that play when you press the foil strips on the guitar.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {

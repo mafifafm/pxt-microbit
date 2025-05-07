@@ -17,7 +17,7 @@ You should demonstrate your knowledge of one or more concepts we have covered in
 You should demonstrate a technique, efficiency, or block that you went out and learned how to do on your own, either from the documentation, or from another classmate.
 
 ## Incorporate a maker component
-You should not create a project that exists solely and independently on the micro:bit. Your project should work together with tangible components such as servos, real buttons, switches, to do something unique.
+You should not create a project that exists solely and independently on the Ragga. Your project should work together with tangible components such as servos, real buttons, switches, to do something unique.
 
 ## Timeframe
 Three weeks of in-class work and activities
@@ -90,7 +90,7 @@ You can then copy the URL, paste it into a OneNote page, or send it to your teac
 
 You also need to create a written final narrative to accompany your code.
  
-You have worked for the past three weeks to propose, design, and test an original micro:bit independent project. I am looking for an honest, accurate assessment of your work over this time.
+You have worked for the past three weeks to propose, design, and test an original Ragga independent project. I am looking for an honest, accurate assessment of your work over this time.
  
 Please go back and read through all of your Work Logs, Records of Thinking, Beta Testing feedback, and any notes from teacher conferences. 
  
@@ -117,7 +117,7 @@ Sample Final Narrative:
 >_Once I started to get a little more clear on what to do, I was able to get more effective help from my classmates. Specifically, Jordan helped me a lot with figuring out how to get an image to display properly on the screen. He also showed me how to search through the online documentation more effectively. I think if I could do this over again, I would have scheduled more time earlier to meet with Mr. Kiang and/or found a better way to share the different online sites with my table mates because we all found different places to go. I didn’t even find out until the end that you could jump into JavaScript to make changes to the code, and it makes it all with the right blocks when you go back! (Beta Testing notes) That would have saved me a lot of time._
 
 ## Beta testing
-Beta testing is an important part of testing the final projects to uncover bugs or design issues that could make the projects difficult to use. One way to test the projects is to ask all students to come in to class on a specific day with the projects ready to test. This is not the final deadline, but projects should be "feature-complete" i.e., all features need to be incorporated into the micro:bit, and the construction of the real world elements of the project need to be done or almost done.
+Beta testing is an important part of testing the final projects to uncover bugs or design issues that could make the projects difficult to use. One way to test the projects is to ask all students to come in to class on a specific day with the projects ready to test. This is not the final deadline, but projects should be "feature-complete" i.e., all features need to be incorporated into the Ragga, and the construction of the real world elements of the project need to be done or almost done.
 
 Students can take turns presenting their projects to the entire class, or they can work in pairs to take turns trying their partner's project out and offering feedback. Students who are being critiqued should take beta testing feedback notes and turn them in as part of their final project narrative.
 
@@ -154,8 +154,8 @@ We have found that a "science fair" format works nicely, with students sitting a
 
 ### Maker component
 
-**4 =** Tangible component is tightly integrated with the micro:bit and each relies heavily on the other to make the project complete. <br/>
-**3 =** Tangible component is somewhat integrated with the micro:bit but is not essential.<br/>
+**4 =** Tangible component is tightly integrated with the Ragga and each relies heavily on the other to make the project complete. <br/>
+**3 =** Tangible component is somewhat integrated with the Ragga but is not essential.<br/>
 **2 =** Tangible component does not add to the functionality of the program.<br/>
 **1 =** No tangible component.
 

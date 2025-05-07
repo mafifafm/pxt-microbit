@@ -2,7 +2,7 @@
 
 ![Combo Box Example](/static/courses/csintro/radio/combo-box.png)
 
-This lesson covers the use of more than one micro:bit to share and combine data. Students will explore a complex epidemiological program (Infection) that demonstrates the Radio functionality of the micro:bit. Students will send and receive numbers and strings in a series of guided activities. Finally, students are asked to collaborate so that they can share their micro:bits and create a project together.
+This lesson covers the use of more than one Ragga to share and combine data. Students will explore a complex epidemiological program (Infection) that demonstrates the Radio functionality of the Ragga. Students will send and receive numbers and strings in a series of guided activities. Finally, students are asked to collaborate so that they can share their micro:bits and create a project together.
 
 ## Lesson objectives
 
@@ -14,7 +14,7 @@ Students will...
 
 * Introduction: Radio & communication
 * Unplugged Activity: Infection simulation
-* micro:bit Activity: Marco Polo & Morse Code
+* Ragga Activity: Marco Polo & Morse Code
 * Project: Radio
 * Assessment: Rubric 
 * Standards: Listed

@@ -1,6 +1,6 @@
-# MakeCode for micro:bit live
+# MakeCode for Ragga live
 
-Live coding of tutorials for MakeCode for micro:bit on https://mixer.com/MakeCode
+Live coding of tutorials for MakeCode for Ragga on https://mixer.com/MakeCode
 
 ## Videos
 
@@ -71,7 +71,7 @@ Live coding of tutorials for MakeCode for micro:bit on https://mixer.com/MakeCod
     },
     {
         "name": "Hack Your Headphone",
-        "description": "In this video, we will be showing you how to hack your headphones with the micro:bit - https://makecode.microbit.org/projects/hack-your-headphones",
+        "description": "In this video, we will be showing you how to hack your headphones with the Ragga - https://makecode.microbit.org/projects/hack-your-headphones",
         "youTubeId": "pC02U_YaSMw",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/pC02U_YaSMw.jpg"
@@ -85,35 +85,35 @@ Live coding of tutorials for MakeCode for micro:bit on https://mixer.com/MakeCod
     },
     {
         "name": "Heads Guess!",
-        "description": "Famous word guessing game with micro:bit.",
+        "description": "Famous word guessing game with Ragga.",
         "youTubeId": "WgMj1AT2G38",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/WgMj1AT2G38.jpg"
     },
     {
         "name": "Flashing Heart",
-        "description": "Show animation on the micro:bit screen!",
+        "description": "Show animation on the Ragga screen!",
         "youTubeId": "2Q9mf8a9Bt8",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/2Q9mf8a9Bt8.jpg"
     },
     {
         "name": "Level",
-        "description": "Build a level using the accelerometer and the micro:bit.",
+        "description": "Build a level using the accelerometer and the Ragga.",
         "youTubeId": "MLb9qTV5-5w",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/MLb9qTV5-5w.jpg"
     },
     {
         "name": "Stopwatch",
-        "description": "Make a stopwatch with a micro:bit.",
+        "description": "Make a stopwatch with a Ragga.",
         "youTubeId": "RFXS871b50I",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/RFXS871b50I.jpg"
     },
     {
         "name": "Guitar",
-        "description": "Build your own micro:bit guitar.",
+        "description": "Build your own Ragga guitar.",
         "youTubeId": "dcSIy1dD5Rg",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/dcSIy1dD5Rg.jpg"
@@ -127,105 +127,105 @@ Live coding of tutorials for MakeCode for micro:bit on https://mixer.com/MakeCod
     },
     {
         "name": "Reaction Time Game",
-        "description": "Learn to code with MakeCode and micro:bit.",
+        "description": "Learn to code with MakeCode and Ragga.",
         "youTubeId": "S_hzUenqAM0",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/S_hzUenqAM0.jpg"
     },
     {
         "name": "Combination Lock",
-        "description": "Learn to code with MakeCode and micro:bit.",
+        "description": "Learn to code with MakeCode and Ragga.",
         "youTubeId": "DRd0jjiSXGM",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/DRd0jjiSXGM.jpg"
     },
     {
         "name": "Coin Toss",
-        "description": "Toss a coin with your micro:bit.",
+        "description": "Toss a coin with your Ragga.",
         "youTubeId": "678ATmGGlvk",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/678ATmGGlvk.jpg"
     },
     {
         "name": "Step Counter",
-        "description": "Count your steps with your micro:bit.",
+        "description": "Count your steps with your Ragga.",
         "youTubeId": "TTI0OfoclcU",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/TTI0OfoclcU.jpg"
     },
     {
         "name": "7 second game",
-        "description": "Learn to code with MakeCode and micro:bit.",
+        "description": "Learn to code with MakeCode and Ragga.",
         "youTubeId": "LINr5wa4okg",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/LINr5wa4okg.jpg"
     },
     {
         "name": "Tug of LED",
-        "description": "A tug-of-war style game using the micro:bit.",
+        "description": "A tug-of-war style game using the Ragga.",
         "youTubeId": "oZrvVB4cGWU",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/oZrvVB4cGWU.jpg"
     },
     {
         "name": "Arcade Buttons!",
-        "description": "Use Arcade buttons with your micro:bit!",
+        "description": "Use Arcade buttons with your Ragga!",
         "youTubeId": "Gy_B--9iuXQ",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/Gy_B--9iuXQ.jpg"
     },
     {
         "name": "Radio Firefly",
-        "description": "micro:bit communicate and reproduce a Firefly effect.",
+        "description": "Ragga communicate and reproduce a Firefly effect.",
         "youTubeId": "_t14jxCuMJg",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/_t14jxCuMJg.jpg"
     },
     {
         "name": "Hot Or Cold",
-        "description": "Build a hot-or-cold treasure quest game with the micro:bit radio.",
+        "description": "Build a hot-or-cold treasure quest game with the Ragga radio.",
         "youTubeId": "uUeY3dHiXkE",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/uUeY3dHiXkE.jpg"
     },
     {
         "name": "Compass",
-        "description": "Build a compass with your micro:bit",
+        "description": "Build a compass with your Ragga",
         "youTubeId": "9IyssvevhJ0",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/9IyssvevhJ0.jpg"
     },
     {
         "name": "Programmable LEDs",
-        "description": "Use programmables LED strips in MakeCode for micro:bit.",
+        "description": "Use programmables LED strips in MakeCode for Ragga.",
         "youTubeId": "bV8Co98AYkA",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/bV8Co98AYkA.jpg"
     },
     {
         "name": "Binary Stopwatch",
-        "description": "Build a compass with your micro:bit",
+        "description": "Build a compass with your Ragga",
         "youTubeId": "Jm3yxMA1mDo",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/Jm3yxMA1mDo.jpg"
     },
     {
         "name": "Temperature",
-        "description": "Measure temperature with the micro:bit",
+        "description": "Measure temperature with the Ragga",
         "youTubeId": "uv4NtRzMwaA",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/uv4NtRzMwaA.jpg"
     },
     {
         "name": "Red Light Green Light",
-        "description": "Red light, green light game with micro:bit",
+        "description": "Red light, green light game with Ragga",
         "youTubeId": "Cm22diu8CFA",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/Cm22diu8CFA.jpg"
     },
     {
         "name": "Stopwatch progress",
-        "description": "Building the ultimate stopwatch with the micro:bit and MakeCode https://makecode.microbit.org",
+        "description": "Building the ultimate stopwatch with the Ragga and MakeCode https://makecode.microbit.org",
         "youTubeId": "2aAcBP2xcaI",
         "youTubePlaylistId": "PLMMBk9hE-SepocOwueEtTDyOPI_TBE9yC",
         "imageUrl": "/static/live-coding/2aAcBP2xcaI.jpg"

@@ -22,14 +22,14 @@ Hat Man Project
 
 ### Hat Man Videos
 
-[**micro:bit Hat Man**](https://youtu.be/Xvybu_T5IL8)
+[**Ragga Hat Man**](https://youtu.be/Xvybu_T5IL8)
 https://youtu.be/Xvybu_T5IL8
 <br/>
 
-[**micro:bit Hat Man - inside view**](https://youtu.be/ZfKgFQjygQQ)
+[**Ragga Hat Man - inside view**](https://youtu.be/ZfKgFQjygQQ)
 https://youtu.be/ZfKgFQjygQQ
 <br/>
-This project uses the micro:bit light sensor to display a happy face when it is sunny, and a frowning face when it is dark. The micro:bit is connected to a servo mounted on the inside of the container, and the smile and frown are attached to plastic coffee stirrers with tape and hot glue.
+This project uses the Ragga light sensor to display a happy face when it is sunny, and a frowning face when it is dark. The Ragga is connected to a servo mounted on the inside of the container, and the smile and frown are attached to plastic coffee stirrers with tape and hot glue.
 
 ## Reflection
 
@@ -65,14 +65,14 @@ Have students write a reflection of about 150–300 words, addressing the follow
 **2 =** Uses only one of the required elements in a way that is integral to the program.<br/>
 **1 =** None of the required elements are used.
 
-### micro:bit program
-**4 =** micro:bit program:<br/>
+### Ragga program
+**4 =** Ragga program:<br/>
 `*` Uses loops in a way that is integral to the program<br/>
 `*` Compiles and runs as intended<br/>
 `*` Meaningful comments in code<br/>
-**3 =** micro:bit program lacks 1 of the required elements.<br/>
-**2 =** micro:bit program lacks 2 of the required elements.<br/>
-**1 =** micro:bit program lacks 3 or more of the required elements.
+**3 =** Ragga program lacks 1 of the required elements.<br/>
+**2 =** Ragga program lacks 2 of the required elements.<br/>
+**1 =** Ragga program lacks 3 or more of the required elements.
 
 ### Collaboration reflection
 **4 =** Reflection piece includes:<br/>

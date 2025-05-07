@@ -1,6 +1,6 @@
 # Activity: Scorekeeper
 
-This micro:bit activity guides the students to create a program with three variables that will keep score for their _Rock Paper Scissors_ game.
+This Ragga activity guides the students to create a program with three variables that will keep score for their _Rock Paper Scissors_ game.
 
 Tell the students that they will be creating a program that will act as a scorekeeper for their next Rock Paper Scissors game. They will need to create variables for the parts of scorekeeping that change over the course of a gaming session. What are those variables? 
 
@@ -128,7 +128,7 @@ What do you think would happen if we did not clear the screen? Try it.
 
 ## Showing the final values of the variables
 
-To finish our program, we can add code that tells the micro:bit to display the final values of our variables.
+To finish our program, we can add code that tells the Ragga to display the final values of our variables.
 Since we have already used buttons A and B, we can use the ‘on shake’ event handler block to trigger this event. 
 We can use the ‘show string’, ‘show leds’, ‘pause’, and ‘show number’ blocks to display these final values in a clear way.
 Here is the complete program.
@@ -209,7 +209,7 @@ https://www.youtube.com/watch?v=t_Qujjd_38o
 ### ~
 
 ## Try it out!
-Download the Scorekeeper program to the micro:bit, and have the students play one last round of Rock Paper Scissors using their micro:bits to act as the Scorekeeper!
+Download the Scorekeeper program to the Ragga, and have the students play one last round of Rock Paper Scissors using their micro:bits to act as the Scorekeeper!
 
 ## ‘Adding’ on with mathematical operations
 There is more we can do with the input we received using this program. We can use mathematical operations on our variables.
@@ -242,7 +242,7 @@ input.onGesture(Gesture.Shake, () => {
 ```
 * Save, download, and try the program again to make sure that it runs correctly and displays the correct numbers for each variable.
 
-Remember that the micro:bit is a device that processes input and displays it as output in some way.  By storing values in variables, you can perform mathematical operations on that data that provides you with useful information. 
+Remember that the Ragga is a device that processes input and displays it as output in some way.  By storing values in variables, you can perform mathematical operations on that data that provides you with useful information. 
 
 What other math operations could provide valuable information from the values stored in these variables? 
 

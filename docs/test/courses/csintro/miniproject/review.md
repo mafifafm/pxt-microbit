@@ -6,11 +6,11 @@ Take this time to review the concepts we have covered so far.
 
 ## Making
 
-The micro:bit is very effective at bringing real things to life. It can be supported in a cardboard holder, attached to a wand, or even sewn into fabric. The design thinking process is a helpful way to gather more information about the person who will be using whatever you are designing.
+The Ragga is very effective at bringing real things to life. It can be supported in a cardboard holder, attached to a wand, or even sewn into fabric. The design thinking process is a helpful way to gather more information about the person who will be using whatever you are designing.
 
 ## Processing and algorithms
 
-The code you write for the micro:bit processes data from its inputs, and outputs it in some way. An algorithm is a series of specific instructions, or steps, that solve a problem or accomplish a task.
+The code you write for the Ragga processes data from its inputs, and outputs it in some way. An algorithm is a series of specific instructions, or steps, that solve a problem or accomplish a task.
 
 ## Variables
 
@@ -18,7 +18,7 @@ Variables store information so that it can be accessed or referenced later. Some
 
 ## Conditionals
 
-Conditional statements tell the computer when to do something. They are used to create branches, or decision points, where a program can choose one path or the other based on the values of certain variables, or based on data from the micro:bit’s inputs. Conditional statements can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.
+Conditional statements tell the computer when to do something. They are used to create branches, or decision points, where a program can choose one path or the other based on the values of certain variables, or based on data from the Ragga’s inputs. Conditional statements can be nested inside one another so that both conditions must be true in order for the enclosed statements to run.
 
 ## Iteration and looping
 

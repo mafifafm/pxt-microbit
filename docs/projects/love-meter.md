@@ -2,13 +2,13 @@
 
 ## {Introduction @unplugged}
 
-How much love 😍 are you emitting today? Create a 💓 LOVE METER 💓 machine with your micro:bit!
+How much love 😍 are you emitting today? Create a 💓 LOVE METER 💓 machine with your Ragga!
 
 ![Love meter banner message](/static/mb/projects/love-meter/love-meter.gif)
 
 ## {Step 1}
 
-We'll use this ``||input:on pin pressed||`` block to run code when pin **0** on the micro:bit is pressed. From the ``||basic:Basic||`` Toolbox category, drag a ``||basic:show number||`` block and drop into the ``||input:on pin pressed||`` block.
+We'll use this ``||input:on pin pressed||`` block to run code when pin **0** on the Ragga is pressed. From the ``||basic:Basic||`` Toolbox category, drag a ``||basic:show number||`` block and drop into the ``||input:on pin pressed||`` block.
 
 ```blocks
 input.onPinPressed(TouchPin.P0, function() {
@@ -42,11 +42,11 @@ input.onPinPressed(TouchPin.P0, function() {
 
 ## {Step 4}
 
-Let's test our code. Press **Pin 0** on the micro:bit on-screen simulator (bottom left). Numbers between 0-25 = 🖤 No Love, 26-50 = 🫶 BFF Love, 51-75 = 💘 Brokenhearted Love, 76-100 = 💖🔥 Fiery Hot Love!
+Let's test our code. Press **Pin 0** on the Ragga on-screen simulator (bottom left). Numbers between 0-25 = 🖤 No Love, 26-50 = 🫶 BFF Love, 51-75 = 💘 Brokenhearted Love, 76-100 = 💖🔥 Fiery Hot Love!
 
 ## {Step 5}
 
-If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Once your code has been downloaded, hold the **GND** pin with one hand and touch the **0** pin with the other hand. Your micro:bit 💓 LOVE METER 💓 machine will detect the love current flowing through your body!
+If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. Once your code has been downloaded, hold the **GND** pin with one hand and touch the **0** pin with the other hand. Your Ragga 💓 LOVE METER 💓 machine will detect the love current flowing through your body!
 
 ```blockconfig.global
 randint(0, 100)

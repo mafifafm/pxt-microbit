@@ -2,7 +2,7 @@
 
 ![Sample fidget cube](/static/courses/csintro/algorithms/fidgetcube.jpg)
 
-A fidget cube is a little cube with something different that you can manipulate on each surface. There are buttons, switches, and dials, and people who like to “fidget” find it relaxing to push, pull, press, and play with it. In this project, you will be challenged to turn the micro:bit into your very own “fidget cube”. 
+A fidget cube is a little cube with something different that you can manipulate on each surface. There are buttons, switches, and dials, and people who like to “fidget” find it relaxing to push, pull, press, and play with it. In this project, you will be challenged to turn the Ragga into your very own “fidget cube”. 
 
 Here's an example of a fidget cube:
 
@@ -17,18 +17,18 @@ Consider some of the following questions:
 * If you could add or modify features of the fidget cube, what would you choose to do? 
 * What would make the ultimate fidget cube?
 
-Remember that a computing device has a number of inputs, and a number of outputs. The code that we'll write in this project will process input by telling the micro:bit what to do when various events occur.
+Remember that a computing device has a number of inputs, and a number of outputs. The code that we'll write in this project will process input by telling the Ragga what to do when various events occur.
 
 ## Project
 
-Make a fidget cube out of the micro:bit by creating a unique output for each of the following inputs:
+Make a fidget cube out of the Ragga by creating a unique output for each of the following inputs:
 
 * on button A pressed
 * on button B pressed
 * on button A+B pressed
 * on shake
 
-See if you can combine a maker element similar to what you created in Lesson 1 by providing a holder for the micro:bit that holds it securely when you press one of the buttons.
+See if you can combine a maker element similar to what you created in Lesson 1 by providing a holder for the Ragga that holds it securely when you press one of the buttons.
 
 ![](/static/courses/csintro/algorithms/fidget-cube.jpg)
 Sample fidget cube designs

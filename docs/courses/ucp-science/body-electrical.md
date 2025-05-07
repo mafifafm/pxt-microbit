@@ -6,9 +6,9 @@ Electrical impulses in the body can be observed, measured, and recorded as waves
 
 ## Lesson concept
 
-### Use the micro:bit to measure impulses from the human body
+### Use the Ragga to measure impulses from the human body
 
-Watch this short video to see how to use a micro:bit to sense muscle movements in the body.
+Watch this short video to see how to use a Ragga to sense muscle movements in the body.
 
 https://youtu.be/vxlPQZIwYRc
 

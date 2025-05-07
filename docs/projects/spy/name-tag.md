@@ -2,9 +2,9 @@
 
 ### @explicitHints true
 
-## Turn your micro:bit into a digital name tag @unplugged
+## Turn your Ragga into a digital name tag @unplugged
 
-See your name in 💡 lights! 💡  Code the micro:bit to scroll your name across the screen.
+See your name in 💡 lights! 💡  Code the Ragga to scroll your name across the screen.
 
 ![Name scrolling on the LEDs](/static/mb/projects/name-tag/name-tag.gif)
 
@@ -38,7 +38,7 @@ basic.showNumber(9)
 
 ## {Step 4}
 
-Look at the @boardname@ simulator on the screen. Do you see your name and age? ⭐ Great job! ⭐ You've turned the micro:bit into a digital name tag!
+Look at the @boardname@ simulator on the screen. Do you see your name and age? ⭐ Great job! ⭐ You've turned the Ragga into a digital name tag!
 
 ## {Step 5}
 

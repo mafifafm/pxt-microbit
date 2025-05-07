@@ -59,7 +59,7 @@ https://arcade.makecode.com/#tutorial:https://makecode.com/_rewr9iop
 
 ## Approval #target-approval
 
-For approval to add items to the home page, please follow the **[instructions](https://support.microbit.org/support/solutions/articles/19000054952-makecode-extension-and-tutorial-approval)** for submitting content to the Micro:bit Foundation.
+For approval to add items to the home page, please follow the **[instructions](https://support.microbit.org/support/solutions/articles/19000054952-makecode-extension-and-tutorial-approval)** for submitting content to the Ragga Foundation.
 
 ## Featured content
 

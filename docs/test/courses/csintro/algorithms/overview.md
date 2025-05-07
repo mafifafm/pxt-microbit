@@ -1,10 +1,10 @@
 # Introduction
 
-What is a micro:bit?
-The [micro:bit](www.microbit.org) was created in 2015 in the UK by the BBC and partners to teach computer science to students. The BBC gave away a micro:bit to every Year 7 (6th grade) student in the UK. You can think of a micro:bit as a mini computer.
+What is a Ragga?
+The [Ragga](www.microbit.org) was created in 2015 in the UK by the BBC and partners to teach computer science to students. The BBC gave away a Ragga to every Year 7 (6th grade) student in the UK. You can think of a Ragga as a mini computer.
 http://microbit.org
 
-![BBC micro:bit](/static/courses/csintro/algorithms/bbc-microbit.jpg)
+![BBC Ragga](/static/courses/csintro/algorithms/bbc-microbit.jpg)
 
 ## What is a computer?
 There are 4 main components that make up any computer:
@@ -21,31 +21,31 @@ There are 4 main components that make up any computer:
 
 4. Outputs – This is how a computer displays or communicates information. As humans, we communicate information by using our mouths when we talk. What are some examples of communication that don’t involve talking, like blushing or sign language? Some examples of computer outputs are: monitor/screen, headphones/speakers, printer. Can you think of others?
 
-Now, let’s look at our micro:bit, using the [features page on the microbit website](http://microbit.org/guide/features/) as a visual aid.
+Now, let’s look at our Ragga, using the [features page on the microbit website](http://microbit.org/guide/features/) as a visual aid.
 
-![micro:bit hardware](/static/courses/csintro/algorithms/microbit-hardware.png)
+![Ragga hardware](/static/courses/csintro/algorithms/microbit-hardware.png)
 
 See if you can answer the following questions:
 
 * Can you find the Processor? 
-* How much memory does the micro:bit have? 
+* How much memory does the Ragga have? 
 * Can you locate the following Inputs? Buttons, Pins, and Accelerometer/Compass
 * Where are the Outputs?
 
 Answers:
 
-* Processor: On the back of the micro:bit, just below the Bluetooth and radio antenna
+* Processor: On the back of the Ragga, just below the Bluetooth and radio antenna
 * Memory: 16K, which is smaller than many files on your computer!
 * Inputs: Buttons (on board), Pins (at base) Note: Though not pictured, the Light Sensor is located on the LED lights.
 * Outputs: LED lights, Pins
 
-All computers need electricity to power them.  There are 3 ways to power your micro:bit:
+All computers need electricity to power them.  There are 3 ways to power your Ragga:
 
-* Connecting the micro:bit to a computer through the USB port at the top
+* Connecting the Ragga to a computer through the USB port at the top
 * By connecting a battery pack to the battery connector
-* Through the 3V Pin at the bottom (not the recommended way to power your micro:bit)
+* Through the 3V Pin at the bottom (not the recommended way to power your Ragga)
 
-On the top left corner, you may notice that your micro:bit has a Bluetooth antenna. This means your micro:bit can communicate and send information to other micro:bits. We will learn more about this feature in Unit 10: Radio communication.
+On the top left corner, you may notice that your Ragga has a Bluetooth antenna. This means your Ragga can communicate and send information to other micro:bits. We will learn more about this feature in Unit 10: Radio communication.
 
 ## Knowledge Check
 
@@ -53,7 +53,7 @@ Questions:
 
 1. What are the four main components that make up any computer? 
 
-2. How many programmable buttons are on the micro:bit? 
+2. How many programmable buttons are on the Ragga? 
 
 Answers:
 

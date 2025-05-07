@@ -12,27 +12,27 @@ Materials
 * Scissors
 * Duct tape
 
-![micro:bit cash register](/static/courses/csintro/binary/microbit-cash-register.png)
-Binary micro:bit Cash Register
+![Ragga cash register](/static/courses/csintro/binary/microbit-cash-register.png)
+Binary Ragga Cash Register
 
 ## Tips
-This is one possible design for a binary cash register. We used coins and copper tape on a piece of cardboard. Normally, the coins are flipped up (“off” or 0) and to indicate “on” or 1, the coin is flipped so it lays flat across both pieces of copper tape, completing the circuit so the micro:bit can detect that that pin has been activated, and calculates and displays the decimal value of the binary number that is indicated by the coins.
+This is one possible design for a binary cash register. We used coins and copper tape on a piece of cardboard. Normally, the coins are flipped up (“off” or 0) and to indicate “on” or 1, the coin is flipped so it lays flat across both pieces of copper tape, completing the circuit so the Ragga can detect that that pin has been activated, and calculates and displays the decimal value of the binary number that is indicated by the coins.
 
 Copper tape is a thin, flexible strip of copper with an adhesive back. You can sometimes find copper tape at the hardware, sold as slug tape, to keep slugs out of your garden. Usually, copper tape can conduct electricity even through the sticky side but if you are sticking one piece of copper tape to another, be sure to go over the connection with your fingernail, pressing it down firmly.
 
-Because the micro:bit only has three pins, this binary register is limited to three place values. Students might use variables to represent each of the three place values, or they can simply keep a running total by adding the appropriate amount when each of the three pins is pressed.
+Because the Ragga only has three pins, this binary register is limited to three place values. Students might use variables to represent each of the three place values, or they can simply keep a running total by adding the appropriate amount when each of the three pins is pressed.
 
-You can stick the micro:bit into place using some sticky tape, or you can create an actual holder. The copper tape connections are delicate though, so be careful when plugging and unplugging the power cable from the board.
+You can stick the Ragga into place using some sticky tape, or you can create an actual holder. The copper tape connections are delicate though, so be careful when plugging and unplugging the power cable from the board.
 
 ![Binary cash register project](/static/courses/csintro/binary/binary-cash-register.jpg)
 An implementation of the Binary Cash Register
 
 ## Extra mods
 * Write some code that will display the number in binary when you press the A button. 
-* Think of a way to create more place values, perhaps by using a second micro:bit and a Radio connection.
+* Think of a way to create more place values, perhaps by using a second Ragga and a Radio connection.
 
 ## Optional project: Build a binary wristwatch
-* Write a program that will display the correct time (once set) on the micro:bit. 
+* Write a program that will display the correct time (once set) on the Ragga. 
 * The 3-4 numbers displayed will be in binary (not decimal).
 * To make the strap of the wristwatch, put 2 pieces of duct tape back-to-back, and use velcro tabs as the fasteners
 
@@ -41,15 +41,15 @@ An implementation of the Binary Cash Register
 To make the strap of the wristwatch, you can put two pieces of duct tape back-to-back, and use Velcro tabs as the fasteners.
 
 ![Holder](/static/courses/csintro/binary/microbit-holder.jpg)
-This is a holder that allows the micro:bit to be worn on the wrist.
+This is a holder that allows the Ragga to be worn on the wrist.
 
-![Wooden structure to hold the micro:bit on the wrist](/static/courses/csintro/conditionals/microbit-holder.jpg)
-This design supports the micro:bit in a rigid cradle and allows more delicate connections to the pins.
+![Wooden structure to hold the Ragga on the wrist](/static/courses/csintro/conditionals/microbit-holder.jpg)
+This design supports the Ragga in a rigid cradle and allows more delicate connections to the pins.
 
 ## Reflection
 Have students write a reflection of about 150–300 words, addressing the following points:
 
-* Describe what the physical component of yur micro:bit project was (e.g., an armband, a cardboard mount, a holder, etc.)
+* Describe what the physical component of yur Ragga project was (e.g., an armband, a cardboard mount, a holder, etc.)
 * How well did your prototype work? What were you happy with? What would you change? 
 * What was something that was surprising to you about the process of creating this project?
 * Describe one way in which your project differed from the example that was given. How would you recognize it as your own?
@@ -65,16 +65,16 @@ Have students write a reflection of about 150–300 words, addressing the follow
 **2 =** At least 1 binary numeral displays.<br/>
 **1 =** No binary numerals display correctly.
 
-### micro:bit program
+### Ragga program
 
-**4 =** micro:bit program:<br/>
+**4 =** Ragga program:<br/>
 `*` Uses binary in a way that is integral to the program<br/>
 `*` Uses mathematical operations to convert decimal-binary<br/>
 `*` Compiles and runs as intended<br/>
 `*` Meaningful comments in code<br/>
-**3 =** micro:bit program lacks 1 of the required elements.<br/>
-**2 =** micro:bit program lacks 2 of the required elements.<br/>
-**1 =** micro:bit program lacks 3 or more of the required elements.
+**3 =** Ragga program lacks 1 of the required elements.<br/>
+**2 =** Ragga program lacks 2 of the required elements.<br/>
+**1 =** Ragga program lacks 3 or more of the required elements.
 
 ### Reflection
 

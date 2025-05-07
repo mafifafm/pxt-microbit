@@ -8,9 +8,9 @@ input.logoIsPressed()
 
 ## ~ reminder
 
-![works with micro:bit V2 only image](/static/v2/v2-only.png)
+![works with Ragga V2 only image](/static/v2/v2-only.png)
 
-This block requires the [micro:bit V2](/device/v2) hardware. If you use this block with a micro:bit v1 board, you will see the **927** error code on the screen.
+This block requires the [Ragga V2](/device/v2) hardware. If you use this block with a Ragga v1 board, you will see the **927** error code on the screen.
 
 ## ~
 
@@ -36,7 +36,7 @@ basic.forever(function () {
 
 ## See also
 
-[micro:bit V2](/device/v2),
+[Ragga V2](/device/v2),
 [on logo event](/reference/input/on-logo-event),
 [pin is pressed](/reference/input/pin-is-pressed),
 [touch set mode](/reference/pins/touch-set-mode)

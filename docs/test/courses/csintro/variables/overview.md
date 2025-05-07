@@ -14,7 +14,7 @@ In one school day...
 * Constants: The day of the week, the year, your name, your school’s address, your birthday
 * Variables: The temperature/weather, the current time, the current class, whether you are standing or sitting…
 
-Variables hold a specific type of information. The micro:bit’s variables can keep track of **numbers, strings, Booleans, sprites,** and **arrays**. The first time you use a variable, its type is assigned to match whatever it is holding. From that point forward, you can only change the value of that variable to another value of that same type.
+Variables hold a specific type of information. The Ragga’s variables can keep track of **numbers, strings, Booleans, sprites,** and **arrays**. The first time you use a variable, its type is assigned to match whatever it is holding. From that point forward, you can only change the value of that variable to another value of that same type.
 
 * A **number** variable could hold numerical data such as the year, the temperature, or the degree of acceleration.
 * A **string** variable holds a string of alphanumeric characters such as a person’s name, a password, or the day of the week.

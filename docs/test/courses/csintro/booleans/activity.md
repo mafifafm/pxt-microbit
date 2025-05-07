@@ -48,7 +48,7 @@ Leave the number variables at 0 and initialize the Boolean variables to 'false'.
  
 ## Random coin flips
 
-Let's use the micro:bit's *accelerometer* to mimic tossing a coin. The accelerometer measures the acceleration of your micro:bit; this component senses when the micro:bit is moved. It can also detect other actions like shake, tilt, and free fall. When the player shakes the micro:bit, we will code the micro:bit to give each of our Boolean variables a random true/false value.
+Let's use the Ragga's *accelerometer* to mimic tossing a coin. The accelerometer measures the acceleration of your Ragga; this component senses when the Ragga is moved. It can also detect other actions like shake, tilt, and free fall. When the player shakes the Ragga, we will code the Ragga to give each of our Boolean variables a random true/false value.
 
 * From the Input Toolbox drawer, drag an **'on shake'** block to the coding Workspace. Drag the two **'Set CoinAHeads'** and **'Set CoinBHeads'** blocks from the **'on start'** block into the **'on shake'** block.
 
@@ -99,7 +99,7 @@ Compare the current values of Coin A and Coin B: If the current true/false value
 * From the Logic Toolbox drawer, in the Comparison section, drag a **'0 = 0'** hexagon block to the coding Workspace and replace the 'true' hexagon in the **'if…then…else'** block. Then, from the Variables Toolbox drawer, drag a **'CoinAHeads'** variable to replace the first 0. You could drag the **'CoinBHeads'** variable to replace the second 0, but another option is to duplicate the **'CoinAHeads'** variable, snap it into the second 0, and use the drop-down menu to select **'CoinBHeads'** option.
 * To add a point to Player A's score, go to the Variables Toolbox drawer and drag a **'change (variable) by 1'** block into the **'then'** option and make sure it's set to the **'PlayerAScore'** variable. Then to give a visual cue that Player A got the point, go to the Basic Toolbox drawer, drag a **'show leds'** block and **'pause'** block onto the coding Workspace and connect them into the **'then'** option above the **'change PlayerBScore by 1'** block. In the **'show leds'** block, select the boxes to show the letter A.
 * Do the same for Player B in the 'else' option. Instead of dragging the needed blocks from the Toolbox drawers, duplicate the blocks and change the 'show leds' block and 'change PlayerAScore' variable accordingly.
-* To signify the end of the on-shake coin toss, let's show the two-coin image on the micro:bit again. From the Basic Toolbox drawer, drag a **'show leds'** block to the coding Workspace and connect it below the conditional blocks. Select the boxes to show the two coins.
+* To signify the end of the on-shake coin toss, let's show the two-coin image on the Ragga again. From the Basic Toolbox drawer, drag a **'show leds'** block to the coding Workspace and connect it below the conditional blocks. Select the boxes to show the two coins.
 * Now, test the code in the Simulator to make sure it works as intended.
 
 ```blocks
@@ -152,7 +152,7 @@ We'll use button A to do this.
 * From the Input Toolbox drawer, drag an 'on button A pressed' block to the coding Workspace. Duplicate the 'show leds' block with the letter A and connect it inside the 'on button A pressed' block. Then, from the Basic Toolbox drawer, drag the 'show number' block to the Workspace and connect it below the 'show leds' block.
 * From the Variables Toolbox drawer, drag a 'PlayerAScore' variable to replace the 0.
 * Let's add a pause before showing Player B's score. Use the drop-down menu and select 500 ms. Then, follow the previous steps to show Player B's score. Try to complete this without going into the Toolbox! Hint: Use duplicates and drop-down menus.
-* The final steps are to add another 500 ms pause and have the micro:bit show the double coins to signify it's ready for another on-shake coin toss.
+* The final steps are to add another 500 ms pause and have the Ragga show the double coins to signify it's ready for another on-shake coin toss.
 
 Here is the complete program for our Double Coin Flipper.
 
@@ -204,7 +204,7 @@ Solution link: [Random Coin Toss](https:/makecode.microbit.org/_YHuAxKere6vM)
 
 ## Test, Download, and Play! Try it out!
 
-Test your code on the Simulator. Then, download to the micro:bit and try it out! Play a few more rounds of the Double Coin Flip using your new micro:bit Double Coin Flipper!
+Test your code on the Simulator. Then, download to the Ragga and try it out! Play a few more rounds of the Double Coin Flip using your new Ragga Double Coin Flipper!
 
 ## Knowledge Check
 

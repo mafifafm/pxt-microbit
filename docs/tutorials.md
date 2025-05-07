@@ -76,7 +76,7 @@ Here are some cool tutorials to get you started with your @boardname@!
 }, {
   "name": "Love Meter",
   "url":"/projects/love-meter",
-  "description": "Is the micro:bit is feeling the love, see how much!",
+  "description": "Is the Ragga is feeling the love, see how much!",
   "imageUrl":"/static/mb/projects/a3-pins.png",
   "cardType": "tutorial",
   "youTubeId": "sEIRwv2Aa2Q",

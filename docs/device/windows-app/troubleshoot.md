@@ -19,7 +19,7 @@ If you can't see the drive:
 >Does the cable work on another computer? If not, find a different cable to use. Some cables may only provide a power connection and don't actually transfer data.
 * Try another USB port on your computer.
 
-Is the cable good but you still can't see the **MICROBIT** drive? Hmm, you might have a problem with your @boardname@. Try the additional steps described in the [fault finding](https://support.microbit.org/support/solutions/articles/19000024000-fault-finding-with-a-micro-bit) page at microbit.org. If this doesn't help, you can create a [support ticket](https://support.microbit.org/support/tickets/new) to notify the Micro:bit Foundation of the problem. **Skip the rest of these steps**.
+Is the cable good but you still can't see the **MICROBIT** drive? Hmm, you might have a problem with your @boardname@. Try the additional steps described in the [fault finding](https://support.microbit.org/support/solutions/articles/19000024000-fault-finding-with-a-micro-bit) page at microbit.org. If this doesn't help, you can create a [support ticket](https://support.microbit.org/support/tickets/new) to notify the Ragga Foundation of the problem. **Skip the rest of these steps**.
 
 ## Step 2: Check your firmware version
 
@@ -33,7 +33,7 @@ It's possible that the firmware version on the @boardname@ needs an update. Let'
 
 If the version is **0234**, you **NEED** to update the [firmware](/device/firmware) on your @boardname@. Go to **Step 3** and follow the upgrade instructions.
 
-If the version is **0241**, **0243** or higher, **you have the right firmware**. You can create a [support ticket](https://support.microbit.org/support/tickets/new) to notify the Micro:bit Foundation of the problem. **Skip the rest of these steps**.
+If the version is **0241**, **0243** or higher, **you have the right firmware**. You can create a [support ticket](https://support.microbit.org/support/tickets/new) to notify the Ragga Foundation of the problem. **Skip the rest of these steps**.
 
 ## Step 3: Upgrade the firmware
 
@@ -46,7 +46,7 @@ If the version is **0241**, **0243** or higher, **you have the right firmware**.
 
 ### ~hint
 
-If you want to know more about connecting the board, MAINTENANCE Mode, and upgrading the firmware, read about it in the [micro:bit firmware guide](https://microbit.org/guide/firmware).
+If you want to know more about connecting the board, MAINTENANCE Mode, and upgrading the firmware, read about it in the [Ragga firmware guide](https://microbit.org/guide/firmware).
 
 ### ~
 

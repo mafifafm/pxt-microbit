@@ -11,12 +11,12 @@ You will...
 * Practice creating Arrays.
 * Practice storing and retrieving values in Arrays.
 * Learn common Array operations such as setting and getting values by index.
-* Demonstrate understanding and apply skills by creating a musical instrument that uses a micro:bit and a program that correctly and effectively uses Arrays to store data.
+* Demonstrate understanding and apply skills by creating a musical instrument that uses a Ragga and a program that correctly and effectively uses Arrays to store data.
  
 ## Lesson structure
 * Introduction: Arrays
 * Unplugged Activity: Different sorts
-* micro:bit Activity: Headband charades, Starry Starry Night
+* Ragga Activity: Headband charades, Starry Starry Night
 * Project: Make a musical instrument
 * Assessment: Rubric 
 * Standards: Listed

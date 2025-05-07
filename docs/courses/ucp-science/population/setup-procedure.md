@@ -21,7 +21,7 @@ https://youtu.be/NNZEMiJHY2o
 
 ### MakeCode Programming Environment
 
-1. Open the MakeCode micro:bit editor in a browser at: @homeurl@.
+1. Open the MakeCode Ragga editor in a browser at: @homeurl@.
 2. Or download and use the [Windows 10 MakeCode](https://www.microsoft.com/store/apps/9PJC7SV48LCX) app.
 
 ### on Start event

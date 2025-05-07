@@ -1,6 +1,6 @@
 # Activity: Rock, paper, scissors
 
-In this micro:bit activity, you will create a *Rock, Paper, Scissor* game program with conditionals. In *Unit 3: Variables*, you coded your micro:bit to keep score, and in this unit you will code to play *Rock, Paper, Scissors* with the micro:bit.
+In this Ragga activity, you will create a *Rock, Paper, Scissor* game program with conditionals. In *Unit 3: Variables*, you coded your Ragga to keep score, and in this unit you will code to play *Rock, Paper, Scissors* with the Ragga.
 
 ![Rock, paper, scissors](/static/courses/csintro/conditionals/rock-paper-scissors-items.png)
 
@@ -16,7 +16,7 @@ ELSE display scissors icon.
 
 Because there are only three possibilities, we don’t need to do a separate check to see if random number = 2. So, we just use ELSE.
 
-## micro:bit
+## Ragga
 
 You should now have the information you need in order to begin coding a Rock, Paper, Scissors game on your own. If you get stuck, or if you would prefer to work along with a tutorial, you can find one here: [rock, paper, scissors](/projects/rock-paper-scissors) (steps 1 through 4)
 

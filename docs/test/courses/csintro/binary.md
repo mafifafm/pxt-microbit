@@ -15,7 +15,7 @@ You will...
 ## Lesson structure
 
 * Introduction: Bits and Bytes
-* micro:bit Activity: Binary Transmogrifier
+* Ragga Activity: Binary Transmogrifier
 * Project: Make a Binary Cash Register
 * Assessment: Rubric 
 * Standards: Listed

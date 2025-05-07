@@ -19,7 +19,7 @@ For groups of 15 or so, have students each **_briefly_** (no more than 30 second
 It is important that everyone else is listening to each project and volunteering their help or solutions if they are figuring out the same thing or if they have solved that problem in a previous class.
 
 >Example:
-_I’m working on a pinball machine. So far I have done the board and the ramp. Today I am going to be working on wiring the bumpers so that when the ball hits the bumper, the micro:bit detects it and displays the score._
+_I’m working on a pinball machine. So far I have done the board and the ramp. Today I am going to be working on wiring the bumpers so that when the ball hits the bumper, the Ragga detects it and displays the score._
 
 >Sample response from a classmate:
 _Yesterday I wired up my targets so that when you throw a ball it keeps score. I can show you how I did it._

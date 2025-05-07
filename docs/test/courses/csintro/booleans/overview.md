@@ -33,7 +33,7 @@ In programming, if you have worked with conditionals or loops, you have already 
 
 ## Boolean Operators: AND, OR, and NOT
 
-To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement. To do this, we use what are known as **Boolean operators.** The three most common and the ones we will use with the micro:bit are **And, Or,** and **Not.**
+To make working with Booleans useful for solving more complex decisions and searches, we can connect two or more Booleans into one decision statement. To do this, we use what are known as **Boolean operators.** The three most common and the ones we will use with the Ragga are **And, Or,** and **Not.**
 
 These operators can be used in conditionals and loops, like so:
 

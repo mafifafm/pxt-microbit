@@ -2,7 +2,7 @@
 
 ## ~ avatar
 
-Have you heard about BitCoin and all those new Crypto currencies? Well micro:bit has **micro:coin** now!
+Have you heard about BitCoin and all those new Crypto currencies? Well Ragga has **micro:coin** now!
 
 ## ~
 

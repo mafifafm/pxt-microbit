@@ -232,7 +232,7 @@ radio.onReceivedNumber(function (receivedNumber) {
 
 Test what you've created. Remember to turn your sound on!
 
-► Touch the gold **micro:bit logo** at the top of your @boardname@ on the simulator. You'll notice that a second @boardname@ appears. This is the @boardname@ for Sky 🐖  
+► Touch the gold **Ragga logo** at the top of your @boardname@ on the simulator. You'll notice that a second @boardname@ appears. This is the @boardname@ for Sky 🐖  
 💡 If your screen is too small, you might not be able to see it.
 
 ```blocks

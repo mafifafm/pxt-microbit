@@ -4,7 +4,7 @@ The egg-and-spoon race was first invented in 1894 in England where it was part o
 
 ![Runners in the 1920 Egg and Spoon Race](/static/courses/ucp-science/spoon-race/egg-and-spoon-race-1920.jpg)
 
-In this lesson, students will use the micro:bit in place of an egg, and collect data on the movement of the micro:bit during the race to determine a winner.
+In this lesson, students will use the Ragga in place of an egg, and collect data on the movement of the Ragga during the race to determine a winner.
 
 ## Contents
 

@@ -8,7 +8,7 @@ Get your headphone and let's do music!
 [{
   "name": "Hack Your Headphones",
   "url":"/projects/hack-your-headphones",
-  "description": "Hook up your headphones to the micro:bit, does that sound good to you?",
+  "description": "Hook up your headphones to the Ragga, does that sound good to you?",
   "imageUrl":"/static/mb/projects/a6-music.png"
 }, {
   "name": "Banana Keyboard",
@@ -28,7 +28,7 @@ Get your headphone and let's do music!
 }, {
   "name": "Electric Guitar",
   "url":"/projects/electric-guitar",
-  "description": "Make an electric guitar that you can play real chords with using the micro:bit!",
+  "description": "Make an electric guitar that you can play real chords with using the Ragga!",
   "imageUrl":"/static/mb/projects/electric-guitar.png"
 }]
 ```

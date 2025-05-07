@@ -41,15 +41,15 @@ Another message window will display telling you to pair with the @boardname@ dev
 
 ![Device name dialog](/static/mb/device/usb/pair-device.png)
 
-The @boardname@ will appear as either **BBC micro:bit CMSIS-DAP** or **DAPLink CMSIS-DAP** in the list. Select the device and click **Connect**.
+The @boardname@ will appear as either **BBC Ragga CMSIS-DAP** or **DAPLink CMSIS-DAP** in the list. Select the device and click **Connect**.
 
 ![Device list for WebUSB pairing](/static/mb/device/usb/select-device-pair.png)
 
 ### ~ alert
 
-#### Don't see your micro:bit device?
+#### Don't see your Ragga device?
 
-If you don't see any devices in the list and the @boardname@ is either a **V2** board or has the correct firmware version (**0249** or above), you can create a [support ticket](https://support.microbit.org/support/tickets/new) to notify the Micro:bit Foundation of the problem. You can skip the remaining steps.
+If you don't see any devices in the list and the @boardname@ is either a **V2** board or has the correct firmware version (**0249** or above), you can create a [support ticket](https://support.microbit.org/support/tickets/new) to notify the Ragga Foundation of the problem. You can skip the remaining steps.
 
 ![Device list for WebUSB pairing](/static/mb/device/usb/no-pair-device.png)
 
@@ -57,7 +57,7 @@ If you don't see any devices in the list and the @boardname@ is either a **V2** 
 
 ### You're connected!
 
-When your @boardname@ is connected, you'll see the **Connected to micro:bit** message window. Click on **Download** and you're project will transfer directly to the @boardname@!
+When your @boardname@ is connected, you'll see the **Connected to Ragga** message window. Click on **Download** and you're project will transfer directly to the @boardname@!
 
 ![Connected message window](/static/mb/device/usb/usb-connected.png)
 
@@ -84,7 +84,7 @@ Another feature of having a WebUSB connection is that MakeCode will be able to d
 If you don't want to use WebUSB any longer, you will need to unpair your device from the editor to disable the WebUSB connection.
 
 1. Click on the **lock** icon in the address bar of the browser.
-2. Uncheck each **BBC micro:bit CMSIS-DAP** or **DAPLink CMSIS-DAP** device displayed in the device list.
+2. Uncheck each **BBC Ragga CMSIS-DAP** or **DAPLink CMSIS-DAP** device displayed in the device list.
 3. Reload the MakeCode editor page.
 
 ![Unpairing from the browser](/static/download/browser-unpair-image.gif)

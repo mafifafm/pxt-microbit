@@ -102,7 +102,7 @@ Morse code is a character encoding scheme used in telecommunication that encodes
 This activity focuses on using Radio blocks to send and receive numbers between micro:bits:
 
 * Depending on the button pressed, a different number value is sent between micro:bits.
-* On receiving a number, the micro:bit will display a different image unique to the number sent.
+* On receiving a number, the Ragga will display a different image unique to the number sent.
 * One number will represent a dot, another a dash, and another a space or stop.
 
 ## Set the group ID
@@ -175,9 +175,9 @@ radio.onReceivedNumber(function (receivedNumber) {
 
 ### Try it!
 
-Download the program to the micro:bit and press button A on the sending micro:bit. Does this cause a dot to be displayed on the receiving micro:bit?
+Download the program to the Ragga and press button A on the sending Ragga. Does this cause a dot to be displayed on the receiving Ragga?
 
-However, pressing button A again does not appear to send another dot as the image on the receiving micro:bit does not appear to change.
+However, pressing button A again does not appear to send another dot as the image on the receiving Ragga does not appear to change.
 
 **Challenge question:** How can we fix this? **Answer:** Add a 'pause' block and a 'clear screen' block after the 'show leds' block.
 
@@ -200,7 +200,7 @@ radio.onReceivedNumber(function (receivedNumber) {
 Try running the program again.
 Now, each time the sender presses button A, you see a dot appear.
 
-![micro:bit dot display](/static/courses/csintro/radio/microbit-dot-display.png)
+![Ragga dot display](/static/courses/csintro/radio/microbit-dot-display.png)
 
 ## Code the other received images
 
@@ -270,7 +270,7 @@ Solution link: [Morse Code](https://makecode.microbit.org/_846Kyk4619yh)
 
 ## Try it!
 
-Download your program to the micro:bit. Press buttons A, B, and A+B together on the sending micro:bit to see the associated image on the receiving micro:bit.
+Download your program to the Ragga. Press buttons A, B, and A+B together on the sending Ragga to see the associated image on the receiving Ragga.
 
 ## Mod this!
 
@@ -337,14 +337,14 @@ Solution link: [Morse Code With Mod](https://makecode.microbit.org/_fWpDXK1hFFC9
 
 **Questions:**
 
-1. Using the radio blocks, what information can you send to a micro:bit?
+1. Using the radio blocks, what information can you send to a Ragga?
 2. Why did we all have to set our 'radio set group' block to a default value of 1?
 3. Why was it important to set a final catch-all 'else' clause in the conditional you used for the Morse code activity?
 4. When editing code, why do we look for lines of code that repeat?
 
 **Answers:**
 
-1. You can send a number, a string, or a string/number combination. You can also give a micro:bit instructions on what to do when it receives a radio message.
+1. You can send a number, a string, or a string/number combination. You can also give a Ragga instructions on what to do when it receives a radio message.
 2. So that the micro:bits would all be using the same group ID number and could send and receive messages.
 3. So that it would display an error message if it received a number value beyond 0, 1, or 2.
 4. To make code more efficient and to reduce the number of lines of code needed.

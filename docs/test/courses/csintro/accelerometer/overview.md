@@ -21,13 +21,13 @@ Note that whether the car speeds up or slows down, an acceleration occurs. Accel
 
 You measure acceleration with the *milli-g*, which is **1/1000 of a g**. A *g* is as much acceleration as you get from Earth’s gravity.
 
-The micro:bit measures the acceleration value (*milli g-force*) in **one of three dimensions** or the combined force in **all directions (x, y, and z)**.
+The Ragga measures the acceleration value (*milli g-force*) in **one of three dimensions** or the combined force in **all directions (x, y, and z)**.
 
-When the micro:bit is flat on a table with the screen pointing up, the gravity force is aligned with the Z axis of the micro:bit.
+When the Ragga is flat on a table with the screen pointing up, the gravity force is aligned with the Z axis of the Ragga.
 
 ![Three Axes Illustration](/test/static/courses/csintro/accelerometer/lowvelocityhighaccel.png)
 
-If you tilt it up and down, the force will align with the Y axis; this is how we can detect tilting! As the force along Y grows, the micro:bit is tilting more and more vertically.
+If you tilt it up and down, the force will align with the Y axis; this is how we can detect tilting! As the force along Y grows, the Ragga is tilting more and more vertically.
 
 ### Parameters
 
@@ -37,20 +37,20 @@ If you tilt it up and down, the force will align with the Y axis; this is how we
 * **z**: Acceleration in the up and down direction
 * **strength**: the resulting strength of acceleration from all three dimensions (directions)
 
-The micro:bit’s accelerometer also measures how fast the micro:bit is speeding up or slowing down as it moves through space.
+The Ragga’s accelerometer also measures how fast the Ragga is speeding up or slowing down as it moves through space.
 
 ### Output
 
 The accelerometer feature returns a number that represents the amount of acceleration.
 
-For example: When the micro:bit is lying flat on a surface with the screen pointing up:
+For example: When the Ragga is lying flat on a surface with the screen pointing up:
 
 **x** is 0
 **y** is 0
 **z** is -1023
 **strength** is 1023
 
-On the back of the micro:bit, look closely in the lower left corner for the accelerometer.
+On the back of the Ragga, look closely in the lower left corner for the accelerometer.
 
 ![Accelerometer](/test/static/courses/csintro/accelerometer/accelerometer.png)
 

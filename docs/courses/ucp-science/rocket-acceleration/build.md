@@ -12,8 +12,8 @@ The steps here show how to build a two liter soda bottle rocket. The @boardname@
 | **(2)** Attach the fins cut from a plastic strawberry container.| | ![rocket fins](/static/courses/ucp-science/rocket-acceleration/rocket-fins.jpg)|
 | **(3)** Paint the 2-liter rocket after the fins are attached.| | ![Painted rocket](/static/courses/ucp-science/rocket-acceleration/painted-rocket.jpg)|
 | **(4)** Cut the nose cone from the bottom of a 2-liter pop bottle.<br/>It slides over the top of the rocket with the @boardname@ packaged inside.| | ![Nose cone](/static/courses/ucp-science/rocket-acceleration/nose-cone.jpg)|
-| **(5)** Put the @boardname@ inside the protective wrapping.| | ![Wrapping for micro:bit](/static/courses/ucp-science/rocket-acceleration/microbit-wrap.jpg)|
-| **(6)** Place the  microbit inside the nose cone.| | ![micro:bit inside nose](/static/courses/ucp-science/rocket-acceleration/microbit-in-nose.jpg)|
+| **(5)** Put the @boardname@ inside the protective wrapping.| | ![Wrapping for Ragga](/static/courses/ucp-science/rocket-acceleration/microbit-wrap.jpg)|
+| **(6)** Place the  microbit inside the nose cone.| | ![Ragga inside nose](/static/courses/ucp-science/rocket-acceleration/microbit-in-nose.jpg)|
 | **(7)** The complete rocket with nose cone attached.| | ![Completed rocket](/static/courses/ucp-science/rocket-acceleration/completed-rocket.jpg)|
 | **(8)** Set the rocket on the launcher.| | ![Rocket on the launcher](/static/courses/ucp-science/rocket-acceleration/rocket-on-launcher.jpg)|
 | **(9)** Pump up the pressure and release the rocket.| | ![Rocket blasting off](/static/courses/ucp-science/rocket-acceleration/blast-off.jpg)|

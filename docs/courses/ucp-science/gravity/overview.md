@@ -33,7 +33,7 @@ Students will:
 
 * 2 @boardname@s with batteries connected
 
-![Two micro:bit showing 0 and 6](/static/courses/ucp-science/gravity/06.png)
+![Two Ragga showing 0 and 6](/static/courses/ucp-science/gravity/06.png)
 
 * A longer USB @boardname@ cable
 * Spreadsheet for data analysis
