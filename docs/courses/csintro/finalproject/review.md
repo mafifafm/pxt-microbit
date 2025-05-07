@@ -14,7 +14,7 @@ A Boolean is a data type that only has two possible values: True or False. You c
 Computers work with _base-2_, which uses binary numbers. Binary numbers only have two possible values: 0 or 1. 
  
 ## Radio communication
-A micro:bits can send a combination of strings and numbers using the Radio blocks. The [Infection](/projects/infection) activity is an example of a thought-provoking group simulation that uses the Radio to send and receive data between micro:bits.
+A Raggas can send a combination of strings and numbers using the Radio blocks. The [Infection](/projects/infection) activity is an example of a thought-provoking group simulation that uses the Radio to send and receive data between Raggas.
  
 ## Arrays
 Arrays in MakeCode are used to store and retrieve numbers, strings, musical notes, or sprites. Everything in a particular array needs to be the same data type and elements in an array are numbered starting from zero, also called the _index_. Objects can be accessed, changed, added to, or removed from an array using their index. Three common methods of sorting elements in an array are bubble sort, selection sort, and insertion sort.

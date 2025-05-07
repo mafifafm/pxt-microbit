@@ -2,7 +2,7 @@
 
 ## Ragga setup and coding concepts
 
-This document describes different methods using micro:bits to collect and record data for science experiments. There are several ways to collect data from an experiment. The simplest is having the data display on the LED screen and manually record the data on a paper. Data can also be collected using MakeCode. The third way is using 2 micro:bits with one observing the data and then radioing the results to a second Ragga so it can allow the remote collection of data.
+This document describes different methods using Raggas to collect and record data for science experiments. There are several ways to collect data from an experiment. The simplest is having the data display on the LED screen and manually record the data on a paper. Data can also be collected using MakeCode. The third way is using 2 Raggas with one observing the data and then radioing the results to a second Ragga so it can allow the remote collection of data.
 
 ### ~ hint
 
@@ -62,7 +62,7 @@ The graph is highlighted with the blue box. The **Download** button in the red h
 
 ### Option 3 - Remote radio collecting to receiving radio displaying
 
-Two micro:bits can be used to collect and record data using the radio commands. One Ragga can be setup remotely and the other Ragga can be used to observe the data. The first Ragga can send the data it observes to the second Ragga for the observer to record. To set up 2 micro:bits so they can communicate over the radio they need to be on the same radio group.
+Two Raggas can be used to collect and record data using the radio commands. One Ragga can be setup remotely and the other Ragga can be used to observe the data. The first Ragga can send the data it observes to the second Ragga for the observer to record. To set up 2 Raggas so they can communicate over the radio they need to be on the same radio group.
 
 #### Ragga radio sending code
 
@@ -114,21 +114,21 @@ radio.onReceivedNumber(function (receivedNumber) {
 
 ## Sample Project to Collect Accelerator Data
 
-This sample project demonstrates the coding of the 2 micro:bits to collect data from the Ragga accelerator sensor. It will also show the data collection and downloaded data to be further analyzed in a spreadsheet.
+This sample project demonstrates the coding of the 2 Raggas to collect data from the Ragga accelerator sensor. It will also show the data collection and downloaded data to be further analyzed in a spreadsheet.
 
 ### "Sender" Ragga code
 
 Code the first Ragga using MakeCode for Ragga. Name the project, "Gravity Sender".
 The ``||basic:on start||`` event will display the title and function of the Ragga in all caps, `"GRAVITY SENDER"`.
 
-Set up a radio group using the ``||radio:radio set group||``. Both micro:bits need the same radio group.
+Set up a radio group using the ``||radio:radio set group||``. Both Raggas need the same radio group.
 
 ```blocks
 basic.showString("GRAVITY SENDER")
 radio.setGroup(99)
 ```
 
-The ``||basic:forever||`` event will constantly monitor the _strength_ of the acceleration and send the value to any other micro:bits that might be receiving radio signals in the same radio group.
+The ``||basic:forever||`` event will constantly monitor the _strength_ of the acceleration and send the value to any other Raggas that might be receiving radio signals in the same radio group.
 Open the pull down menu in the ``||input:acceleration||`` block and and change the ``x`` value to the ``strength`` value. This maximizes the x, y, and z dimensions of the acceleration into one value.
 
 ```blocks
@@ -143,7 +143,7 @@ basic.forever(() => {
 
 Using the MakeCode, setup and code the second Ragga. This Ragga will remain connected to the computer through the USB cable to MakeCode and monitor the data being received.
 
-Name the project, "Gravity Receiver". The ``||basic:on start||`` event will display the title and function of the Ragga in all caps, `"GRAVITY RECEIVER"`. Add comments to the ``||basic:on start||`` event like before: Name the project, creator, and date created. Set up a radio group using the ``||radio:radio set group||`` block. Both micro:bits need the same radio group.
+Name the project, "Gravity Receiver". The ``||basic:on start||`` event will display the title and function of the Ragga in all caps, `"GRAVITY RECEIVER"`. Add comments to the ``||basic:on start||`` event like before: Name the project, creator, and date created. Set up a radio group using the ``||radio:radio set group||`` block. Both Raggas need the same radio group.
 
 ```blocks
 basic.showString("GRAVITY RECEIVER")

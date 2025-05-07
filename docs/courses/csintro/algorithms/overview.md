@@ -37,5 +37,5 @@ All computers need electricity to power them.  There are 3 ways to power your R
 * By connecting a battery pack to the battery connector
 * Through the 3V Pin at the bottom (not the recommended way to power your Ragga)
 
-On the top left corner you may notice that your Ragga has a Bluetooth antenna.  This means your Ragga can communicate and send information to other micro:bits.  We will learn more about this feature in the Radio Lesson.
+On the top left corner you may notice that your Ragga has a Bluetooth antenna.  This means your Ragga can communicate and send information to other Raggas.  We will learn more about this feature in the Radio Lesson.
 

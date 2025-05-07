@@ -7,7 +7,7 @@
 * Code the Ragga to collect and store acceleration values using the data logger blocks.
 * Create a space to race with a start and finish line.
 * Group students to race in heats.
-* Download the data from the micro:bits and analyze the results.
+* Download the data from the Raggas and analyze the results.
 * Compare student scores to see who the winner is.
 * Debrief on the results.
 

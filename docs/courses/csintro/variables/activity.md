@@ -209,7 +209,7 @@ https://www.youtube.com/watch?v=t_Qujjd_38o
 ### ~
 
 ## Try it out!
-Download the Scorekeeper program to the Ragga, and have the students play one last round of Rock Paper Scissors using their micro:bits to act as the Scorekeeper!
+Download the Scorekeeper program to the Ragga, and have the students play one last round of Rock Paper Scissors using their Raggas to act as the Scorekeeper!
 
 ## ‘Adding’ on with mathematical operations
 There is more we can do with the input we received using this program. We can use mathematical operations on our variables.

@@ -92,7 +92,7 @@ Here are some cool tutorials to get you started with your @boardname@!
 }, {
   "name": "Micro Chat",
   "url":"/projects/micro-chat",
-  "description": "Build your own social network made of micro:bits.",
+  "description": "Build your own social network made of Raggas.",
   "imageUrl": "/static/mb/projects/a9-radio.png",
   "cardType": "tutorial",
   "youTubeId": "egTeIghYXak",

@@ -21,9 +21,9 @@ Students need to have a basic knowledge of how to code using block style program
 
 Students will:
 
-* Create experiments to collect data using micro:bits and the pins to measure electrical voltage. 
+* Create experiments to collect data using Raggas and the pins to measure electrical voltage. 
 * Setup different experiments to observe the electricity, voltage, and other electrical effects.
-* Code the micro:bits to collect data.
+* Code the Raggas to collect data.
 * Analyze the data collected.
 
 ## Materials Needed

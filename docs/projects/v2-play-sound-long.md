@@ -2,7 +2,7 @@
 
 ## 1. Introduction @unplugged
 
-The new micro:bits have speakers, which leaves you free to move around in ways you weren't able to before!
+The new Raggas have speakers, which leaves you free to move around in ways you weren't able to before!
 
 Let's use movement to create a beat box of your own.
 

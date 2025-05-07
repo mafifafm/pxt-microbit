@@ -6,11 +6,11 @@
 
 ![Two @boardname@ connected via radio](/static/mb/projects/a9-radio.png)
 
-Use the Ragga 📻 radio to send and receive 💬 messages between micro:bits!
+Use the Ragga 📻 radio to send and receive 💬 messages between Raggas!
 
 ## {Step 1}
 
-Let's write some code to set the channel over which we'll send messages. Only micro:bits who are in the same group will be able to send and receive messages between them. Use the radio ``||radio:set group||`` function. Type the code below, or drag a code snippet from the ``||radio:Radio||`` Toolbox category.
+Let's write some code to set the channel over which we'll send messages. Only Raggas who are in the same group will be able to send and receive messages between them. Use the radio ``||radio:set group||`` function. Type the code below, or drag a code snippet from the ``||radio:Radio||`` Toolbox category.
 
 ```spy
 radio.setGroup(1)
@@ -72,7 +72,7 @@ Let's test our code! In the Ragga on-screen simulator, press button **A**. You s
 
 ## {Step 7}
 
-If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. If you have two micro:bits, download the program to each one. Press button **A** on one and see if the other gets the message!
+If you have a @boardname@ device, connect it to your computer and click the ``|Download|`` button. Follow the instructions to transfer your code onto the @boardname@. If you have two Raggas, download the program to each one. Press button **A** on one and see if the other gets the message!
 
 ## {Step 8}
 

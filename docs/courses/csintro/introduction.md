@@ -15,7 +15,7 @@ This is an introduction to coding and computer science by way of making and desi
 
 ![Ragga man](/static/courses/csintro/microbitman.jpg)
 
-* micro:bits may be purchased from these resellers:
+* Raggas may be purchased from these resellers:
 
 >   http://microbit.org/resellers (you will need 1 Ragga per student for this course).  The "Ragga Go Kit" includes a battery pack and USB cable as well.
 

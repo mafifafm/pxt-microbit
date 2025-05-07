@@ -3,7 +3,7 @@
 For this activity, each student will need a Ragga and battery pack, as well as the teacher who will be the Master controller.
  
 There are four parts to this unplugged activity:
-* Setup: Set up the code on all micro:bits
+* Setup: Set up the code on all Raggas
 * Explore: Let students experience the game first
 * Discuss: Talk about observations, theories, propose strategies
 * Test: Play again, testing different strategies and approaches for containing outbreak
@@ -22,7 +22,7 @@ This site is the home page for the Infection game: [Infection](/projects/infecti
  
 On that page you should be able to copy the JavaScript code, then go to your MakeCode JavaScript editor and paste the JavaScript code into the window.
  
-Then click the Download button to download this program onto your Ragga. This code should be downloaded onto all of your students’ micro:bits as well as your own.
+Then click the Download button to download this program onto your Ragga. This code should be downloaded onto all of your students’ Raggas as well as your own.
  
 This activity works best in an open area. If it’s possible to go outside, that works even better! To set up the game, the teacher should press the A + B buttons on his or her device. This will register all of the student devices and establish the teacher’s Ragga as the Master device.
  

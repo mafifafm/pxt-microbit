@@ -75,7 +75,7 @@ As a result, it will not convert back to blocks.
 /**
  * Infection game
  *
- * Flash all micro:bits with this script
+ * Flash all Raggas with this script
  *
  * Press A+B to enter master mode (1 per game)
  *

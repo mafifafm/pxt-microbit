@@ -2,18 +2,18 @@
 
 ![Marco Polo Cartoon](/static/courses/csintro/radio/marco-polo.png)
 
-Guide the students in creating programs that use the radio communication blocks to send and receive data between two micro:bits.
+Guide the students in creating programs that use the radio communication blocks to send and receive data between two Raggas.
 
 Notes:
-* When using the radio blocks, the Ragga simulator will show two micro:bits 
+* When using the radio blocks, the Ragga simulator will show two Raggas 
 * In the simulator, a radio transmission icon will appear in the top right corner of the Ragga. The icon will light up as the Ragga is transmitting data.
-* In the simulator, all the code in the coding workspace runs on both virtual micro:bits. You should include for how to send data as well as what to do when it receives data.
+* In the simulator, all the code in the coding workspace runs on both virtual Raggas. You should include for how to send data as well as what to do when it receives data.
 
 ## Marco Polo
-Send and receive strings between micro:bits.
+Send and receive strings between Raggas.
 On button A pressed, we will send the string Marco and on button B pressed we will send the string Polo.
 
-* When communicating between micro:bits, it is important that the micro:bits involved are all using the same group ID. So, the first thing we will do is set the group ID number.
+* When communicating between Raggas, it is important that the Raggas involved are all using the same group ID. So, the first thing we will do is set the group ID number.
 * From the Radio menu, drag a 'radio set group' block to the coding workspace and place the block into the on start block. 
 * In the 'radio set group block', leave the default value of 1 for the group ID
 
@@ -36,7 +36,7 @@ input.onButtonPressed(Button.B, () => {
     radio.sendString("Polo")
 })
 ```
-* To display the data sent between the micro:bits, drag an 'on radio received receivedString' block to the coding workspace
+* To display the data sent between the Raggas, drag an 'on radio received receivedString' block to the coding workspace
 * From the Basic Toolbox drawer, drag a 'show string' block into the 'on radio received receivedString' block
 * From the 'on radio received receivedString' block, drag the 'receivedString' variable block into the default string value of "Hello" in the 'show string' block 
 
@@ -87,8 +87,8 @@ basic.showLeds(`
 
 ## Morse Code
 
-Send and receive numbers between micro:bits. 
-Depending on the button pressed, send a different number value between micro:bits. On receiving a number, display a different image unique to the number sent. One number will represent a dot, another a dash and another a space or stop.
+Send and receive numbers between Raggas. 
+Depending on the button pressed, send a different number value between Raggas. On receiving a number, display a different image unique to the number sent. One number will represent a dot, another a dash and another a space or stop.
 
 ![Morse code alphabet](/static/courses/csintro/radio/morse.png)
 

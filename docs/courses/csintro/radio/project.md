@@ -2,7 +2,7 @@
 
 For this project, students should work in pairs to design a project that incorporates radio communication to send and receive data in some way. Some projects may have two separate programs: One that receives data, and one that sends data. Students might each choose to submit one program in that case.
 
-In other cases, a pair of students might submit one program that has both sending and receiving code in it, and the same code is uploaded to two or more micro:bits.
+In other cases, a pair of students might submit one program that has both sending and receiving code in it, and the same code is uploaded to two or more Raggas.
 
 ## Project Ideas
 
@@ -107,7 +107,7 @@ Radio Tennis racquets (made from cardboard)
 Have students write a reflection of about 150–300 words, addressing the following points:
 * What kind of Project did you do?  How did you decide what to pick?
 * How does your project use radio communication?
-* Are there separate programs for the Sender and the Receiver micro:bits?  Or 1 program for both?
+* Are there separate programs for the Sender and the Receiver Raggas?  Or 1 program for both?
 * Describe something in your project that you are proud of.
 * Describe a difficult point in the process of designing this program, and explain how you resolved it.
 * What feedback did your beta testers give you? How did that help you improve your design?

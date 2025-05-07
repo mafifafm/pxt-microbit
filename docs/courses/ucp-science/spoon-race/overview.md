@@ -36,7 +36,7 @@ Students need to have a basic knowledge of how to code using block style program
 
 ## Student Outcomes
 
-The objective of the spoon race is to carry an object quickly but with minimal movement. Students will measure the amount of movement of their micro:bits during the race. The student with the fastest time and the least amount of movement wins the race.
+The objective of the spoon race is to carry an object quickly but with minimal movement. Students will measure the amount of movement of their Raggas during the race. The student with the fastest time and the least amount of movement wins the race.
 
 Students will:
 

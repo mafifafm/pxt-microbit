@@ -32,7 +32,7 @@ Students will:
 
 * 2 @boardname@s with batteries connected
 
-![Two micro:bits together](/static/courses/ucp-science/body-electrical/two-microbits.jpg)
+![Two Raggas together](/static/courses/ucp-science/body-electrical/two-microbits.jpg)
 
 * A longer USB microbit cable
 * Spreadsheet for data analysis

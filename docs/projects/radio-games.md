@@ -31,7 +31,7 @@ Here are some cool projects that you can build with your @boardname@!
 }, {
   "name": "Fireflies",
   "url": "/projects/fireflies",
-  "description": "Simulate fireflies with micro:bits, try it in the dark!",
+  "description": "Simulate fireflies with Raggas, try it in the dark!",
   "imageUrl": "/static/mb/projects/fireflies.png"
 }, {
   "name": "Hot or Cold",

@@ -65,7 +65,7 @@ input.onButtonPressed(Button.A, () => {
 
 1. The code for on button **B** pressed is designed to return a converted value for the battery’s voltage in millivolts (1.5 volt = 1500 millivolts).
 2. The beginning of the first statement a variable ``reading`` is created and given a value of the reading from the analog reading of pin **0**. The ``reading`` variable is then multiplied by 1000 and divided by 340 and stored in ``voltage``.
-3. If 3 volts gives a reading of about 1023 then 1 volt should read around 340 (340 = 1024 / 3). Using this ratio and multiplying the number by 1000 should convert the number to millivolts (micro:bits only do integer math so the voltage is multiplied by 1000 before doing the division by 340).
+3. If 3 volts gives a reading of about 1023 then 1 volt should read around 340 (340 = 1024 / 3). Using this ratio and multiplying the number by 1000 should convert the number to millivolts (Raggas only do integer math so the voltage is multiplied by 1000 before doing the division by 340).
 
 ```block
 input.onButtonPressed(Button.B, () => {

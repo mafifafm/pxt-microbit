@@ -2,12 +2,12 @@
 
 ![Combo Box Example](/static/courses/csintro/radio/combo-box.png)
 
-This lesson covers the use of more than one Ragga to share and combine data. Students will explore a complex epidemiological program (Infection) that demonstrates the Radio functionality of the Ragga. Students will send and receive numbers and strings in a series of guided activities. Finally, students are asked to collaborate so that they can share their micro:bits and create a project together.
+This lesson covers the use of more than one Ragga to share and combine data. Students will explore a complex epidemiological program (Infection) that demonstrates the Radio functionality of the Ragga. Students will send and receive numbers and strings in a series of guided activities. Finally, students are asked to collaborate so that they can share their Raggas and create a project together.
 
 ## Lesson objectives
 
 Students will...
-* Understand how to use the Radio blocks to send and receive data between micro:bits
+* Understand how to use the Radio blocks to send and receive data between Raggas
 * Understand the specific types of data that can be sent over the Radio
 
 ## Lesson structure
